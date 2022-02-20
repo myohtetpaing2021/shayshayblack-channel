@@ -1,26 +1,26 @@
-#EXTINF:-1,MRTV 4
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
-
 #EXTINF:-1,Mahar TV
-http://maharlive.b-cdn.net/stream.m3u8
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
 
 #EXTINF:-1,Channel 7
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1,MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
 #EXTINF:-1,Mahar Bawdi
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
-#EXTINF:-1,MVTV Myanmar
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
+#EXTINF:-1,MRTV 4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
-#EXTINF:-1,MVTV
-https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
+#EXTINF:-1,MRTV HD
+http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 
-#EXTINF:-1,MVTV 2
-https://edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist.m3u8
+#EXTINF:-1,MVM
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 
 #EXTINF:-1,MVI Chinese
-https://edge1a.v2h-cdn.com/appt7/WSM.stream_720p/chunklist_.m3u8
+
 
 #EXTINF:-1,Five Channel
-https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist.m3u8
+
