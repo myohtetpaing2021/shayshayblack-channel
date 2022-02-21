@@ -4,8 +4,6 @@ http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
 https://stream.myanmartvchannels.com:999/website-5pluschannelsd/website-5pluschannelsd/chunks.m3u8?nimblesessionid=958710&amp;wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMCA1OjA3OjI1IFBNJmhhc2hfdmFsdWU9MUxUdnI5eFhUU1lMQzAxVlZ3aE9aZz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj00NQ==
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_081345.png"  group-title="မြန်မာဘာသာ", Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_081308.png"  group-title="မြန်မာဘာသာ", Channel 7
-https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080641.png"  group-title="မြန်မာဘာသာ", Channel 9
 http://220.158.149.14:9999/live/TV00000000000000000091@HHZT;LIVE
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_093751.jpg"  group-title="မြန်မာဘာသာ", Channel me
@@ -14,39 +12,15 @@ https://stream.myanmartvchannels.com:999/website-channelme/website-channelme/pla
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIwIDk6MDE6MDAgQU0maGFzaF92YWx1ZT1HenlIMUdHL1MxY1J4NjJjemROMG5BPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTMx
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_094241.png"  group-title="မြန်မာဘာသာ", Fortune TV
 http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080834.png"  group-title="မြန်မာဘာသာ", mntv
-http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_094310.png"  group-title="မြန်မာဘာသာ", mitv
 https://stream.myanmartvchannels.com:999/website-mitvchannelsd/website-mitvchannelsd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIwIDE6MDY6MTIgUE0maGFzaF92YWx1ZT0zcWM5cG42Y256K1ZLZkNYdnZoMExBPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTQz
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080431.png"  group-title="မြန်မာဘာသာ", Maharbawdi
-https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_081547.png"  group-title="မြန်မာဘာသာ", MRTV 4
-https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_081427.png"  group-title="မြန်မာဘာသာ", MRTV HD
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080353.png"  group-title="မြန်မာဘာသာ", HLUTTAW
 https://stream.myanmartvchannels.com:999/website-hluttawchannelsd/website-hluttawchannelsd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIwIDE6MDU6NTAgUE0maGFzaF92YWx1ZT1SOE1USnBXd0Q5N09hUnY1SStkNDdRPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTQ5
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_081225.png"  group-title="မြန်မာဘာသာ", DVB
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/Screenshot_2020-12-13-23-36-40.jpg"  group-title="မြန်မာဘာသာ", MWD HD
-http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/Screenshot_2020-12-13-17-43-01.jpg"  group-title="မြန်မာဘာသာ", MWD Movie HD
-http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_091837.jpg"  group-title="မြန်မာဘာသာ", MWD Serie HD
-http://203.81.84.130/hls/mwd_movie/index.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080544_1.png"  group-title="မြန်မာဘာသာ", MWD Variety HD
-http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080501.png"  group-title="မြန်မာဘာသာ", MWD Documentary HD
-http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-1.jpg"  group-title="မြန်မာဘာသာ", MWD Shopping HD
-http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3_3.jpg"  group-title="မြန်မာဘာသာ", MWD Family HD
-http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/611-cinemax.png"  group-title="မြန်မာဘာသာ", Cinemax (MM)
 http://live11.cookietv.com/live/172e104d-09f7-4d08-3f06-59fdSae54fe5/prod/gidlean/stream_2.m3u8
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/FB_IMG_1598368085690-picsay_4.jpg"  group-title="မြန်မာဘာသာ", Cookie Asia
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/1-picsay_4.jpg"  group-title="မြန်မာဘာသာ", Cookie Rerun
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-2_16.jpg"  group-title="မြန်မာဘာသာ", MVM
-https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
