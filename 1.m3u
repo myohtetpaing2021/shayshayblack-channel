@@ -1,207 +1,233 @@
-#EXTM3U
-#EXTINF:-1,AXN
-http://119.65.136.19:9981/stream/channelid/49?ticket=9CC4513F5FF509E8CD690FB3ECA2CBDCCA2291E3
-#EXTINF:-1,BTN불교TV
-http://119.65.136.19:9981/stream/channelid/74?ticket=7168084AA57620BA02A4C9BDDC0FC40421FCE23B
-#EXTINF:-1,CBS
-http://119.65.136.19:9981/stream/channelid/73?ticket=B6AC9F33714D964FB9FEA8643EAAED8A6B6311F6
-#EXTINF:-1,CJ온스타일
-http://119.65.136.19:9981/stream/channelid/28?ticket=ADE430A256210F06BD26479E6FE3D8912C99B2B7
-#EXTINF:-1,CJ온스타일+
-http://119.65.136.19:9981/stream/channelid/82?ticket=5B7FE10FE75A50D43E0905A2ADA00698E1075ECE
-#EXTINF:-1,CMC TV
-http://119.65.136.19:9981/stream/channelid/86?ticket=C70E0FC6A2347515224CEC08611A8895D3C3F070
-#EXTINF:-1,CNTV
-http://119.65.136.19:9981/stream/channelid/64?ticket=BFC40A6E9FD47F02C81FFAB632FC49E0B3D9DA8C
-#EXTINF:-1,CTS
-http://119.65.136.19:9981/stream/channelid/71?ticket=114A0E95E32782637E74927DD273C553B537F1B5
-#EXTINF:-1,EBS Digital
-http://119.65.136.19:9981/stream/channelid/17?ticket=064B98B73D3507D85001F5D8E142196B4F1EF25C
-#EXTINF:-1,EBS Digital 
-http://119.65.136.19:9981/stream/channelid/18?ticket=223538CFA741E318468A9D804026F7EE41004B81
-#EXTINF:-1,EBS플러스1
-http://119.65.136.19:9981/stream/channelid/98?ticket=4D5D7523D64F861DB9F82F787130D95D81FE3D08
-#EXTINF:-1,EBS플러스2
-http://119.65.136.19:9981/stream/channelid/93?ticket=19A6805FA71BECBD89CF1C60CAB87B350E32078A
-#EXTINF:-1,EDGE TV
-http://119.65.136.19:9981/stream/channelid/85?ticket=DB245D4D369315AEF64C8878067C40390EF664BA
-#EXTINF:-1,ETN연예
-http://119.65.136.19:9981/stream/channelid/53?ticket=DAB684810EBC183145727E2AE0B23D4279A6DBDE
-#EXTINF:-1,E채널
-http://119.65.136.19:9981/stream/channelid/95?ticket=3B3289385E6979932000272ADFDEC3BED3062B5D
-#EXTINF:-1,FOX채널
-http://119.65.136.19:9981/stream/channelid/99?ticket=47E6DCE9E7376E9BC8C98781CE99BF56F103AFB4
-#EXTINF:-1,FTV
-http://119.65.136.19:9981/stream/channelid/79?ticket=5838FC000D68AA326EA6A9A6F977863C657CE101
-#EXTINF:-1,FUN TV
-http://119.65.136.19:9981/stream/channelid/59?ticket=D50A7955FD24F1C1D972424F7AF8988FC7AD6957
-#EXTINF:-1,GS Shop
-http://119.65.136.19:9981/stream/channelid/29?ticket=3F539D3AD08EFA407D7C53AFD372075824804558
-#EXTINF:-1,GS마이샵
-http://119.65.136.19:9981/stream/channelid/66?ticket=F1907E766B7DE6F1E546128544D6121FB8EAA96C
-#EXTINF:-1,GTV
-http://119.65.136.19:9981/stream/channelid/6?ticket=B85023F0757F808C78AE1380BF8110EE60F52880
-#EXTINF:-1,JTBC2
-http://119.65.136.19:9981/stream/channelid/70?ticket=5A991C239FD559760C30BB30AD016F7398AD23D9
-#EXTINF:-1,JTBC3
-http://119.65.136.19:9981/stream/channelid/87?ticket=C06220C53CC20D3AEE6E6EBB492A818E38D7B67D
-#EXTINF:-1,JTBC4
-http://119.65.136.19:9981/stream/channelid/58?ticket=1288A941F2C1D1271E106B40747AA1A46C843B5A
-#EXTINF:-1,K star
-http://119.65.136.19:9981/stream/channelid/50?ticket=3CE66E66739CB95B288029E360E5563B600A9697
-#EXTINF:-1,KBS JOY
-http://119.65.136.19:9981/stream/channelid/77?ticket=AD55F8B7390DA3FF260F6274D43A32F018E684A2
-#EXTINF:-1,KBSN스포츠
-http://119.65.136.19:9981/stream/channelid/88?ticket=B387ED7629C1DC0CA2D747D07EE70243B4A57E1F
-#EXTINF:-1,KBS드라마
-http://119.65.136.19:9981/stream/channelid/2?ticket=01BB99E844263E330EDCFEB8BD373419FBB9E303
-#EXTINF:-1,KOREA NEW NETWORK
-http://119.65.136.19:9981/stream/channelid/19?ticket=84C5CE74660C1C3606CF42E5E9188058FDEA9A9F
-#EXTINF:-1,KTV
-http://119.65.136.19:9981/stream/channelid/34?ticket=8E92DE49428FA21A6268AE8FFED872F1225553D2
-#EXTINF:-1,K쇼핑
-http://119.65.136.19:9981/stream/channelid/30?ticket=F18F079E77BDCD5F360AE51ADC9695FD54D9573F
-#EXTINF:-1,M.net
-http://119.65.136.19:9981/stream/channelid/7?ticket=A8351EBF98CCD3251AF527693362557B69E42E21
-#EXTINF:-1,MBC DTV
-http://119.65.136.19:9981/stream/channelid/22?ticket=AA89296D719EE3D012431F2C3CB7C8E172C5F9A9
-#EXTINF:-1,MBC Eve
-http://119.65.136.19:9981/stream/channelid/102?ticket=BA413C2BC1E9823BBC3A690A2D1C5400A189814C
-#EXTINF:-1,MBC ON
-http://119.65.136.19:9981/stream/channelid/84?ticket=442EF6904642452F9852D956FB39FDA5479A53C1
-#EXTINF:-1,MBC드라마넷
-http://119.65.136.19:9981/stream/channelid/23?ticket=0048B285B6B6883BC7E9DAC418CDEFF4DA49B5D7
-#EXTINF:-1,MBC스포츠+
-http://119.65.136.19:9981/stream/channelid/89?ticket=26ADF1141FEAD8EB51AF903D91B3704FFB6A8A73
-#EXTINF:-1,MBN
-http://119.65.136.19:9981/stream/channelid/31?ticket=662AF40012FFE1565592C9F1FA2A85FF3C9B43C5
-#EXTINF:-1,Mplex
-http://119.65.136.19:9981/stream/channelid/57?ticket=9D72B6A3FAFFE91C1A8BB5249F102BC95DAEE9A8
-#EXTINF:-1,NHK프리미엄
-http://119.65.136.19:9981/stream/channelid/52?ticket=8E7751376BCA8A213C35B01821DB4BCDC228E161
-#EXTINF:-1,NS샵플러스
-http://119.65.136.19:9981/stream/channelid/72?ticket=514A9E2E798BA5A8E7CA81CDFDD01238BA386484
-#EXTINF:-1,NS홈쇼핑
-http://119.65.136.19:9981/stream/channelid/25?ticket=4B9A677FD8BBBB7EE6CEEFD9A14279F0CFA1AC9D
-#EXTINF:-1,OCN
-http://119.65.136.19:9981/stream/channelid/42?ticket=4836E1EB4DCF39D3CAC29D4336703F3A606FF385
-#EXTINF:-1,OCN무비즈
-http://119.65.136.19:9981/stream/channelid/10?ticket=CB273706B2DD7CA15079F3874A3BDB5D8C71773B
-#EXTINF:-1,OUN
-http://119.65.136.19:9981/stream/channelid/43?ticket=BC93BD57A4B6116FC7C47C8C0970D9EE82F28C56
-#EXTINF:-1,OtvN
-http://119.65.136.19:9981/stream/channelid/14?ticket=24EEFD395FD16C07FD23DB53FEFE78E2AFEB3D40
-#EXTINF:-1,SBS Biz
-http://119.65.136.19:9981/stream/channelid/16?ticket=919CE339ED86219F48E506F3F96F03DE0F6F62B6
-#EXTINF:-1,SBSfunE
-http://119.65.136.19:9981/stream/channelid/69?ticket=8297526BFCF40F69516A7E5EC4D33CACC532B40D
-#EXTINF:-1,SBS스포츠
-http://119.65.136.19:9981/stream/channelid/67?ticket=EC3F67B0015329E394E984EC8A9C67F3B8784EED
-#EXTINF:-1,SBS플러스
-http://119.65.136.19:9981/stream/channelid/36?ticket=4182D96783DBE349FC2C3FF88A50DDB06C47FB8C
-#EXTINF:-1,SK스토아
-http://119.65.136.19:9981/stream/channelid/45?ticket=916E7D06F1505D3481DECCCCCFD9C6CE8A00A7AD
-#EXTINF:-1,SPOTV
-http://119.65.136.19:9981/stream/channelid/8?ticket=6619B5F42DF2F09A95248C46C195232231497DAF
-#EXTINF:-1,SPOTV2
-http://119.65.136.19:9981/stream/channelid/103?ticket=58A0D35CBC626703643681A16EF1FF0175673F62
-#EXTINF:-1,TV아시아
-http://119.65.136.19:9981/stream/channelid/60?ticket=46023C44CBF5DB97D8173D0B030B69780199AA39
-#EXTINF:-1,TV조선
-http://119.65.136.19:9981/stream/channelid/41?ticket=BCD5C5AE3C25795EF7569D0B9B4490A86D18F864
-#EXTINF:-1,W쇼핑
-http://119.65.136.19:9981/stream/channelid/15?ticket=C3BC564FB4F55C26D8E5EE1677809B8C35BB516D
-#EXTINF:-1,XtvN
-http://119.65.136.19:9981/stream/channelid/62?ticket=9C0213AFA5E2B114036412477583DDC39FDE993E
-#EXTINF:-1,YTN
-http://119.65.136.19:9981/stream/channelid/47?ticket=A89428AB209780BAE8794C8BF1113E11E1D9EA17
-#EXTINF:-1,jTBC
-http://119.65.136.19:9981/stream/channelid/32?ticket=208DF428EADB1947698122C2E36BF583420D8D89
-#EXTINF:-1,tvN
-http://119.65.136.19:9981/stream/channelid/39?ticket=331D76990020954ACE52F61D099E76C959FF2CAB
-#EXTINF:-1,tvN스토리
-http://119.65.136.19:9981/stream/channelid/4?ticket=DC3DDBA1C32FF72D7916585F965FE2FC4636FC70
-#EXTINF:-1,가야방송
-http://119.65.136.19:9981/stream/channelid/24?ticket=D061A85F4BBFD8DF06DD2BD69B759AB339683DEE
-#EXTINF:-1,공영쇼핑
-http://119.65.136.19:9981/stream/channelid/48?ticket=AC86719399732E432C81B4B37C29C0621E9D9C84
-#EXTINF:-1,공지채널
-http://119.65.136.19:9981/stream/channelid/63?ticket=DF68E680DAB2303DA3E2AA244CF2F38EE979A8CF
-#EXTINF:-1,국회TV
-http://119.65.136.19:9981/stream/channelid/44?ticket=34BDEABB24F0E7290E56F5578F217A6B84636EE6
-#EXTINF:-1,다큐원
-http://119.65.136.19:9981/stream/channelid/97?ticket=3DEF37ACE0954D3D93BDF8A853598903E898C279
-#EXTINF:-1,더드라마
-http://119.65.136.19:9981/stream/channelid/12?ticket=88F2FF80E82F9DD667C1FB071F2147A821AEF625
-#EXTINF:-1,더라이프
-http://119.65.136.19:9981/stream/channelid/11?ticket=BAC31209D19678BF0F17A65493B7115D87343B27
-#EXTINF:-1,드라마큐브
-http://119.65.136.19:9981/stream/channelid/101?ticket=8F1080595A2A8C5949FCBFED42D2CF09D9010722
-#EXTINF:-1,드라맥스
-http://119.65.136.19:9981/stream/channelid/38?ticket=59A9D586640848B68A5A012CF09F9EF6438AE575
-#EXTINF:-1,롯데ONE T
-http://119.65.136.19:9981/stream/channelid/81?ticket=2EBBB5B8D76402123A4BB430AF5325875E4A7159
-#EXTINF:-1,롯데홈쇼핑
-http://119.65.136.19:9981/stream/channelid/26?ticket=29F7695D9687CC4D587601BAE8E5BE8A85DC132E
-#EXTINF:-1,바둑TV
-http://119.65.136.19:9981/stream/channelid/54?ticket=70AEC665C6B0ACC5AECF291F1C10604B5CC28093
-#EXTINF:-1,복지TV
-http://119.65.136.19:9981/stream/channelid/92?ticket=D3143CC6DCD38BE785E47E82B119BFA7EB427514
-#EXTINF:-1,부산 KBS1
-http://119.65.136.19:9981/stream/channelid/21?ticket=18D9010A7E1A90062A9DED3BDBBC010FDD4DB80E
-#EXTINF:-1,부산 KBS2
-http://119.65.136.19:9981/stream/channelid/20?ticket=327DE1EB4187F80E1C4B52AABB8CCA662DE57F8C
-#EXTINF:-1,뷰
-http://119.65.136.19:9981/stream/channelid/80?ticket=4063C25210D44B73E36F78B64AD8EC97A1E5DC9F
-#EXTINF:-1,상생TV
-http://119.65.136.19:9981/stream/channelid/13?ticket=9180C2A9F62A5B85D188B75B766FB156B63B25B8
-#EXTINF:-1,쇼핑엔T
-http://119.65.136.19:9981/stream/channelid/27?ticket=0346D9487DFEEF3C99D02210CB7C9A47F882BC45
-#EXTINF:-1,스카이드라마
-http://119.65.136.19:9981/stream/channelid/91?ticket=E3EE11445B4F272407164EB9DA0DED12304E0EAE
-#EXTINF:-1,스카이엔터
-http://119.65.136.19:9981/stream/channelid/75?ticket=90A1516F051575F5E696FD627AF9934C6EB4DED0
-#EXTINF:-1,스크린
-http://119.65.136.19:9981/stream/channelid/9?ticket=142C30D3FD21E202165E5F3001A277A3A23ADFE4
-#EXTINF:-1,신세계쇼핑
-http://119.65.136.19:9981/stream/channelid/1?ticket=3AB3DCB48E9E06313296BC27C24C0D0F71D41323
-#EXTINF:-1,아리랑TV
-http://119.65.136.19:9981/stream/channelid/100?ticket=65E054547C4A844DAF18BC7BB7D23877EA396BFC
-#EXTINF:-1,아이넷
-http://119.65.136.19:9981/stream/channelid/68?ticket=4A3C3A190262EC4185676DAB0B0DB005245D66A0
-#EXTINF:-1,연합뉴스TV
-http://119.65.136.19:9981/stream/channelid/46?ticket=A705229E1B3DE29E9346F3DFEA1922CC185CF033
-#EXTINF:-1,온스타일
-http://119.65.136.19:9981/stream/channelid/5?ticket=E093F4101F7A464561511E92F716ACFED929E7D2
-#EXTINF:-1,재능방송
-http://119.65.136.19:9981/stream/channelid/61?ticket=84D82F2DD99D68A0A8344D824D1B056C3C8B9848
-#EXTINF:-1,직업방송
-http://119.65.136.19:9981/stream/channelid/83?ticket=67E252276577BC8B04D3F5988C2AEFA86DE49D91
-#EXTINF:-1,채널 A
-http://119.65.136.19:9981/stream/channelid/40?ticket=D90957EB670D32876192317DCD43A38FBD53A3DA
-#EXTINF:-1,채널 J
-http://119.65.136.19:9981/stream/channelid/3?ticket=C9ECEAD9D86499A9A5993D8F277993023B4FE0FC
-#EXTINF:-1,채널S
-http://119.65.136.19:9981/stream/channelid/55?ticket=CB87475878418653F52FD54EFDE107B63BE3C4A9
-#EXTINF:-1,채널차이나
-http://119.65.136.19:9981/stream/channelid/96?ticket=D86DD62E9AD366F2D9D81F92AF184D5C5DFDEF5F
-#EXTINF:-1,채널칭
-http://119.65.136.19:9981/stream/channelid/51?ticket=D8122942FF3F0E05A1DDA450E9DA2F007C028344
-#EXTINF:-1,챔프
-http://119.65.136.19:9981/stream/channelid/94?ticket=A2AD3C9288C7557293AD9A7C6CC75A6AC73E84A6
-#EXTINF:-1,코미디TV
-http://119.65.136.19:9981/stream/channelid/37?ticket=BBA6BFC4C1F833E34CB0793D91593AC60BB863E7
-#EXTINF:-1,투니버스
-http://119.65.136.19:9981/stream/channelid/65?ticket=6896319629D6C4CBDCB0CDAB70C2235AE76955D0
-#EXTINF:-1,평화방송
-http://119.65.136.19:9981/stream/channelid/76?ticket=0BE3994B49617ED2766803EE20A3E588597568F4
-#EXTINF:-1,하이라이트TV
-http://119.65.136.19:9981/stream/channelid/56?ticket=C82D70B3B937B892E4F46123318AE3F6513FCAEF
-#EXTINF:-1,한국경제TV
-http://119.65.136.19:9981/stream/channelid/90?ticket=D54D7FE377AF9AE3511096CF93012DC0D115F5C8
-#EXTINF:-1,현대홈쇼핑
-http://119.65.136.19:9981/stream/channelid/35?ticket=1FA791E1C3FB3246808BC1E69065C5C080AA869A
-#EXTINF:-1,현대홈쇼핑+샵
-http://119.65.136.19:9981/stream/channelid/78?ticket=128F4CF0A811E40237CAD67E41C22CFD545AC10C
-#EXTINF:-1,홈앤쇼핑
-http://119.65.136.19:9981/stream/channelid/33?ticket=1A31A4683AF34D5F25360AE33ADA0F51FC7776E1
+#EXTM3U sonhp 2019-10-07 21:17:14
+#EXTINF:-1 tvg-id="vtv1" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/te4Rb7f.png" group-title="KÊNH VTV",VTV1 HD
+udp://@225.1.2.249:30120
+#EXTINF:-1 tvg-id="vtv2" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/KmngEnt.png" group-title="KÊNH VTV",VTV2 HD
+udp://@225.1.2.13:30120
+#EXTINF:-1 tvg-id="vtv3" tvg-name="VTV3 HD" tvg-logo="https://i.imgur.com/yNiXZri.png" group-title="KÊNH VTV",VTV3 HD
+udp://@225.1.2.247:30120
+#EXTINF:-1 tvg-id="vtv4" tvg-name="VTV4 HD" tvg-logo="https://i.imgur.com/WG3Wi0q.png" group-title="KÊNH VTV",VTV4 HD
+udp://@225.1.2.20:30120
+#EXTINF:-1 tvg-id="vtv5" tvg-name="VTV5 HD" tvg-logo="https://i.imgur.com/lOvwbNQ.png" group-title="KÊNH VTV",VTV5 HD
+udp://@225.1.1.131:30120
+#EXTINF:-1 tvg-id="vtv6" tvg-name="VTV6 HD" tvg-logo="https://i.imgur.com/QI4bFvX.png" group-title="KÊNH VTV",VTV6 HD
+udp://@225.1.2.245:30120
+#EXTINF:-1 tvg-id="vtv7" tvg-name="VTV7 HD" tvg-logo="https://i.imgur.com/z8m5lWk.png" group-title="KÊNH VTV",VTV7 HD
+udp://@225.1.2.96:30120
+#EXTINF:-1 tvg-id="vtv8" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/mIjvO6X.png" group-title="KÊNH VTV",VTV8 HD
+udp://@225.1.2.166:30120
+#EXTINF:-1 tvg-id="vtv9" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/GDP5zVb.png" group-title="KÊNH VTV",VTV9 HD
+udp://@225.1.1.128:30120
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/5Gtp7WP.png" group-title="KÊNH QUỐC TẾ",AXN HD
+udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/6YSLw8h.png" group-title="KÊNH QUỐC TẾ",HBO HD
+udp://@225.1.2.233:30120
+#EXTINF:-1 tvg-id="max_by_hbo" tvg-name="Max by HBO" tvg-logo="https://i.imgur.com/PklWJDL.png" group-title="KÊNH QUỐC TẾ",Max by HBO
+udp://@225.1.2.86:30120
+#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/9t7FsCk.png" group-title="KÊNH QUỐC TẾ",Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:-1 tvg-id="cartoon_network" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/nzvNMfP.png" group-title="KÊNH QUỐC TẾ",Cartoon Network HD
+udp://@225.1.2.231:30120
+#EXTINF:-1 tvg-id="discovery_asia" tvg-name="Discovery Asia HD" tvg-logo="https://i.imgur.com/blEhr2T.png" group-title="KÊNH QUỐC TẾ",Discovery Asia HD
+udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/fXuxFbz.png" group-title="KÊNH QUỐC TẾ",Discovery Channel HD
+udp://@225.1.1.238:30120
+#EXTINF:-1 tvg-id="fox_life" tvg-name="FOX Life" tvg-logo="https://i.imgur.com/8COzEQg.png" group-title="KÊNH QUỐC TẾ",FOX Life
+udp://@225.1.2.237:30120
+#EXTINF:-1 tvg-id="fox_movies" tvg-name="FOX Movies" tvg-logo="https://i.imgur.com/1bzBhnP.png" group-title="KÊNH QUỐC TẾ",FOX Movies
+udp://@225.1.2.239:30120
+#EXTINF:-1 tvg-id="fox_family_movies" tvg-name="FOX Family Movies" tvg-logo="https://i.imgur.com/8TuxjVp.png" group-title="KÊNH QUỐC TẾ",FOX Family Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="fox_sports" tvg-name="FOX Sports HD" tvg-logo="https://i.imgur.com/JsFd6Nl.png" group-title="KÊNH QUỐC TẾ",FOX Sports HD
+udp://@225.1.2.229:30120
+#EXTINF:-1 tvg-id="fox_sports2" tvg-name="FOX Sports 2 HD" tvg-logo="https://i.imgur.com/acCilxO.png" group-title="KÊNH QUỐC TẾ",FOX Sports 2 HD
+udp://@225.1.1.141:30120
+#EXTINF:-1 tvg-id="fox_sports3" tvg-name="FOX Sports 3 HD" tvg-logo="https://i.imgur.com/dhRuUbt.png" group-title="KÊNH QUỐC TẾ",FOX Sports 3 HD
+udp://@225.1.2.242:30120
+#EXTINF:-1 tvg-id="disney_channel" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/06F6gjj.png" group-title="KÊNH QUỐC TẾ",Disney Channel
+udp://@225.1.2.158:30120
+#EXTINF:-1 tvg-id="disney_junior" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/ZUBEPXt.png" group-title="KÊNH QUỐC TẾ",Disney Junior
+udp://@225.1.1.233:30120
+#EXTINF:-1 tvg-id="mtv_asia" tvg-name="MTV Asia" tvg-logo="https://i.imgur.com/gpWosop.png" group-title="KÊNH QUỐC TẾ",MTV Asia
+udp://@225.1.1.245:30120
+#EXTINF:-1 tvg-id="channel_v" tvg-name="Channel V" tvg-logo="https://i.imgur.com/BT8eRjq.png" group-title="KÊNH QUỐC TẾ",Channel V
+udp://@225.1.1.188:30120
+#EXTINF:-1 tvg-id="diva" tvg-name="DIVA" tvg-logo="https://i.imgur.com/OJNm5Vt.png" group-title="KÊNH QUỐC TẾ",DIVA
+udp://@225.1.1.199:30120
+#EXTINF:-1 tvg-id="da_vinci_kids" tvg-name="Da Vinci Kids" tvg-logo="https://i.imgur.com/ZkEEeM9.png" group-title="KÊNH QUỐC TẾ",Da Vinci Kids
+udp://@225.1.1.197:30120
+#EXTINF:-1 tvg-id="asian_food_channel" tvg-name="Asian Food Channel" tvg-logo="https://i.imgur.com/rQ3Sgrn.png" group-title="KÊNH QUỐC TẾ",Asian Food Channel
+udp://@225.1.1.198:30120
+#EXTINF:-1 tvg-id="outdoor_channel" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Z3xc8p1.png" group-title="KÊNH QUỐC TẾ",Outdoor Channel
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-id="fashion_tv" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/Zyy11Cs.png" group-title="KÊNH QUỐC TẾ",Fashion TV
+udp://@225.1.2.227:30120
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX HD" tvg-logo="https://i.imgur.com/cwVCPqN.png" group-title="KÊNH QUỐC TẾ",FOX HD
+udp://@225.1.1.51:30120
+#EXTINF:-1 tvg-id="national_geographic" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/cjx78kt.png" group-title="KÊNH QUỐC TẾ",National Geographic HD
+udp://@225.1.2.235:30120
+#EXTINF:-1 tvg-id="blue_ant_entertainment" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.imgur.com/BaZuGNL.png" group-title="KÊNH QUỐC TẾ",Blue Ant Entertainment
+udp://@225.1.1.203:30120
+#EXTINF:-1 tvg-id="blue_ant_extreme" tvg-name="Blue Ant Extreme" tvg-logo="https://i.imgur.com/EUHDtZ5.png" group-title="KÊNH QUỐC TẾ",Blue Ant Extreme
+udp://@225.1.1.204:30120
+#EXTINF:-1 tvg-id="warner_tv_hd" tvg-name="Warner TV HD" tvg-logo="https://i.imgur.com/z8Cm35k.png" group-title="KÊNH QUỐC TẾ",Warner TV HD
+udp://@225.1.1.139:30120
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC (Travel & Living)" tvg-logo="https://i.imgur.com/amlBPub.png" group-title="KÊNH QUỐC TẾ",TLC (Travel & Living)
+udp://@225.1.1.236:30120
+#EXTINF:-1 tvg-id="red_by_hbo" tvg-name="Red by HBO" tvg-logo="https://i.imgur.com/S3LHf04.png" group-title="KÊNH QUỐC TẾ",Red by HBO
+udp://@225.1.1.93:30120
+#EXTINF:-1 tvg-id="nhk_world" tvg-name="NHK World" tvg-logo="https://i.imgur.com/OV5nhkM.png" group-title="KÊNH QUỐC TẾ",NHK World
+udp://@225.1.1.47:30120
+#EXTINF:-1 tvg-id="bbc_earth" tvg-name="BBC EARTH" tvg-logo="https://i.imgur.com/3sQunND.png" group-title="KÊNH QUỐC TẾ",BBC EARTH
+udp://@225.1.2.24:30120
+#EXTINF:-1 tvg-id="bbc_lifestyle" tvg-name="BBC LIFESTYLE" tvg-logo="https://i.imgur.com/wwTUVYP.png" group-title="KÊNH QUỐC TẾ",BBC LIFESTYLE
+udp://@225.1.2.52:30120
+#EXTINF:-1 tvg-id="bbc_world_news" tvg-name="BBC WORLD NEWS" tvg-logo="https://i.imgur.com/9ZqIRg1.png" group-title="KÊNH QUỐC TẾ",BBC WORLD NEWS
+udp://@225.1.2.74:30120
+#EXTINF:-1 tvg-id="baby_tv_hd" tvg-name="Baby TV HD" tvg-logo="https://i.imgur.com/s28XuHs.png" group-title="KÊNH QUỐC TẾ",Baby TV HD
+udp://@225.1.2.146:30120
+#EXTINF:-1 tvg-id="abc_australia" tvg-name="ABC AUSTRALIA" tvg-logo="https://i.imgur.com/0OrWtJm.png" group-title="KÊNH QUỐC TẾ",ABC AUSTRALIA
+udp://@225.1.2.21:30120
+#EXTINF:-1 tvg-id="kix_hd" tvg-name="KIX HD" tvg-logo="https://i.imgur.com/CVxACz9.png" group-title="KÊNH QUỐC TẾ",KIX HD
+udp://@225.1.2.144:30120
+#EXTINF:-1 tvg-id="cinema_world_hd" tvg-name="CINEMA WORLD HD" tvg-logo="https://i.imgur.com/KcEAjUh.png" group-title="KÊNH QUỐC TẾ",CINEMA WORLD HD
+udp://@225.1.1.142:30120
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://i.imgur.com/BvjmYtr.png" group-title="KÊNH HTV",HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 tvg-id="htv2" tvg-name="HTV2 HD" tvg-logo="https://i.imgur.com/12qnM2B.png" group-title="KÊNH HTV",HTV2 HD
+udp://@225.1.1.193:30120
+#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://i.imgur.com/8GOohTX.png" group-title="KÊNH HTV",HTV3
+udp://@225.1.1.178:30120
+#EXTINF:-1 tvg-id="htv4" tvg-name="HTV4" tvg-logo="https://i.imgur.com/JBNgrHU.png" group-title="KÊNH HTV",HTV4
+udp://@225.1.1.177:30120
+#EXTINF:-1 tvg-id="htv7" tvg-name="HTV7 HD" tvg-logo="https://i.imgur.com/EPZzYTx.png" group-title="KÊNH HTV",HTV7 HD
+udp://@225.1.1.192:30120
+#EXTINF:-1 tvg-id="htv9" tvg-name="HTV9 HD" tvg-logo="https://i.imgur.com/vMxj1BX.png" group-title="KÊNH HTV",HTV9 HD
+udp://@225.1.1.190:30120
+#EXTINF:-1 tvg-id="htv_the_thao" tvg-name="HTV Thể Thao" tvg-logo="https://i.imgur.com/gSnnXza.png" group-title="KÊNH HTV",HTV Thể Thao
+udp://@225.1.1.165:30120
+#EXTINF:-1 tvg-id="htv_the_thao" tvg-name="HTV Thể Thao HD" tvg-logo="https://i.imgur.com/gSnnXza.png" group-title="KÊNH HTV",HTV Thể Thao HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="htvc_plus_hd" tvg-name="HTVC+ HD" tvg-logo="https://i.imgur.com/vNp7k14.png" group-title="KÊNH HTV",HTVC+ HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="htvc_phim_hd" tvg-name="HTVC Phim HD" tvg-logo="https://i.imgur.com/qQSl5rD.png" group-title="KÊNH HTV",HTVC Phim HD
+udp://@225.1.1.184:30120
+#EXTINF:-1 tvg-id="htvc_gia_dinh" tvg-name="HTVC Gia Đình" tvg-logo="https://i.imgur.com/EAv5N7c.png" group-title="KÊNH HTV",HTVC Gia Đình
+udp://@225.1.1.170:30120
+#EXTINF:-1 tvg-id="htvc_gia_dinh" tvg-name="HTVC Gia Đình HD" tvg-logo="https://i.imgur.com/EAv5N7c.png" group-title="KÊNH HTV",HTVC Gia Đình HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" tvg-name="HTVC Du Lịch & Cuộc Sống" tvg-logo="https://i.imgur.com/GWGhPu7.png" group-title="KÊNH HTV",HTVC Du Lịch & Cuộc Sống
+udp://@225.1.1.166:30120
+#EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" tvg-name="HTVC Du Lịch & Cuộc Sống HD" tvg-logo="https://i.imgur.com/GWGhPu7.png" group-title="KÊNH HTV",HTVC Du Lịch & Cuộc Sống HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8?
+#EXTINF:-1 tvg-id="htvc_phu_nu" tvg-name="HTVC Phụ Nữ" tvg-logo="https://i.imgur.com/pTuBwDS.png" group-title="KÊNH HTV",HTVC Phụ Nữ
+udp://@225.1.1.171:30120
+#EXTINF:-1 tvg-id="htvc_phu_nu" tvg-name="HTVC Phụ Nữ HD" tvg-logo="https://i.imgur.com/pTuBwDS.png" group-title="KÊNH HTV",HTVC Phụ Nữ HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8?
+#EXTINF:-1 tvg-id="htvc_thuan_viet_hd" tvg-name="HTVC Thuần Việt HD" tvg-logo="https://i.imgur.com/jOeEfm6.png" group-title="KÊNH HTV",HTVC Thuần Việt HD
+udp://@225.1.1.186:30120
+#EXTINF:-1 tvg-id="htvc_thuan_viet" tvg-name="HTVC Thuần Việt" tvg-logo="https://i.imgur.com/qSzadDW.png" group-title="KÊNH HTV",HTVC Thuần Việt
+udp://@225.1.1.174:30120
+#EXTINF:-1 tvg-id="htvc_ca_nhac" tvg-name="HTVC Ca Nhạc HD" tvg-logo="https://i.imgur.com/WltXVFn.png" group-title="KÊNH HTV",HTVC Ca Nhạc HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8?
+#EXTINF:-1 tvg-id="htvc_fbnc" tvg-name="FBNC HD" tvg-logo="https://i.imgur.com/Ekn8jdW.png" group-title="KÊNH HTV",FBNC HD
+udp://@225.1.1.182:30120
+#EXTINF:-1 tvg-id="htvc_coop" tvg-name="HTVC CO.OP" tvg-logo="" group-title="KÊNH HTV",HTVC CO.OP
+udp://@225.1.1.210:30120
+#EXTINF:-1 tvg-id="htvc_vgs_shop" tvg-name="HTVC VGS SHOP" tvg-logo="" group-title="KÊNH HTV",HTVC VGS SHOP
+udp://@225.1.1.172:30120
+#EXTINF:-1 tvg-id="vtc1" tvg-name="VTC1 HD" tvg-logo="" group-title="KÊNH VTC",VTC1 HD
+udp://@225.1.2.254:30120
+#EXTINF:-1 tvg-id="vtc2" tvg-name="VTC2 HD" tvg-logo="" group-title="KÊNH VTC",VTC2 HD
+udp://@225.1.2.202:30120
+#EXTINF:-1 tvg-id="vtc3" tvg-name="VTC3 HD" tvg-logo="" group-title="KÊNH VTC",VTC3 HD
+udp://@225.1.2.251:30120
+#EXTINF:-1 tvg-id="vtc4_yeah1_family" tvg-name="VTC4 Yeah1 Family HD" tvg-logo="" group-title="KÊNH VTC",VTC4 Yeah1 Family HD
+udp://@225.1.2.200:30120
+#EXTINF:-1 tvg-id="vtc5" tvg-name="VTC5 HD" tvg-logo="" group-title="KÊNH VTC",VTC5 HD
+udp://@225.1.2.199:30120
+#EXTINF:-1 tvg-id="vtc6" tvg-name="VTC6 HD" tvg-logo="" group-title="KÊNH VTC",VTC6 HD
+udp://@225.1.2.198:30120
+#EXTINF:-1 tvg-id="vtc7_today_tv" tvg-name="VTC7 Today TV HD" tvg-logo="" group-title="KÊNH VTC",VTC7 Today TV HD
+udp://@225.1.2.197:30120
+#EXTINF:-1 tvg-id="vtc8" tvg-name="VTC8" tvg-logo="" group-title="KÊNH VTC",VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 tvg-id="vtc9_lets_viet" tvg-name="VTC9 Let's Viet HD" tvg-logo="" group-title="KÊNH VTC",VTC9 Let's Viet HD
+udp://@225.1.2.195:30120
+#EXTINF:-1 tvg-id="vtc10" tvg-name="VTC10 HD" tvg-logo="" group-title="KÊNH VTC",VTC10 HD
+udp://@225.1.2.194:30120
+#EXTINF:-1 tvg-id="vtc11_kids_tv" tvg-name="VTC11 Kids TV" tvg-logo="" group-title="KÊNH VTC",VTC11 Kids TV
+udp://@225.1.2.193:30120
+#EXTINF:-1 tvg-id="vtc12" tvg-name="VTC12" tvg-logo="" group-title="KÊNH VTC",VTC12
+udp://@225.1.2.192:30120
+#EXTINF:-1 tvg-id="vtc13" tvg-name="VTC13 HD" tvg-logo="" group-title="KÊNH VTC",VTC13 HD
+udp://@225.1.2.250:30120
+#EXTINF:-1 tvg-id="vtc14" tvg-name="VTC14 HD" tvg-logo="" group-title="KÊNH VTC",VTC14 HD
+udp://@225.1.2.88:30120
+#EXTINF:-1 tvg-id="vtc16" tvg-name="VTC16 HD" tvg-logo="" group-title="KÊNH VTC",VTC16 HD
+udp://@225.1.2.190:30120
+#EXTINF:-1 tvg-id="thvl1" tvg-name="THVL1 - Vĩnh Long 1 HD" tvg-logo="https://i.imgur.com/4xBOSHL.png" group-title="KÊNH ĐỊA PHƯƠNG",THVL1 - Vĩnh Long 1 HD
+udp://@225.1.1.155:30120
+#EXTINF:-1 tvg-id="thvl2" tvg-name="THVL2 - Vĩnh Long 2 HD" tvg-logo="https://i.imgur.com/vyaRrX6.png" group-title="KÊNH ĐỊA PHƯƠNG",THVL2 - Vĩnh Long 2 HD
+udp://@225.1.1.154:30120
+#EXTINF:-1 tvg-id="thvl3" tvg-name="THVL3 - Vĩnh Long 3 HD" tvg-logo="https://i.imgur.com/N79gMEd.png" group-title="KÊNH ĐỊA PHƯƠNG",THVL3 - Vĩnh Long 3 HD
+udp://@225.1.1.235:30120
+#EXTINF:-1 tvg-id="ttxvn" tvg-name="TTXVN - Thông Tấn Xã VN HD" tvg-logo="https://i.imgur.com/7uV8top.png" group-title="KÊNH CHUYÊN BIỆT",TTXVN - Thông Tấn Xã VN HD
+udp://@225.1.1.43:30120
+#EXTINF:-1 tvg-id="antv" tvg-name="ANTV - An Ninh TV HD" tvg-logo="https://i.imgur.com/5qQzerW.png" group-title="KÊNH CHUYÊN BIỆT",ANTV - An Ninh TV HD
+udp://@225.1.2.169:30120
+#EXTINF:-1 tvg-id="nhan_dan_tv" tvg-name="Nhân Dân TV HD" tvg-logo="https://i.imgur.com/rswzxzG.png" group-title="KÊNH CHUYÊN BIỆT",Nhân Dân TV HD
+udp://@225.1.1.91:30120
+#EXTINF:-1 tvg-id="quoc_hoi_tv" tvg-name="Quốc Hội TV HD" tvg-logo="https://i.imgur.com/IqErj7W.png" group-title="KÊNH CHUYÊN BIỆT",Quốc Hội TV HD
+udp://@225.1.2.148:30120
+#EXTINF:-1 tvg-id="quoc_phong_tv" tvg-name="QPTV - Quốc Phòng VN HD" tvg-logo="https://i.imgur.com/yLQfmkW.png" group-title="KÊNH CHUYÊN BIỆT",QPTV - Quốc Phòng VN HD
+udp://@225.1.2.217:30120
+#EXTINF:-1 tvg-id="sctv10" tvg-name="SCTV10" tvg-logo="" group-title="SCTV",SCTV10
+udp://@225.1.2.205:30120
+#EXTINF:-1 tvg-id="btv9_an_vien" tvg-name="BTV9 - An Viên HD" tvg-logo="" group-title="AN VIÊN",BTV9 - An Viên HD
+udp://@225.1.2.189:30120
+#EXTINF:-1 tvg-id="btv6_viet_teen" tvg-name="BTV6 - Việt Teen" tvg-logo="" group-title="AN VIÊN",BTV6 - Việt Teen
+udp://@225.1.1.223:30120
+#EXTINF:-1 tvg-id="btv10_ncm" tvg-name="BTV10 - NCM" tvg-logo="" group-title="AN VIÊN",BTV10 - NCM
+udp://@225.1.1.225:30120
+#EXTINF:-1 tvg-id="btv11_sam" tvg-name="BTV11 - SAM" tvg-logo="" group-title="AN VIÊN",BTV11 - SAM
+udp://@225.1.1.224:30120
+#EXTINF:-1 tvg-id="hanoitv1" tvg-name="Hà Nội 1 HD" tvg-logo="https://i.imgur.com/GhJ0JTH.png" group-title="KÊNH ĐỊA PHƯƠNG",Hà Nội 1 HD
+udp://@225.1.2.186:30120
+#EXTINF:-1 tvg-id="hanoitv2" tvg-name="Hà Nội 2 HD" tvg-logo="https://i.imgur.com/OogZeGW.png" group-title="KÊNH ĐỊA PHƯƠNG",Hà Nội 2 HD
+udp://@225.1.1.125:30120
+#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://i.imgur.com/iIrAEGx.png" group-title="KÊNH QUỐC TẾ",Arirang
+udp://@225.1.1.201:30120
+#EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="" group-title="KÊNH QUỐC TẾ",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://i.imgur.com/krupazx.png" group-title="KÊNH QUỐC TẾ",CNN
+udp://@225.1.1.242:30120
+#EXTINF:-1 tvg-id="vovtv" tvg-name="VOV TV" tvg-logo="" group-title="KÊNH CHUYÊN BIỆT",VOV TV
+udp://@225.1.2.171:30120
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/6YSLw8h.png" group-title="KÊNH QUỐC TẾ",HBO HD
+udp://@225.1.2.102:30120
+#EXTINF:-1 tvg-id="btv4_imovie" tvg-name="BTV4 iMovies HD" tvg-logo="https://i.imgur.com/lWJcLEv.png" group-title="KÊNH ĐỊA PHƯƠNG",BTV4 iMovies HD
+udp://@225.1.1.30:30120
+#EXTINF:-1 tvg-id="sctv2_amc" tvg-name="SCTV2 AMC" tvg-logo="" group-title="SCTV",SCTV2 AMC
+udp://@225.1.1.234:30120
+#EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-name="Channel News Asia - CNA" tvg-logo="https://i.imgur.com/eyzGJhD.png" group-title="KÊNH QUỐC TẾ",Channel News Asia - CNA
+udp://@225.1.1.202:30120
+#EXTINF:-1 tvg-id="tv5monde_asie" tvg-name="TV5Monde Asie" tvg-logo="https://i.imgur.com/JuELCHc.png" group-title="KÊNH QUỐC TẾ",TV5Monde Asie
+udp://@225.1.1.200:30120
+#EXTINF:-1 tvg-id="france_24" tvg-name="France 24" tvg-logo="https://i.imgur.com/YTlPk6Q.png" group-title="KÊNH QUỐC TẾ",France 24
+udp://@225.1.2.211:30120
+#EXTINF:-1 tvg-id="kplus1hd" tvg-name="K+1 HD (DRM)" tvg-logo="https://i.imgur.com/4DqLcOH.png" group-title="KÊNH K+",K+1 HD (DRM)
+udp://@225.1.1.5:30120
+#EXTINF:-1 tvg-id="kplusnshd" tvg-name="K+NS HD (DRM)" tvg-logo="https://i.imgur.com/4kKphEM.png" group-title="KÊNH K+",K+NS HD (DRM)
+udp://@225.1.1.6:30120
+#EXTINF:-1 tvg-id="kpluspchd" tvg-name="K+PC HD (DRM)" tvg-logo="https://i.imgur.com/IaG3BQQ.png" group-title="KÊNH K+",K+PC HD (DRM)
+udp://@225.1.1.73:30120
+#EXTINF:-1 tvg-id="kpluspmhd" tvg-name="K+PM HD (DRM)" tvg-logo="https://i.imgur.com/ND1139A.png" group-title="KÊNH K+",K+PM HD (DRM)
+udp://@225.1.1.77:30120
+#EXTINF:-1 tvg-id="hanoicab4_mov" tvg-name="MOV - Hanoicab 4" tvg-logo="" group-title="KÊNH HANOICAB",MOV - Hanoicab 4
+udp://@225.1.1.206:30120
+#EXTINF:-1 tvg-id="hanoicab2_youtv" tvg-name="YouTV - Hanoicab 2" tvg-logo="" group-title="KÊNH HANOICAB",YouTV - Hanoicab 2
+udp://@225.1.1.207:30120
+#EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="" group-title="KÊNH QUỐC TẾ",DW
+udp://@225.1.1.46:30120
+#EXTINF:-1 tvg-id="kbs_world" tvg-name="KBS World" tvg-logo="" group-title="KÊNH QUỐC TẾ",KBS World
+udp://@225.1.1.196:30120
