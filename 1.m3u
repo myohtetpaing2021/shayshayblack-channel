@@ -1,79 +1,207 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Arirang.kr" tvg-name="Arirang" tvg-country="KR" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" group-title="",Arirang (1080p)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangHD.kr" tvg-name="Arirang HD" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="",Arirang HD (1080p)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangKorea.kr" tvg-name="Arirang Korea" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",Arirang Korea
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="ArteHD.kr" tvg-name="Arte HD" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",Arte HD (1080p)
-http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BBSBuddhistBroadcasting.kr" tvg-name="BBS Buddhist Broadcasting" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/i7uUG2m.png" group-title="",BBS Buddhist Broadcasting (1080p) [Not 24/7]
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.kr" tvg-name="CBS" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" group-title="General",CBS (1080p)
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:-1 tvg-id="CBS.kr" tvg-name="CBS" tvg-country="KR" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090022.png" group-title="General",CBS (1080p)
-http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CGNTV.kr" tvg-name="CGNTV" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/SQI9PAz.png" group-title="Religious",CGNTV
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
-#EXTINF:-1 tvg-id="EBS1.kr" tvg-name="EBS 1" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/s1y2zoe.png" group-title="",EBS 1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:-1 tvg-id="EBS2.kr" tvg-name="EBS 2" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="",EBS 2 (400p)
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSe.kr" tvg-name="EBS e" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="",EBS e (400p)
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSKIDS.kr" tvg-name="EBS KIDS" tvg-country="KR" tvg-language="Korean" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="Kids",EBS KIDS (360p)
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS Kids" tvg-country="KR" tvg-language="Korean" tvg-logo="https://static.ebs.co.kr/www/common/img/kids/head_logo_kids.gif" group-title="Kids",EBS Kids (360p)
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-name="EBS Plus 1" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="",EBS Plus 1 (360p)
-http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-name="EBS Plus 2" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="",EBS Plus 2 (360p)
-http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="EdailyTV.kr" tvg-name="Edaily TV" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/UvRoc22.png" group-title="",Edaily TV (720p)
-http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="GCN.kr" tvg-name="GCN" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="",GCN
-http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-#EXTINF:-1 tvg-id="GugbangTV.kr" tvg-name="Gugbang TV" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="",Gugbang TV (404p)
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Hallypop.kr" tvg-name="Hallypop" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/FCFAAJb.png" group-title="",Hallypop (1080p)
-https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
-#EXTINF:-1 tvg-id="KPlus.kr" tvg-name="K+" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" group-title="",K+ (576p)
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS 1" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" group-title="",KBS 1
-http://121.130.210.101:9981/stream/channelid/637185705
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS 1" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" group-title="",KBS 1 (540p)
-http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",KBS World (576p)
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KCTV.kp" tvg-name="Korean Central Television (KCTV)" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/rEn31ub.png" group-title="",Korean Central Television (KCTV) (576p)
-https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-id="KCTV.kp" tvg-name="Korean Central Television (KCTV)" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/rEn31ub.png" group-title="",Korean Central Television (KCTV) (576p) [Geo-blocked]
-https://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/pANf9i7.png" group-title="",KTV
-rtmp://218.38.152.31:1935/klive/klive.stream
-#EXTINF:-1 tvg-id="MaeilBusinessNewspaper.kr" tvg-name="Maeil Business Newspaper" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/AmalRpB.png" group-title="Business",Maeil Business Newspaper
-rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
-#EXTINF:-1 tvg-id="Mnet.kr" tvg-name="Mnet" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",Mnet
-http://95.217.44.77:80/mnet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MTN.kr" tvg-name="MTN" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="",MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="NBSKoreaAgriculturalBroadcasting.kr" tvg-name="NBS Korea Agricultural Broadcasting" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/loWf3B5.jpg" group-title="",NBS Korea Agricultural Broadcasting (720p)
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SBSInternational.kr" tvg-name="SBS International" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="",SBS International (480p)
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
-#EXTINF:-1 tvg-id="SBSKNN.kr" tvg-name="SBS KNN" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/120px-KNN_logo.svg.png" group-title="",SBS KNN (450p) [Not 24/7]
-http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SBSPlus.kr" tvg-name="SBS Plus" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/lJdOstp.png" group-title="",SBS Plus (480p)
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
-#EXTINF:-1 tvg-id="SBSStar.kr" tvg-name="SBS Star" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" group-title="",SBS Star (480p)
-https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-#EXTINF:-1 tvg-id="TBS.kr" tvg-name="TBS" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/wqlTcbI.png" group-title="",TBS (720p)
-https://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVWorkNet.kr" tvg-name="TVWorkNet" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/xLL7Sxm.png" group-title="",TVWorkNet (480p)
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="YTN.kr" tvg-name="YTN" tvg-country="KR" tvg-language="Korean" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="",YTN (720p)
-http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-#EXTINF:-1 tvg-id="YTNDMB.kr" tvg-name="YTN DMB" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/fdFQonN.jpg" group-title="",YTN DMB (270p)
-http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF:-1 tvg-id="YTNSCIENCE.kr" tvg-name="YTN SCIENCE" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="Science",YTN SCIENCE (270p)
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1,AXN
+http://119.65.136.19:9981/stream/channelid/49?ticket=9CC4513F5FF509E8CD690FB3ECA2CBDCCA2291E3
+#EXTINF:-1,BTN불교TV
+http://119.65.136.19:9981/stream/channelid/74?ticket=7168084AA57620BA02A4C9BDDC0FC40421FCE23B
+#EXTINF:-1,CBS
+http://119.65.136.19:9981/stream/channelid/73?ticket=B6AC9F33714D964FB9FEA8643EAAED8A6B6311F6
+#EXTINF:-1,CJ온스타일
+http://119.65.136.19:9981/stream/channelid/28?ticket=ADE430A256210F06BD26479E6FE3D8912C99B2B7
+#EXTINF:-1,CJ온스타일+
+http://119.65.136.19:9981/stream/channelid/82?ticket=5B7FE10FE75A50D43E0905A2ADA00698E1075ECE
+#EXTINF:-1,CMC TV
+http://119.65.136.19:9981/stream/channelid/86?ticket=C70E0FC6A2347515224CEC08611A8895D3C3F070
+#EXTINF:-1,CNTV
+http://119.65.136.19:9981/stream/channelid/64?ticket=BFC40A6E9FD47F02C81FFAB632FC49E0B3D9DA8C
+#EXTINF:-1,CTS
+http://119.65.136.19:9981/stream/channelid/71?ticket=114A0E95E32782637E74927DD273C553B537F1B5
+#EXTINF:-1,EBS Digital
+http://119.65.136.19:9981/stream/channelid/17?ticket=064B98B73D3507D85001F5D8E142196B4F1EF25C
+#EXTINF:-1,EBS Digital 
+http://119.65.136.19:9981/stream/channelid/18?ticket=223538CFA741E318468A9D804026F7EE41004B81
+#EXTINF:-1,EBS플러스1
+http://119.65.136.19:9981/stream/channelid/98?ticket=4D5D7523D64F861DB9F82F787130D95D81FE3D08
+#EXTINF:-1,EBS플러스2
+http://119.65.136.19:9981/stream/channelid/93?ticket=19A6805FA71BECBD89CF1C60CAB87B350E32078A
+#EXTINF:-1,EDGE TV
+http://119.65.136.19:9981/stream/channelid/85?ticket=DB245D4D369315AEF64C8878067C40390EF664BA
+#EXTINF:-1,ETN연예
+http://119.65.136.19:9981/stream/channelid/53?ticket=DAB684810EBC183145727E2AE0B23D4279A6DBDE
+#EXTINF:-1,E채널
+http://119.65.136.19:9981/stream/channelid/95?ticket=3B3289385E6979932000272ADFDEC3BED3062B5D
+#EXTINF:-1,FOX채널
+http://119.65.136.19:9981/stream/channelid/99?ticket=47E6DCE9E7376E9BC8C98781CE99BF56F103AFB4
+#EXTINF:-1,FTV
+http://119.65.136.19:9981/stream/channelid/79?ticket=5838FC000D68AA326EA6A9A6F977863C657CE101
+#EXTINF:-1,FUN TV
+http://119.65.136.19:9981/stream/channelid/59?ticket=D50A7955FD24F1C1D972424F7AF8988FC7AD6957
+#EXTINF:-1,GS Shop
+http://119.65.136.19:9981/stream/channelid/29?ticket=3F539D3AD08EFA407D7C53AFD372075824804558
+#EXTINF:-1,GS마이샵
+http://119.65.136.19:9981/stream/channelid/66?ticket=F1907E766B7DE6F1E546128544D6121FB8EAA96C
+#EXTINF:-1,GTV
+http://119.65.136.19:9981/stream/channelid/6?ticket=B85023F0757F808C78AE1380BF8110EE60F52880
+#EXTINF:-1,JTBC2
+http://119.65.136.19:9981/stream/channelid/70?ticket=5A991C239FD559760C30BB30AD016F7398AD23D9
+#EXTINF:-1,JTBC3
+http://119.65.136.19:9981/stream/channelid/87?ticket=C06220C53CC20D3AEE6E6EBB492A818E38D7B67D
+#EXTINF:-1,JTBC4
+http://119.65.136.19:9981/stream/channelid/58?ticket=1288A941F2C1D1271E106B40747AA1A46C843B5A
+#EXTINF:-1,K star
+http://119.65.136.19:9981/stream/channelid/50?ticket=3CE66E66739CB95B288029E360E5563B600A9697
+#EXTINF:-1,KBS JOY
+http://119.65.136.19:9981/stream/channelid/77?ticket=AD55F8B7390DA3FF260F6274D43A32F018E684A2
+#EXTINF:-1,KBSN스포츠
+http://119.65.136.19:9981/stream/channelid/88?ticket=B387ED7629C1DC0CA2D747D07EE70243B4A57E1F
+#EXTINF:-1,KBS드라마
+http://119.65.136.19:9981/stream/channelid/2?ticket=01BB99E844263E330EDCFEB8BD373419FBB9E303
+#EXTINF:-1,KOREA NEW NETWORK
+http://119.65.136.19:9981/stream/channelid/19?ticket=84C5CE74660C1C3606CF42E5E9188058FDEA9A9F
+#EXTINF:-1,KTV
+http://119.65.136.19:9981/stream/channelid/34?ticket=8E92DE49428FA21A6268AE8FFED872F1225553D2
+#EXTINF:-1,K쇼핑
+http://119.65.136.19:9981/stream/channelid/30?ticket=F18F079E77BDCD5F360AE51ADC9695FD54D9573F
+#EXTINF:-1,M.net
+http://119.65.136.19:9981/stream/channelid/7?ticket=A8351EBF98CCD3251AF527693362557B69E42E21
+#EXTINF:-1,MBC DTV
+http://119.65.136.19:9981/stream/channelid/22?ticket=AA89296D719EE3D012431F2C3CB7C8E172C5F9A9
+#EXTINF:-1,MBC Eve
+http://119.65.136.19:9981/stream/channelid/102?ticket=BA413C2BC1E9823BBC3A690A2D1C5400A189814C
+#EXTINF:-1,MBC ON
+http://119.65.136.19:9981/stream/channelid/84?ticket=442EF6904642452F9852D956FB39FDA5479A53C1
+#EXTINF:-1,MBC드라마넷
+http://119.65.136.19:9981/stream/channelid/23?ticket=0048B285B6B6883BC7E9DAC418CDEFF4DA49B5D7
+#EXTINF:-1,MBC스포츠+
+http://119.65.136.19:9981/stream/channelid/89?ticket=26ADF1141FEAD8EB51AF903D91B3704FFB6A8A73
+#EXTINF:-1,MBN
+http://119.65.136.19:9981/stream/channelid/31?ticket=662AF40012FFE1565592C9F1FA2A85FF3C9B43C5
+#EXTINF:-1,Mplex
+http://119.65.136.19:9981/stream/channelid/57?ticket=9D72B6A3FAFFE91C1A8BB5249F102BC95DAEE9A8
+#EXTINF:-1,NHK프리미엄
+http://119.65.136.19:9981/stream/channelid/52?ticket=8E7751376BCA8A213C35B01821DB4BCDC228E161
+#EXTINF:-1,NS샵플러스
+http://119.65.136.19:9981/stream/channelid/72?ticket=514A9E2E798BA5A8E7CA81CDFDD01238BA386484
+#EXTINF:-1,NS홈쇼핑
+http://119.65.136.19:9981/stream/channelid/25?ticket=4B9A677FD8BBBB7EE6CEEFD9A14279F0CFA1AC9D
+#EXTINF:-1,OCN
+http://119.65.136.19:9981/stream/channelid/42?ticket=4836E1EB4DCF39D3CAC29D4336703F3A606FF385
+#EXTINF:-1,OCN무비즈
+http://119.65.136.19:9981/stream/channelid/10?ticket=CB273706B2DD7CA15079F3874A3BDB5D8C71773B
+#EXTINF:-1,OUN
+http://119.65.136.19:9981/stream/channelid/43?ticket=BC93BD57A4B6116FC7C47C8C0970D9EE82F28C56
+#EXTINF:-1,OtvN
+http://119.65.136.19:9981/stream/channelid/14?ticket=24EEFD395FD16C07FD23DB53FEFE78E2AFEB3D40
+#EXTINF:-1,SBS Biz
+http://119.65.136.19:9981/stream/channelid/16?ticket=919CE339ED86219F48E506F3F96F03DE0F6F62B6
+#EXTINF:-1,SBSfunE
+http://119.65.136.19:9981/stream/channelid/69?ticket=8297526BFCF40F69516A7E5EC4D33CACC532B40D
+#EXTINF:-1,SBS스포츠
+http://119.65.136.19:9981/stream/channelid/67?ticket=EC3F67B0015329E394E984EC8A9C67F3B8784EED
+#EXTINF:-1,SBS플러스
+http://119.65.136.19:9981/stream/channelid/36?ticket=4182D96783DBE349FC2C3FF88A50DDB06C47FB8C
+#EXTINF:-1,SK스토아
+http://119.65.136.19:9981/stream/channelid/45?ticket=916E7D06F1505D3481DECCCCCFD9C6CE8A00A7AD
+#EXTINF:-1,SPOTV
+http://119.65.136.19:9981/stream/channelid/8?ticket=6619B5F42DF2F09A95248C46C195232231497DAF
+#EXTINF:-1,SPOTV2
+http://119.65.136.19:9981/stream/channelid/103?ticket=58A0D35CBC626703643681A16EF1FF0175673F62
+#EXTINF:-1,TV아시아
+http://119.65.136.19:9981/stream/channelid/60?ticket=46023C44CBF5DB97D8173D0B030B69780199AA39
+#EXTINF:-1,TV조선
+http://119.65.136.19:9981/stream/channelid/41?ticket=BCD5C5AE3C25795EF7569D0B9B4490A86D18F864
+#EXTINF:-1,W쇼핑
+http://119.65.136.19:9981/stream/channelid/15?ticket=C3BC564FB4F55C26D8E5EE1677809B8C35BB516D
+#EXTINF:-1,XtvN
+http://119.65.136.19:9981/stream/channelid/62?ticket=9C0213AFA5E2B114036412477583DDC39FDE993E
+#EXTINF:-1,YTN
+http://119.65.136.19:9981/stream/channelid/47?ticket=A89428AB209780BAE8794C8BF1113E11E1D9EA17
+#EXTINF:-1,jTBC
+http://119.65.136.19:9981/stream/channelid/32?ticket=208DF428EADB1947698122C2E36BF583420D8D89
+#EXTINF:-1,tvN
+http://119.65.136.19:9981/stream/channelid/39?ticket=331D76990020954ACE52F61D099E76C959FF2CAB
+#EXTINF:-1,tvN스토리
+http://119.65.136.19:9981/stream/channelid/4?ticket=DC3DDBA1C32FF72D7916585F965FE2FC4636FC70
+#EXTINF:-1,가야방송
+http://119.65.136.19:9981/stream/channelid/24?ticket=D061A85F4BBFD8DF06DD2BD69B759AB339683DEE
+#EXTINF:-1,공영쇼핑
+http://119.65.136.19:9981/stream/channelid/48?ticket=AC86719399732E432C81B4B37C29C0621E9D9C84
+#EXTINF:-1,공지채널
+http://119.65.136.19:9981/stream/channelid/63?ticket=DF68E680DAB2303DA3E2AA244CF2F38EE979A8CF
+#EXTINF:-1,국회TV
+http://119.65.136.19:9981/stream/channelid/44?ticket=34BDEABB24F0E7290E56F5578F217A6B84636EE6
+#EXTINF:-1,다큐원
+http://119.65.136.19:9981/stream/channelid/97?ticket=3DEF37ACE0954D3D93BDF8A853598903E898C279
+#EXTINF:-1,더드라마
+http://119.65.136.19:9981/stream/channelid/12?ticket=88F2FF80E82F9DD667C1FB071F2147A821AEF625
+#EXTINF:-1,더라이프
+http://119.65.136.19:9981/stream/channelid/11?ticket=BAC31209D19678BF0F17A65493B7115D87343B27
+#EXTINF:-1,드라마큐브
+http://119.65.136.19:9981/stream/channelid/101?ticket=8F1080595A2A8C5949FCBFED42D2CF09D9010722
+#EXTINF:-1,드라맥스
+http://119.65.136.19:9981/stream/channelid/38?ticket=59A9D586640848B68A5A012CF09F9EF6438AE575
+#EXTINF:-1,롯데ONE T
+http://119.65.136.19:9981/stream/channelid/81?ticket=2EBBB5B8D76402123A4BB430AF5325875E4A7159
+#EXTINF:-1,롯데홈쇼핑
+http://119.65.136.19:9981/stream/channelid/26?ticket=29F7695D9687CC4D587601BAE8E5BE8A85DC132E
+#EXTINF:-1,바둑TV
+http://119.65.136.19:9981/stream/channelid/54?ticket=70AEC665C6B0ACC5AECF291F1C10604B5CC28093
+#EXTINF:-1,복지TV
+http://119.65.136.19:9981/stream/channelid/92?ticket=D3143CC6DCD38BE785E47E82B119BFA7EB427514
+#EXTINF:-1,부산 KBS1
+http://119.65.136.19:9981/stream/channelid/21?ticket=18D9010A7E1A90062A9DED3BDBBC010FDD4DB80E
+#EXTINF:-1,부산 KBS2
+http://119.65.136.19:9981/stream/channelid/20?ticket=327DE1EB4187F80E1C4B52AABB8CCA662DE57F8C
+#EXTINF:-1,뷰
+http://119.65.136.19:9981/stream/channelid/80?ticket=4063C25210D44B73E36F78B64AD8EC97A1E5DC9F
+#EXTINF:-1,상생TV
+http://119.65.136.19:9981/stream/channelid/13?ticket=9180C2A9F62A5B85D188B75B766FB156B63B25B8
+#EXTINF:-1,쇼핑엔T
+http://119.65.136.19:9981/stream/channelid/27?ticket=0346D9487DFEEF3C99D02210CB7C9A47F882BC45
+#EXTINF:-1,스카이드라마
+http://119.65.136.19:9981/stream/channelid/91?ticket=E3EE11445B4F272407164EB9DA0DED12304E0EAE
+#EXTINF:-1,스카이엔터
+http://119.65.136.19:9981/stream/channelid/75?ticket=90A1516F051575F5E696FD627AF9934C6EB4DED0
+#EXTINF:-1,스크린
+http://119.65.136.19:9981/stream/channelid/9?ticket=142C30D3FD21E202165E5F3001A277A3A23ADFE4
+#EXTINF:-1,신세계쇼핑
+http://119.65.136.19:9981/stream/channelid/1?ticket=3AB3DCB48E9E06313296BC27C24C0D0F71D41323
+#EXTINF:-1,아리랑TV
+http://119.65.136.19:9981/stream/channelid/100?ticket=65E054547C4A844DAF18BC7BB7D23877EA396BFC
+#EXTINF:-1,아이넷
+http://119.65.136.19:9981/stream/channelid/68?ticket=4A3C3A190262EC4185676DAB0B0DB005245D66A0
+#EXTINF:-1,연합뉴스TV
+http://119.65.136.19:9981/stream/channelid/46?ticket=A705229E1B3DE29E9346F3DFEA1922CC185CF033
+#EXTINF:-1,온스타일
+http://119.65.136.19:9981/stream/channelid/5?ticket=E093F4101F7A464561511E92F716ACFED929E7D2
+#EXTINF:-1,재능방송
+http://119.65.136.19:9981/stream/channelid/61?ticket=84D82F2DD99D68A0A8344D824D1B056C3C8B9848
+#EXTINF:-1,직업방송
+http://119.65.136.19:9981/stream/channelid/83?ticket=67E252276577BC8B04D3F5988C2AEFA86DE49D91
+#EXTINF:-1,채널 A
+http://119.65.136.19:9981/stream/channelid/40?ticket=D90957EB670D32876192317DCD43A38FBD53A3DA
+#EXTINF:-1,채널 J
+http://119.65.136.19:9981/stream/channelid/3?ticket=C9ECEAD9D86499A9A5993D8F277993023B4FE0FC
+#EXTINF:-1,채널S
+http://119.65.136.19:9981/stream/channelid/55?ticket=CB87475878418653F52FD54EFDE107B63BE3C4A9
+#EXTINF:-1,채널차이나
+http://119.65.136.19:9981/stream/channelid/96?ticket=D86DD62E9AD366F2D9D81F92AF184D5C5DFDEF5F
+#EXTINF:-1,채널칭
+http://119.65.136.19:9981/stream/channelid/51?ticket=D8122942FF3F0E05A1DDA450E9DA2F007C028344
+#EXTINF:-1,챔프
+http://119.65.136.19:9981/stream/channelid/94?ticket=A2AD3C9288C7557293AD9A7C6CC75A6AC73E84A6
+#EXTINF:-1,코미디TV
+http://119.65.136.19:9981/stream/channelid/37?ticket=BBA6BFC4C1F833E34CB0793D91593AC60BB863E7
+#EXTINF:-1,투니버스
+http://119.65.136.19:9981/stream/channelid/65?ticket=6896319629D6C4CBDCB0CDAB70C2235AE76955D0
+#EXTINF:-1,평화방송
+http://119.65.136.19:9981/stream/channelid/76?ticket=0BE3994B49617ED2766803EE20A3E588597568F4
+#EXTINF:-1,하이라이트TV
+http://119.65.136.19:9981/stream/channelid/56?ticket=C82D70B3B937B892E4F46123318AE3F6513FCAEF
+#EXTINF:-1,한국경제TV
+http://119.65.136.19:9981/stream/channelid/90?ticket=D54D7FE377AF9AE3511096CF93012DC0D115F5C8
+#EXTINF:-1,현대홈쇼핑
+http://119.65.136.19:9981/stream/channelid/35?ticket=1FA791E1C3FB3246808BC1E69065C5C080AA869A
+#EXTINF:-1,현대홈쇼핑+샵
+http://119.65.136.19:9981/stream/channelid/78?ticket=128F4CF0A811E40237CAD67E41C22CFD545AC10C
+#EXTINF:-1,홈앤쇼핑
+http://119.65.136.19:9981/stream/channelid/33?ticket=1A31A4683AF34D5F25360AE33ADA0F51FC7776E1
