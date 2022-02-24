@@ -13,6 +13,9 @@ https://player-api.new.livestream.com/accounts/15604755/events/9605885/broadcast
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080834.png"  group-title="1_Myanmar", MNTV
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
+#EXTINF:1 tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/1645674238665577937185.jpg"  group-title="1_Myanmar", MITV
+https://player-api.new.livestream.com/accounts/7063221/events/9340397/broadcasts/229514646.secure.m3u8?dw=80&hdnea=st=1645671616~exp=1645673416~acl=/i/7063221_9340397_lsin1pn52yhqjks152n_1@688675/*~hmac=a1bb362095822b18745ca434c8a88db7de326a4f3dc2d270682ea3bf1d1ee909&token=6216f5ec_e6cd562fbaeeb175aa2d147493ddf61523264712
+
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080431.png"  group-title="1_Myanmar", Mahar Bawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
