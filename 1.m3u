@@ -1,0 +1,106 @@
+
+#EXTM3U
+#EXTINF:-,BT SPORT 1 LIVE
+https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
+
+#EXTINF:-,BT SOPRT 2 LIVE
+https://cloudserver.server-cdn-streaming.com/live-player/4/live.m3u8
+
+#EXTINF:-,BEINI 1
+https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
+
+#EXTINF:-,BEINI 2
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
+
+#EXTINF:-,TRUE SPORT HD
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
+
+#EXTINF:-,TRUE SPORT HD 2
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
+
+#EXTINF:-,TRUE SPORT HD 3
+https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
+
+#EXTINF:-,FOX SPORT 2
+https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
+
+#EXTINF:-,FOX SPORT 3
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+
+#EXTINF:-,TRUE HD 7
+https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
+
+#EXTINF:-,TRUE HD 2
+https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
+
+#EXTINF:-,TRUE HD 3
+https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
+
+#EXTINF:-,TRUE HD 4
+https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
+
+#EXTINF:-,TRUE HD 5
+https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
+
+#EXTINF:-,SPORT TV 1 HD
+https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
+
+#EXTINF:-,SPORT TV 2 HD
+https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
+
+#EXTINF:-,SPORT TV 3 HD
+https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
+
+#EXTINF:-,SPORT TV 3 HD
+https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
+
+#EXTINF:-,SPORT TV  HD
+https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
+
+#EXTINF:-,SPORT TV 5 HD
+https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
+
+#EXTINF:-,PPV HD
+https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
+
+#EXTINF:-,CHANNEL3 HD
+https://cloudserver.server-cdn-streaming.com/live-player/33/live.m3u8
+
+#EXTINF:-,Skynet Sport-HD
+https://cloudserver.server-cdn-streaming.com/live-player/26/live.m3u8
+
+#EXTINF:-,Skynet Sport-2
+https://cloudserver.server-cdn-streaming.com/live-player/27/live.m3u8
+
+#EXTINF:-,SKYNET SPORTS 4
+https://cloudserver.server-cdn-streaming.com/live-player/30/live.m3u8
+
+#EXTINF:-,SPORTSTV 5
+https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
+
+#EXTINF:-,THAIRAT TV 32
+https://thairathtv.cdn.byteark.com/fleetstream/live1/720p/index.m3u8
+
+#EXTINF:-,NBT HD
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/football-th/nbt/chunks.m3u8?nimblesessionid=4256556
+
+#EXTINF:-,SKYNET SPORT 6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-,SKYNET SPORT 5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-,SKYNET SPORT 4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-,SKYNET SPORT 3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-,SKYNET SPORT 2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-,SKYNET SPORT 1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-,SKYNET SPORT HD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
