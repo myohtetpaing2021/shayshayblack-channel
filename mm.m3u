@@ -47,3 +47,5 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 #EXTINF:1 tvg-logo="https://tinyurl.com/5t2jc6f3"  group-title="Myanmar", Mnet
 http://95.217.44.77:80/mnet/tracks-v1a1/mono.m3u8
 
+#EXTINF:1,K-series
+shayshayblack-channel/K-series.m3u
