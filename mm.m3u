@@ -1,50 +1,49 @@
-#EXTINF:1 tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/1645673165784699948615.jpg"  group-title="Myanmar", Mahar
+#EXTM3U
+#EXTINF:1 tvg-logo="https://tinyurl.com/2p88mkrf"  group-title="Myanmar", Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8?hdnts=exp=1645671490~acl=/*~hmac=be6b1a2b14e5adb57c811d9963b5e89511c32b729dcad0cb6dd0f45f2e49a1a9
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_081308.png"  group-title="Myanmar", Channel 7
+#EXTINF:1 tvg-logo="https://tinyurl.com/bw4yrn5k"  group-title="Myanmar", Channel 7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_081547.png"  group-title="Myanmar", MRTV 4
+#EXTINF:1 tvg-logo="https://tinyurl.com/9ek4k74b"  group-title="Myanmar", MRTV 4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_081427.png"  group-title="Myanmar", MRTV HD
+#EXTINF:1 tvg-logo="https://tinyurl.com/yfcpfhc7"  group-title="Myanmar", MRTV HD
 https://player-api.new.livestream.com/accounts/15604755/events/9605885/broadcasts/229533778.secure.m3u8?dw=80&hdnea=st=1645671731~exp=1645673531~acl=/i/15604755_9605885_lsiwub7jah9as3fz81i_1@335354/*~hmac=f49fa2f31a098745f04a660e3dbd381bba0fa0c96d20f6ea2ecbe41aab87254b&token=6216f65f_fe618b37bee184d4ef86c7d295f1feb3f8474c6a
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080834.png"  group-title="Myanmar", MNTV
+#EXTINF:1 tvg-logo="https://tinyurl.com/2p8w482b"  group-title="Myanmar", MNTV
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
-#EXTINF:1 tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/1645674238665577937185.jpg"  group-title="Myanmar", MITV
+#EXTINF:1 tvg-logo="https://tinyurl.com/yckz92tu"  group-title="Myanmar", MITV
 https://player-api.new.livestream.com/accounts/7063221/events/9340397/broadcasts/229514646.secure.m3u8?dw=80&hdnea=st=1645671616~exp=1645673416~acl=/i/7063221_9340397_lsin1pn52yhqjks152n_1@688675/*~hmac=a1bb362095822b18745ca434c8a88db7de326a4f3dc2d270682ea3bf1d1ee909&token=6216f5ec_e6cd562fbaeeb175aa2d147493ddf61523264712
 
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080431.png"  group-title="Myanmar", Mahar Bawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/Screenshot_2020-12-13-23-36-40.jpg"  group-title="Myanmar", MWD HD
+#EXTINF:1 tvg-logo="https://tinyurl.com/bdh6vzf5"  group-title="Myanmar", MWD HD
 http://203.81.84.130/hls/mwd/index.m3u8
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/Screenshot_2020-12-13-17-43-01.jpg"  group-title="Myanmar", MWD Movie HD
+#EXTINF:1 tvg-logo="https://tinyurl.com/2p99hspp"  group-title="Myanmar", MWD Movie HD
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_091837.jpg"  group-title="Myanmar", MWD Serie HD
+#EXTINF:1 tvg-logo="https://tinyurl.com/448vfpfz"  group-title="Myanmar", MWD Serie HD
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080544_1.png"  group-title="Myanmar", MWD Variety HD
+#EXTINF:1 tvg-logo="https://tinyurl.com/2ahwhs8r"  group-title="Myanmar", MWD Variety HD
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080501.png"  group-title="Myanmar", MWD Documentary HD
+#EXTINF:1 tvg-logo="https://tinyurl.com/y3vm6mjk"  group-title="Myanmar", MWD Documentary HD
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-1.jpg"  group-title="Myanmar", MWD Shopping HD
+#EXTINF:1 tvg-logo="https://tinyurl.com/a2x8c8ms"  group-title="Myanmar", MWD Shopping HD
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-3_3.jpg"  group-title="Myanmar", MWD Family HD
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", MWD Family HD
 http://203.81.84.130/hls/mwd_family/index.m3u8
 
-#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/images.jpeg-2_16.jpg"  group-title="Myanmar", MVM
+#EXTINF:1 tvg-logo="https://tinyurl.com/yud9tmxt"  group-title="Myanmar", MVM
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Mnet.kr" tvg-name="Mnet" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",Mnet
+#EXTINF:1 tvg-logo="https://tinyurl.com/5t2jc6f3"  group-title="Myanmar", Mnet
 http://95.217.44.77:80/mnet/tracks-v1a1/mono.m3u8
 
-#EXTINF:-,Channel K
-https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
