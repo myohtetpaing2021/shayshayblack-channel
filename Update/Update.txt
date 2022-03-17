@@ -1,0 +1,1821 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="EVERYDAY UPDATE INFORMATION CHANNELS 1" tvg-logo="http://62.182.85.43/poster/0.jpg",EVERYDAY UPDATE INFORMATION CHANNELS 1
+http://bestsave.ltd:2052/141414/151515/112625
+#EXTINF:-1 tvg-name="BEIN NEWS HD 720P." tvg-logo="http://62.182.85.43/poster/News-1.png",BEIN NEWS HD 720P.
+http://bestsave.ltd:2052/141414/151515/16001
+#EXTINF:-1 tvg-name="BEIN PREMIUM SD 1" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS1_PREMIUM.png",BEIN PREMIUM SD 1
+http://bestsave.ltd:2052/141414/151515/90284
+#EXTINF:-1 tvg-name="⚽ beIN PREMIUM 1 HD ⚽" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS1_PREMIUM.png",⚽ beIN PREMIUM 1 HD ⚽
+http://bestsave.ltd:2052/141414/151515/90295
+#EXTINF:-1 tvg-name="BEIN PREMIUM 1 FHD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS1_PREMIUM.png",BEIN PREMIUM 1 FHD
+http://bestsave.ltd:2052/141414/151515/74852
+#EXTINF:-1 tvg-name="BEIN PREMIUM SD 2" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS2_PREMIUM.png",BEIN PREMIUM SD 2
+http://bestsave.ltd:2052/141414/151515/90283
+#EXTINF:-1 tvg-name="BEIN PREMIUM 2 HD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS2_PREMIUM.png",BEIN PREMIUM 2 HD
+http://bestsave.ltd:2052/141414/151515/90294
+#EXTINF:-1 tvg-name="BEIN PREMIUM 2 FHD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS2_PREMIUM.png",BEIN PREMIUM 2 FHD
+http://bestsave.ltd:2052/141414/151515/74853
+#EXTINF:-1 tvg-name="BEIN PREMIUM SD 3" tvg-logo="http://62.182.85.43/poster/premium-3.png",BEIN PREMIUM SD 3
+http://bestsave.ltd:2052/141414/151515/90282
+#EXTINF:-1 tvg-name="BEIN PREMIUM 3 HD" tvg-logo="http://62.182.85.43/poster/premium-3.png",BEIN PREMIUM 3 HD
+http://bestsave.ltd:2052/141414/151515/90293
+#EXTINF:-1 tvg-name="BEIN PREMIUM 3 FHD" tvg-logo="http://62.182.85.43/poster/premium-3.png",BEIN PREMIUM 3 FHD
+http://bestsave.ltd:2052/141414/151515/74854
+#EXTINF:-1 tvg-name="BEIN XTRA 1 SD" tvg-logo="http://62.182.85.43/poster/bein-sports-xtra-1.png",BEIN XTRA 1 SD
+http://bestsave.ltd:2052/141414/151515/115181
+#EXTINF:-1 tvg-name="BEIN XTRA 1 HD" tvg-logo="http://62.182.85.43/poster/bein-sports-xtra-1.png",BEIN XTRA 1 HD
+http://bestsave.ltd:2052/141414/151515/115183
+#EXTINF:-1 tvg-name="BEIN XTRA 2 SD" tvg-logo="http://62.182.85.43/poster/bein-sports-xtra-2.png",BEIN XTRA 2 SD
+http://bestsave.ltd:2052/141414/151515/115180
+#EXTINF:-1 tvg-name="BEIN XTRA 2 HD" tvg-logo="http://62.182.85.43/poster/bein-sports-xtra-2.png",BEIN XTRA 2 HD
+http://bestsave.ltd:2052/141414/151515/115182
+#EXTINF:-1 tvg-name="BEIN 1 SD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS1.png",BEIN 1 SD
+http://bestsave.ltd:2052/141414/151515/90281
+#EXTINF:-1 tvg-name="BEIN 1 HD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS1.png",BEIN 1 HD
+http://bestsave.ltd:2052/141414/151515/90292
+#EXTINF:-1 tvg-name="BEIN 1 FHD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS1.png",BEIN 1 FHD
+http://bestsave.ltd:2052/141414/151515/10673
+#EXTINF:-1 tvg-name="BEIN 2 SD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS2.png",BEIN 2 SD
+http://bestsave.ltd:2052/141414/151515/90280
+#EXTINF:-1 tvg-name="BEIN 2 HD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS2.png",BEIN 2 HD
+http://bestsave.ltd:2052/141414/151515/90291
+#EXTINF:-1 tvg-name="BEIN 2 FHD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS2.png",BEIN 2 FHD
+http://bestsave.ltd:2052/141414/151515/10674
+#EXTINF:-1 tvg-name="BEIN 3 SD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS3.png",BEIN 3 SD
+http://bestsave.ltd:2052/141414/151515/90279
+#EXTINF:-1 tvg-name="BEIN 3 HD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS3.png",BEIN 3 HD
+http://bestsave.ltd:2052/141414/151515/90290
+#EXTINF:-1 tvg-name="BEIN 3 FHD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS3.png",BEIN 3 FHD
+http://bestsave.ltd:2052/141414/151515/10675
+#EXTINF:-1 tvg-name="BEIN 4 SD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS4.png",BEIN 4 SD
+http://bestsave.ltd:2052/141414/151515/90278
+#EXTINF:-1 tvg-name="BEIN 4 HD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS4.png",BEIN 4 HD
+http://bestsave.ltd:2052/141414/151515/90289
+#EXTINF:-1 tvg-name="BEIN 4 FHD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS4.png",BEIN 4 FHD
+http://bestsave.ltd:2052/141414/151515/10676
+#EXTINF:-1 tvg-name="BEIN 5 SD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS5.png",BEIN 5 SD
+http://bestsave.ltd:2052/141414/151515/90277
+#EXTINF:-1 tvg-name="BEIN 5 HD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS5.png",BEIN 5 HD
+http://bestsave.ltd:2052/141414/151515/90288
+#EXTINF:-1 tvg-name="BEIN 5 FHD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS5.png",BEIN 5 FHD
+http://bestsave.ltd:2052/141414/151515/10677
+#EXTINF:-1 tvg-name="BEIN 6 SD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS6.png",BEIN 6 SD
+http://bestsave.ltd:2052/141414/151515/90276
+#EXTINF:-1 tvg-name="BEIN 6 HD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS6.png",BEIN 6 HD
+http://bestsave.ltd:2052/141414/151515/90287
+#EXTINF:-1 tvg-name="BEIN 6 FHD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS6.png",BEIN 6 FHD
+http://bestsave.ltd:2052/141414/151515/10682
+#EXTINF:-1 tvg-name="BEIN 7 SD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS7.png",BEIN 7 SD
+http://bestsave.ltd:2052/141414/151515/90275
+#EXTINF:-1 tvg-name="BEIN 7 HD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS7.png",BEIN 7 HD
+http://bestsave.ltd:2052/141414/151515/90286
+#EXTINF:-1 tvg-name="BEIN 7 FHD" tvg-logo="http://62.182.85.43/poster/beIN_SPORTS7.png",BEIN 7 FHD
+http://bestsave.ltd:2052/141414/151515/10681
+#EXTINF:-1 tvg-name="BEIN ENGLISH 1 SD" tvg-logo="http://62.182.85.43/poster/bein-sport-ENGLISH.1.png",BEIN ENGLISH 1 SD
+http://bestsave.ltd:2052/141414/151515/90273
+#EXTINF:-1 tvg-name="BEIN ENGLISH 1 HD" tvg-logo="http://62.182.85.43/poster/bein-sport-ENGLISH.1.png",BEIN ENGLISH 1 HD
+http://bestsave.ltd:2052/141414/151515/90309
+#EXTINF:-1 tvg-name="BEIN ENGLISH 2 SD" tvg-logo="http://62.182.85.43/poster/bein-sport-ENGLISH.2.png",BEIN ENGLISH 2 SD
+http://bestsave.ltd:2052/141414/151515/90272
+#EXTINF:-1 tvg-name="BEIN ENGLISH 2 HD" tvg-logo="http://62.182.85.43/poster/bein-sport-ENGLISH.2.png",BEIN ENGLISH 2 HD
+http://bestsave.ltd:2052/141414/151515/90308
+#EXTINF:-1 tvg-name="BEIN ENGLISH 3 SD" tvg-logo="http://62.182.85.43/poster/bein-sport-ENGLISH.3.png",BEIN ENGLISH 3 SD
+http://bestsave.ltd:2052/141414/151515/90271
+#EXTINF:-1 tvg-name="BEIN ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/bein-sport-ENGLISH.3.png",BEIN ENGLISH 3 HD
+http://bestsave.ltd:2052/141414/151515/90307
+#EXTINF:-1 tvg-name="BEIN FRENCH 1 SD" tvg-logo="http://62.182.85.43/poster/BEIN.FRENCE.1.png",BEIN FRENCH 1 SD
+http://bestsave.ltd:2052/141414/151515/90270
+#EXTINF:-1 tvg-name="BEIN FRENCH 1 HD" tvg-logo="http://62.182.85.43/poster/BEIN.FRENCE.1.png",BEIN FRENCH 1 HD
+http://bestsave.ltd:2052/141414/151515/90306
+#EXTINF:-1 tvg-name="BEIN FRENCH 2 SD" tvg-logo="http://62.182.85.43/poster/BEIN.FRENCE.2.png",BEIN FRENCH 2 SD
+http://bestsave.ltd:2052/141414/151515/90269
+#EXTINF:-1 tvg-name="BEIN FRENCH 2 HD" tvg-logo="http://62.182.85.43/poster/BEIN.FRENCE.2.png",BEIN FRENCH 2 HD
+http://bestsave.ltd:2052/141414/151515/90305
+#EXTINF:-1 tvg-name="BEIN NBA" tvg-logo="http://62.182.85.43/poster/NBA_DIGITAL.png",BEIN NBA
+http://bestsave.ltd:2052/141414/151515/90311
+#EXTINF:-1 tvg-name="BEIN PREMIUM 1 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN PREMIUM 1 4K
+http://bestsave.ltd:2052/141414/151515/74855
+#EXTINF:-1 tvg-name="BEIN PREMIUM 2 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN PREMIUM 2 4K
+http://bestsave.ltd:2052/141414/151515/74856
+#EXTINF:-1 tvg-name="BEIN PREMIUM 3 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN PREMIUM 3 4K
+http://bestsave.ltd:2052/141414/151515/74857
+#EXTINF:-1 tvg-name="BEIN XTRA 1 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN XTRA 1 4K
+http://bestsave.ltd:2052/141414/151515/115178
+#EXTINF:-1 tvg-name="BEIN XTRA 2 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN XTRA 2 4K
+http://bestsave.ltd:2052/141414/151515/115179
+#EXTINF:-1 tvg-name="BEIN ENGLISH 1 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN ENGLISH 1 4K
+http://bestsave.ltd:2052/141414/151515/74861
+#EXTINF:-1 tvg-name="BEIN ENGLISH 2 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN ENGLISH 2 4K
+http://bestsave.ltd:2052/141414/151515/74862
+#EXTINF:-1 tvg-name="BEIN ENGLISH 3 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN ENGLISH 3 4K
+http://bestsave.ltd:2052/141414/151515/74863
+#EXTINF:-1 tvg-name="BEIN FRENCH 1 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN FRENCH 1 4K
+http://bestsave.ltd:2052/141414/151515/74858
+#EXTINF:-1 tvg-name="BEIN FRENCH 2 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN FRENCH 2 4K
+http://bestsave.ltd:2052/141414/151515/74859
+#EXTINF:-1 tvg-name="BEIN 1 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN 1 4K
+http://bestsave.ltd:2052/141414/151515/38577
+#EXTINF:-1 tvg-name="BEIN 2 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN 2 4K
+http://bestsave.ltd:2052/141414/151515/38578
+#EXTINF:-1 tvg-name="BEIN 3 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN 3 4K
+http://bestsave.ltd:2052/141414/151515/38579
+#EXTINF:-1 tvg-name="BEIN 4 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN 4 4K
+http://bestsave.ltd:2052/141414/151515/38580
+#EXTINF:-1 tvg-name="BEIN 5 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN 5 4K
+http://bestsave.ltd:2052/141414/151515/38581
+#EXTINF:-1 tvg-name="BEIN 6 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN 6 4K
+http://bestsave.ltd:2052/141414/151515/38582
+#EXTINF:-1 tvg-name="BEIN 7 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN 7 4K
+http://bestsave.ltd:2052/141414/151515/38583
+#EXTINF:-1 tvg-name="BEIN NBA 4K" tvg-logo="http://62.182.85.43/poster/bein-4k-arabia.jpg",BEIN NBA 4K
+http://bestsave.ltd:2052/141414/151515/31617
+
+#EXTINF:-1 tvg-name="WWE- TELECOM UFC" tvg-logo="http://62.182.85.43/poster/FightClub1.jpg",WWE- TELECOM UFC
+http://bestsave.ltd:2052/141414/151515/89537
+#EXTINF:-1 tvg-name="WWE- TELECOM WWE" tvg-logo="http://62.182.85.43/poster/FightClub1.jpg",WWE- TELECOM WWE
+http://bestsave.ltd:2052/141414/151515/89536
+#EXTINF:-1 tvg-name="WWE- PLATINUM WWE" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",WWE- PLATINUM WWE
+http://bestsave.ltd:2052/141414/151515/89535
+#EXTINF:-1 tvg-name="WWE- NXT UK 1" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",WWE- NXT UK 1
+http://bestsave.ltd:2052/141414/151515/62204
+#EXTINF:-1 tvg-name="WWE- MAIN EVENT 1" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",WWE- MAIN EVENT 1
+http://bestsave.ltd:2052/141414/151515/62201
+#EXTINF:-1 tvg-name="WWE- MONDAY NIGHT RAW 1" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",WWE- MONDAY NIGHT RAW 1
+http://bestsave.ltd:2052/141414/151515/62202
+#EXTINF:-1 tvg-name="WWE- MONDAY NIGHT RAW 2" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",WWE- MONDAY NIGHT RAW 2
+http://bestsave.ltd:2052/141414/151515/62203
+#EXTINF:-1 tvg-name="WWE- FRIDAY NIGHT SMACKDOWN 1" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",WWE- FRIDAY NIGHT SMACKDOWN 1
+http://bestsave.ltd:2052/141414/151515/62199
+#EXTINF:-1 tvg-name="WWE- FRIDAY NIGHT SMACKDOWN 2" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",WWE- FRIDAY NIGHT SMACKDOWN 2
+http://bestsave.ltd:2052/141414/151515/62200
+#EXTINF:-1 tvg-name="UFC- UFC TOP 1" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",UFC- UFC TOP 1
+http://bestsave.ltd:2052/141414/151515/62211
+#EXTINF:-1 tvg-name="UFC- UFC TOP 2" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",UFC- UFC TOP 2
+http://bestsave.ltd:2052/141414/151515/62212
+#EXTINF:-1 tvg-name="UFC- UFC TOP 3" tvg-logo="http://178.63.102.147/poster/WWE.JPG",UFC- UFC TOP 3
+http://bestsave.ltd:2052/141414/151515/62213
+#EXTINF:-1 tvg-name="UFC- UFC FIGHT NIGHT 1" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",UFC- UFC FIGHT NIGHT 1
+http://bestsave.ltd:2052/141414/151515/62208
+#EXTINF:-1 tvg-name="UFC- UFC FIGHT NIGHT 2" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",UFC- UFC FIGHT NIGHT 2
+http://bestsave.ltd:2052/141414/151515/62209
+#EXTINF:-1 tvg-name="UFC- UFC FIGHT NIGHT 3" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",UFC- UFC FIGHT NIGHT 3
+http://bestsave.ltd:2052/141414/151515/62210
+#EXTINF:-1 tvg-name="UFC- UFC ON FOX 1" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",UFC- UFC ON FOX 1
+http://bestsave.ltd:2052/141414/151515/62205
+#EXTINF:-1 tvg-name="UFC- UFC ON ESPN 1" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",UFC- UFC ON ESPN 1
+http://bestsave.ltd:2052/141414/151515/62207
+#EXTINF:-1 tvg-name="UFC- UFC ON ESPN 2" tvg-logo="http://62.182.85.43/poster/Fight Club.jpg",UFC- UFC ON ESPN 2
+http://bestsave.ltd:2052/141414/151515/62206
+
+#EXTINF:-1 tvg-name="HBO- MAX CINEMA 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CINEMA 1
+http://bestsave.ltd:2052/141414/151515/125288
+#EXTINF:-1 tvg-name="HBO- MAX CINEMA 2" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CINEMA 2
+http://bestsave.ltd:2052/141414/151515/125287
+#EXTINF:-1 tvg-name="HBO- MAX CINEMA 3" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CINEMA 3
+http://bestsave.ltd:2052/141414/151515/125286
+#EXTINF:-1 tvg-name="HBO- MAX AFLAM 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX AFLAM 1
+http://bestsave.ltd:2052/141414/151515/125285
+#EXTINF:-1 tvg-name="HBO- MAX AFLAM 2" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX AFLAM 2
+http://bestsave.ltd:2052/141414/151515/125284
+#EXTINF:-1 tvg-name="HBO- MAX AFLAM 3" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX AFLAM 3
+http://bestsave.ltd:2052/141414/151515/125283
+#EXTINF:-1 tvg-name="HBO- MAX MOVIES ARABIC 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX MOVIES ARABIC 1
+http://bestsave.ltd:2052/141414/151515/125282
+#EXTINF:-1 tvg-name="HBO- MAX ARABIC COMEDY 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX ARABIC COMEDY 1
+http://bestsave.ltd:2052/141414/151515/125281
+#EXTINF:-1 tvg-name="HBO- MAX ARABIC COMEDY 2" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX ARABIC COMEDY 2
+http://bestsave.ltd:2052/141414/151515/125280
+#EXTINF:-1 tvg-name="HBO- MAX ARABIC COMEDY 3" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX ARABIC COMEDY 3
+http://bestsave.ltd:2052/141414/151515/125279
+#EXTINF:-1 tvg-name="HBO- MAX ARABIC COMEDY 4" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX ARABIC COMEDY 4
+http://bestsave.ltd:2052/141414/151515/125278
+#EXTINF:-1 tvg-name="HBO- MAX TEATRO 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX TEATRO 1
+http://bestsave.ltd:2052/141414/151515/125277
+#EXTINF:-1 tvg-name="HBO- MAX TEATRO  KHALIJI 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX TEATRO  KHALIJI 1
+http://bestsave.ltd:2052/141414/151515/125276
+#EXTINF:-1 tvg-name="HBO- MAX ACTION 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX ACTION 1
+http://bestsave.ltd:2052/141414/151515/125275
+#EXTINF:-1 tvg-name="HBO- MAX ACTION 2" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX ACTION 2
+http://bestsave.ltd:2052/141414/151515/125274
+#EXTINF:-1 tvg-name="HBO- MAX ACTION 3" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX ACTION 3
+http://bestsave.ltd:2052/141414/151515/125273
+#EXTINF:-1 tvg-name="HBO- MAX MIX" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX MIX
+http://bestsave.ltd:2052/141414/151515/125272
+#EXTINF:-1 tvg-name="HBO- MAX CRIME 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CRIME 1
+http://bestsave.ltd:2052/141414/151515/125271
+#EXTINF:-1 tvg-name="HBO- MAX CRIME 2" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CRIME 2
+http://bestsave.ltd:2052/141414/151515/125270
+#EXTINF:-1 tvg-name="HBO- MAX CRIME 3" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CRIME 3
+http://bestsave.ltd:2052/141414/151515/125269
+#EXTINF:-1 tvg-name="HBO- MAX COMEDY 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX COMEDY 1
+http://bestsave.ltd:2052/141414/151515/125268
+#EXTINF:-1 tvg-name="HBO- MAX COMEDY 2" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX COMEDY 2
+http://bestsave.ltd:2052/141414/151515/125267
+#EXTINF:-1 tvg-name="HBO- MAX COMEDY 3" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX COMEDY 3
+http://bestsave.ltd:2052/141414/151515/125266
+#EXTINF:-1 tvg-name="HBO- MAX POP UP 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX POP UP 1
+http://bestsave.ltd:2052/141414/151515/125265
+#EXTINF:-1 tvg-name="HBO- MAX POP UP 2" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX POP UP 2
+http://bestsave.ltd:2052/141414/151515/125264
+#EXTINF:-1 tvg-name="HBO- MAX POP UP 3" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX POP UP 3
+http://bestsave.ltd:2052/141414/151515/125263
+#EXTINF:-1 tvg-name="HBO- MAX CLASSIC 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CLASSIC 1
+http://bestsave.ltd:2052/141414/151515/125262
+#EXTINF:-1 tvg-name="HBO- MAX CLASSIC 2" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CLASSIC 2
+http://bestsave.ltd:2052/141414/151515/125261
+#EXTINF:-1 tvg-name="HBO- MAX CLASSIC 3" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CLASSIC 3
+http://bestsave.ltd:2052/141414/151515/125260
+#EXTINF:-1 tvg-name="HBO- MAX CLASSIC 4" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CLASSIC 4
+http://bestsave.ltd:2052/141414/151515/125259
+#EXTINF:-1 tvg-name="HBO- MAX CLASSIC 5" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CLASSIC 5
+http://bestsave.ltd:2052/141414/151515/125258
+#EXTINF:-1 tvg-name="HBO- MAX CLASSIC 6" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX CLASSIC 6
+http://bestsave.ltd:2052/141414/151515/125257
+#EXTINF:-1 tvg-name="HBO- MAX KIDS 1" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX KIDS 1
+http://bestsave.ltd:2052/141414/151515/125256
+#EXTINF:-1 tvg-name="HBO- MAX KIDS 2" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX KIDS 2
+http://bestsave.ltd:2052/141414/151515/125255
+#EXTINF:-1 tvg-name="HBO- MAX KIDS 3" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX KIDS 3
+http://bestsave.ltd:2052/141414/151515/125254
+#EXTINF:-1 tvg-name="HBO- MAX KIDS 4" tvg-logo="http://portal.maxtviptv.com:80/images/691d0d9d9bffe7c689d210e4a9c48005.png",HBO- MAX KIDS 4
+http://bestsave.ltd:2052/141414/151515/125253
+
+#EXTINF:-1 tvg-name="NETFLIX 4K 1" tvg-logo="",NETFLIX 4K 1
+http://bestsave.ltd:2052/141414/151515/156506
+#EXTINF:-1 tvg-name="NETFLIX 4K 2" tvg-logo="",NETFLIX 4K 2
+http://bestsave.ltd:2052/141414/151515/156505
+#EXTINF:-1 tvg-name="NETFLIX 4K 3" tvg-logo="",NETFLIX 4K 3
+http://bestsave.ltd:2052/141414/151515/156504
+#EXTINF:-1 tvg-name="NETFLIX 4K 4" tvg-logo="",NETFLIX 4K 4
+http://bestsave.ltd:2052/141414/151515/156503
+#EXTINF:-1 tvg-name="NETFLIX 4K 5" tvg-logo="",NETFLIX 4K 5
+http://bestsave.ltd:2052/141414/151515/156502
+#EXTINF:-1 tvg-name="NETFLIX 4K 6" tvg-logo="",NETFLIX 4K 6
+http://bestsave.ltd:2052/141414/151515/156501
+#EXTINF:-1 tvg-name="NETFLIX 4K 7" tvg-logo="",NETFLIX 4K 7
+http://bestsave.ltd:2052/141414/151515/156500
+#EXTINF:-1 tvg-name="NETFLIX 4K 8" tvg-logo="",NETFLIX 4K 8
+http://bestsave.ltd:2052/141414/151515/156499
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 1" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 1
+http://bestsave.ltd:2052/141414/151515/127002
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 2" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 2
+http://bestsave.ltd:2052/141414/151515/127001
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 3" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 3
+http://bestsave.ltd:2052/141414/151515/126994
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 4" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 4
+http://bestsave.ltd:2052/141414/151515/126993
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 5" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 5
+http://bestsave.ltd:2052/141414/151515/126991
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 6" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 6
+http://bestsave.ltd:2052/141414/151515/126989
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 7" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 7
+http://bestsave.ltd:2052/141414/151515/126988
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 8" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 8
+http://bestsave.ltd:2052/141414/151515/126992
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 9" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 9
+http://bestsave.ltd:2052/141414/151515/89101
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 10" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 10
+http://bestsave.ltd:2052/141414/151515/89099
+#EXTINF:-1 tvg-name="NET- NETFLIX+ ACTION 11" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ ACTION 11
+http://bestsave.ltd:2052/141414/151515/89098
+#EXTINF:-1 tvg-name="NET- NETFLIX+ COMEDY 1" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ COMEDY 1
+http://bestsave.ltd:2052/141414/151515/89095
+#EXTINF:-1 tvg-name="NET- NETFLIX+ COMEDY 2" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ COMEDY 2
+http://bestsave.ltd:2052/141414/151515/89094
+#EXTINF:-1 tvg-name="NET- NETFLIX+ COMEDY 3" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ COMEDY 3
+http://bestsave.ltd:2052/141414/151515/89092
+#EXTINF:-1 tvg-name="NET- NETFLIX+ DRAMA 1" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ DRAMA 1
+http://bestsave.ltd:2052/141414/151515/89090
+#EXTINF:-1 tvg-name="NET- NETFLIX+ DRAMA 2" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ DRAMA 2
+http://bestsave.ltd:2052/141414/151515/89088
+#EXTINF:-1 tvg-name="NET- NETFLIX+ DRAMA 3" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ DRAMA 3
+http://bestsave.ltd:2052/141414/151515/89087
+#EXTINF:-1 tvg-name="NET- NETFLIX+ DRAMA 4" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ DRAMA 4
+http://bestsave.ltd:2052/141414/151515/89085
+#EXTINF:-1 tvg-name="NET- NETFLIX+ HORROR 1" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ HORROR 1
+http://bestsave.ltd:2052/141414/151515/89084
+#EXTINF:-1 tvg-name="NET- NETFLIX+ HORROR 2" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ HORROR 2
+http://bestsave.ltd:2052/141414/151515/89082
+#EXTINF:-1 tvg-name="NET- NETFLIX+ HORROR 3" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ HORROR 3
+http://bestsave.ltd:2052/141414/151515/89079
+#EXTINF:-1 tvg-name="NET- NETFLIX+ HORROR 4" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ HORROR 4
+http://bestsave.ltd:2052/141414/151515/89073
+#EXTINF:-1 tvg-name="NET- NETFLIX+ HORROR 5" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ HORROR 5
+http://bestsave.ltd:2052/141414/151515/89063
+#EXTINF:-1 tvg-name="NET- NETFLIX+ HORROR 6" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- NETFLIX+ HORROR 6
+http://bestsave.ltd:2052/141414/151515/89062
+#EXTINF:-1 tvg-name="NET- TELECOM ACTION 2" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- TELECOM ACTION 2
+http://bestsave.ltd:2052/141414/151515/89093
+#EXTINF:-1 tvg-name="NET- PLATINUM DRAMA" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- PLATINUM DRAMA
+http://bestsave.ltd:2052/141414/151515/89083
+#EXTINF:-1 tvg-name="NET- TELECOM COMEDY 2" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- TELECOM COMEDY 2
+http://bestsave.ltd:2052/141414/151515/89078
+#EXTINF:-1 tvg-name="NET- TELECOM MASRAH" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- TELECOM MASRAH
+http://bestsave.ltd:2052/141414/151515/89074
+#EXTINF:-1 tvg-name="NET- TOP MILITARY" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- TOP MILITARY
+http://bestsave.ltd:2052/141414/151515/89068
+#EXTINF:-1 tvg-name="NET- MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- MOVIES
+http://bestsave.ltd:2052/141414/151515/89066
+#EXTINF:-1 tvg-name="NET- PLATINUM HINDI" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- PLATINUM HINDI
+http://bestsave.ltd:2052/141414/151515/89064
+#EXTINF:-1 tvg-name="NET- PLATINUM ARABIC FILM" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- PLATINUM ARABIC FILM
+http://bestsave.ltd:2052/141414/151515/89061
+#EXTINF:-1 tvg-name="NET- TELECOM ARABIC" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- TELECOM ARABIC
+http://bestsave.ltd:2052/141414/151515/89060
+#EXTINF:-1 tvg-name="NET- TELECOM ADEEL EMAM" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- TELECOM ADEEL EMAM
+http://bestsave.ltd:2052/141414/151515/89059
+#EXTINF:-1 tvg-name="NET- TELECOM MARVEL" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- TELECOM MARVEL
+http://bestsave.ltd:2052/141414/151515/89058
+#EXTINF:-1 tvg-name="NET- TELECOM SCI-FI" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- TELECOM SCI-FI
+http://bestsave.ltd:2052/141414/151515/89057
+#EXTINF:-1 tvg-name="NET- TELECOM BOX OFFICE" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- TELECOM BOX OFFICE
+http://bestsave.ltd:2052/141414/151515/89056
+#EXTINF:-1 tvg-name="NET- INDONESIA MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- INDONESIA MOVIES
+http://bestsave.ltd:2052/141414/151515/89044
+#EXTINF:-1 tvg-name="NET- FILIPINO MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- FILIPINO MOVIES
+http://bestsave.ltd:2052/141414/151515/89043
+#EXTINF:-1 tvg-name="NET- KOREA MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- KOREA MOVIES
+http://bestsave.ltd:2052/141414/151515/89042
+#EXTINF:-1 tvg-name="NET- CHINA MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- CHINA MOVIES
+http://bestsave.ltd:2052/141414/151515/89041
+#EXTINF:-1 tvg-name="NET- INDIA MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- INDIA MOVIES
+http://bestsave.ltd:2052/141414/151515/89040
+#EXTINF:-1 tvg-name="NET- JACKIE CHAN 01" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- JACKIE CHAN 01
+http://bestsave.ltd:2052/141414/151515/89039
+#EXTINF:-1 tvg-name="NET- KUNG FU MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- KUNG FU MOVIES
+http://bestsave.ltd:2052/141414/151515/89038
+#EXTINF:-1 tvg-name="NET- JEAN-CLAUDE VAN DAMME" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- JEAN-CLAUDE VAN DAMME
+http://bestsave.ltd:2052/141414/151515/89037
+#EXTINF:-1 tvg-name="NET- SYLVESTER STALLONE" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- SYLVESTER STALLONE
+http://bestsave.ltd:2052/141414/151515/89036
+#EXTINF:-1 tvg-name="NET- WILL SMITH" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- WILL SMITH
+http://bestsave.ltd:2052/141414/151515/89035
+#EXTINF:-1 tvg-name="NET- JASON STATHAM" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- JASON STATHAM
+http://bestsave.ltd:2052/141414/151515/89034
+#EXTINF:-1 tvg-name="NET- ARNOLD SCHWARZENEGGER" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- ARNOLD SCHWARZENEGGER
+http://bestsave.ltd:2052/141414/151515/89033
+#EXTINF:-1 tvg-name="NET- HORROR TOP" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- HORROR TOP
+http://bestsave.ltd:2052/141414/151515/89032
+#EXTINF:-1 tvg-name="NET- VIN DISEL" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- VIN DISEL
+http://bestsave.ltd:2052/141414/151515/89031
+#EXTINF:-1 tvg-name="NET- GERMANY MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- GERMANY MOVIES
+http://bestsave.ltd:2052/141414/151515/89030
+#EXTINF:-1 tvg-name="NET- FRANCE MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- FRANCE MOVIES
+http://bestsave.ltd:2052/141414/151515/89029
+#EXTINF:-1 tvg-name="NET- SPAIN MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- SPAIN MOVIES
+http://bestsave.ltd:2052/141414/151515/89028
+#EXTINF:-1 tvg-name="NET- ITALIA MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- ITALIA MOVIES
+http://bestsave.ltd:2052/141414/151515/89027
+#EXTINF:-1 tvg-name="NET- ENGLAND MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- ENGLAND MOVIES
+http://bestsave.ltd:2052/141414/151515/89026
+#EXTINF:-1 tvg-name="NET- GERMANY LIVE" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- GERMANY LIVE
+http://bestsave.ltd:2052/141414/151515/89025
+#EXTINF:-1 tvg-name="NET- LATIN MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- LATIN MOVIES
+http://bestsave.ltd:2052/141414/151515/89024
+#EXTINF:-1 tvg-name="NET- TURKISH MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- TURKISH MOVIES
+http://bestsave.ltd:2052/141414/151515/89021
+#EXTINF:-1 tvg-name="NET- MEXICAN MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- MEXICAN MOVIES
+http://bestsave.ltd:2052/141414/151515/89023
+#EXTINF:-1 tvg-name="NET- RUSSIA MOVIES" tvg-logo="http://62.182.85.43/poster/netflix.jpg",NET- RUSSIA MOVIES
+http://bestsave.ltd:2052/141414/151515/89022
+
+#EXTINF:-1 tvg-name="DC - HISTORY HD F" tvg-logo="http://62.182.85.43/poster/HistoryHD.png",DC - HISTORY HD F
+http://bestsave.ltd:2052/141414/151515/127046
+#EXTINF:-1 tvg-name="DC - DISCOVERY FAMILY" tvg-logo="http://62.182.85.43/poster/DiscoveryFamily.png",DC - DISCOVERY FAMILY
+http://bestsave.ltd:2052/141414/151515/127042
+#EXTINF:-1 tvg-name="DC - DISCOVERY ID F" tvg-logo="http://62.182.85.43/poster/DiscoveryID.png",DC - DISCOVERY ID F
+http://bestsave.ltd:2052/141414/151515/127041
+#EXTINF:-1 tvg-name="DC - DISCOVERY SCIENCE F" tvg-logo="http://62.182.85.43/poster/DiscoveryScience.png",DC - DISCOVERY SCIENCE F
+http://bestsave.ltd:2052/141414/151515/127040
+#EXTINF:-1 tvg-name="DC - OSN= DISCOVERY LIFE" tvg-logo="http://62.182.85.43/poster/DiscoveryLife.png",DC - OSN= DISCOVERY LIFE
+http://bestsave.ltd:2052/141414/151515/127039
+#EXTINF:-1 tvg-name="DC - NAT GEO PEOPLE" tvg-logo="http://62.182.85.43/poster/NatGeoPeople.png",DC - NAT GEO PEOPLE
+http://bestsave.ltd:2052/141414/151515/61135
+#EXTINF:-1 tvg-name="DC - OSN= NATIONAL GEOGRAPHIC" tvg-logo="http://62.182.85.43/poster/NationalGeographic.png",DC - OSN= NATIONAL GEOGRAPHIC
+http://bestsave.ltd:2052/141414/151515/61136
+#EXTINF:-1 tvg-name="DC - NATIONAL GEOGRAPHIC F" tvg-logo="http://62.182.85.43/poster/NATIONALGEOC.png",DC - NATIONAL GEOGRAPHIC F
+http://bestsave.ltd:2052/141414/151515/127044
+#EXTINF:-1 tvg-name="DC - HISTORY CHANNEL" tvg-logo="http://62.182.85.43/poster/HistoryHD.png",DC - HISTORY CHANNEL
+http://bestsave.ltd:2052/141414/151515/61132
+#EXTINF:-1 tvg-name="DC - DISCOVERY CHANNEL" tvg-logo="http://62.182.85.43/poster/Discovery.png",DC - DISCOVERY CHANNEL
+http://bestsave.ltd:2052/141414/151515/61118
+#EXTINF:-1 tvg-name="DC- DISCOVERY HISTORY" tvg-logo="http://62.182.85.43/poster/DISCOVERYHISTORY.png",DC- DISCOVERY HISTORY
+http://bestsave.ltd:2052/141414/151515/61117
+#EXTINF:-1 tvg-name="DC- DISCOVERY INVESTIGATION" tvg-logo="http://62.182.85.43/poster/DiscoveryID.png",DC- DISCOVERY INVESTIGATION
+http://bestsave.ltd:2052/141414/151515/61116
+#EXTINF:-1 tvg-name="DC - DISCOVERY SHED" tvg-logo="http://62.182.85.43/poster/DiscoveryShed.jpg",DC - DISCOVERY SHED
+http://bestsave.ltd:2052/141414/151515/61115
+#EXTINF:-1 tvg-name="DC- DISCOVERY TURBO" tvg-logo="http://62.182.85.43/poster/DISCOVERYTURBO.png",DC- DISCOVERY TURBO
+http://bestsave.ltd:2052/141414/151515/61114
+#EXTINF:-1 tvg-name="DC- NAT GEO FHD" tvg-logo="http://62.182.85.43/poster/NATIONALGEOC.png",DC- NAT GEO FHD
+http://bestsave.ltd:2052/141414/151515/61112
+#EXTINF:-1 tvg-name="DC - UK=  ANIMAL PLANET" tvg-logo="http://62.182.85.43/poster/AnimalPlanet-.png",DC - UK=  ANIMAL PLANET
+http://bestsave.ltd:2052/141414/151515/61111
+#EXTINF:-1 tvg-name="DC - USA= ANIMAL PLANET" tvg-logo="http://62.182.85.43/poster/AnimalPlanet.png",DC - USA= ANIMAL PLANET
+http://bestsave.ltd:2052/141414/151515/61127
+#EXTINF:-1 tvg-name="DC - USA= DISCOVERY FAMILY" tvg-logo="http://62.182.85.43/poster/DiscoveryFamily.png",DC - USA= DISCOVERY FAMILY
+http://bestsave.ltd:2052/141414/151515/61125
+#EXTINF:-1 tvg-name="DC - USA= DISCOVERY SCIENCE" tvg-logo="http://62.182.85.43/poster/DiscoveryScience.png",DC - USA= DISCOVERY SCIENCE
+http://bestsave.ltd:2052/141414/151515/61123
+#EXTINF:-1 tvg-name="DC - DISCOVERY VELOCITY" tvg-logo="http://62.182.85.43/poster/DiscoveryVelocity.png",DC - DISCOVERY VELOCITY
+http://bestsave.ltd:2052/141414/151515/61122
+#EXTINF:-1 tvg-name="DC - NAT GEO HD" tvg-logo="http://62.182.85.43/poster/NATIONALGEOC.png",DC - NAT GEO HD
+http://bestsave.ltd:2052/141414/151515/61120
+#EXTINF:-1 tvg-name="DC - USA= NAT GEO WILD" tvg-logo="http://62.182.85.43/poster/NationalGeographicWild.png",DC - USA= NAT GEO WILD
+http://bestsave.ltd:2052/141414/151515/61119
+#EXTINF:-1 tvg-name="DC - PLATINUM DISCOVERY IDX" tvg-logo="http://62.182.85.43/poster/DiscoveryID.png",DC - PLATINUM DISCOVERY IDX
+http://bestsave.ltd:2052/141414/151515/89533
+#EXTINF:-1 tvg-name="DCM- EXCLUSIVE DOCUMENTARY 2020" tvg-logo="http://62.182.85.43/poster/exclusive documentry.jpg",DCM- EXCLUSIVE DOCUMENTARY 2020
+http://bestsave.ltd:2052/141414/151515/89534
+#EXTINF:-1 tvg-name="DC - PLATINUM DISCOVERY" tvg-logo="http://62.182.85.43/poster/Discovery.png",DC - PLATINUM DISCOVERY
+http://bestsave.ltd:2052/141414/151515/89532
+#EXTINF:-1 tvg-name="DC - NATURE MALDIVES" tvg-logo="http://62.182.85.43/poster/Maldives.png",DC - NATURE MALDIVES
+http://bestsave.ltd:2052/141414/151515/61154
+#EXTINF:-1 tvg-name="DC - NATURE GREECE" tvg-logo="http://62.182.85.43/poster/Greece.png",DC - NATURE GREECE
+http://bestsave.ltd:2052/141414/151515/61153
+#EXTINF:-1 tvg-name="DC - NATURE AUSTRIA" tvg-logo="http://62.182.85.43/poster/Austria.png",DC - NATURE AUSTRIA
+http://bestsave.ltd:2052/141414/151515/61152
+#EXTINF:-1 tvg-name="DC - PLANET EARTH HD" tvg-logo="http://62.182.85.43/poster/PlanetEarth.png",DC - PLANET EARTH HD
+http://bestsave.ltd:2052/141414/151515/61137
+#EXTINF:-1 tvg-name="DC - NATURE RELAX" tvg-logo="http://62.182.85.43/poster/Relaxation.png",DC - NATURE RELAX
+http://bestsave.ltd:2052/141414/151515/61148
+#EXTINF:-1 tvg-name="DC - NATURE SLEEP MUSIC" tvg-logo="http://62.182.85.43/poster/natural music.jpg",DC - NATURE SLEEP MUSIC
+http://bestsave.ltd:2052/141414/151515/61147
+#EXTINF:-1 tvg-name="DC - NATURE SWITZERLAND" tvg-logo="http://62.182.85.43/poster/Switzerland.png",DC - NATURE SWITZERLAND
+http://bestsave.ltd:2052/141414/151515/61149
+#EXTINF:-1 tvg-name="DC - NATURE NORWAY" tvg-logo="http://62.182.85.43/poster/Norway.png",DC - NATURE NORWAY
+http://bestsave.ltd:2052/141414/151515/61151
+#EXTINF:-1 tvg-name="DC - NATURE JAPAN" tvg-logo="http://62.182.85.43/poster/Japan.png",DC - NATURE JAPAN
+http://bestsave.ltd:2052/141414/151515/61150
+#EXTINF:-1 tvg-name="DC- DTX" tvg-logo="http://62.182.85.43/poster/DTX.png",DC- DTX
+http://bestsave.ltd:2052/141414/151515/105859
+
+#EXTINF:-1 tvg-name="UK- ITV 1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV 1 FHD
+http://bestsave.ltd:2052/141414/151515/125059
+#EXTINF:-1 tvg-name="UK- ITV 2 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV 2 FHD
+http://bestsave.ltd:2052/141414/151515/125058
+#EXTINF:-1 tvg-name="UK- ITV 3 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV 3 FHD
+http://bestsave.ltd:2052/141414/151515/125056
+#EXTINF:-1 tvg-name="UK- ITV 4 FHD-" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV 4 FHD-
+http://bestsave.ltd:2052/141414/151515/82521
+#EXTINF:-1 tvg-name="UK- ITV 4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV 4 FHD
+http://bestsave.ltd:2052/141414/151515/125055
+#EXTINF:-1 tvg-name="UK- ITV BE FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV BE FHD
+http://bestsave.ltd:2052/141414/151515/80943
+#EXTINF:-1 tvg-name="UK- AL JAZEERA HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- AL JAZEERA HD
+http://bestsave.ltd:2052/141414/151515/80868
+#EXTINF:-1 tvg-name="UK- SKY NEWS" tvg-logo="",UK- SKY NEWS
+http://bestsave.ltd:2052/141414/151515/80793
+#EXTINF:-1 tvg-name="UK- BBC NEWS FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC NEWS FHD
+http://bestsave.ltd:2052/141414/151515/80939
+#EXTINF:-1 tvg-name="UK- BBC NEWS HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC NEWS HD
+http://bestsave.ltd:2052/141414/151515/80875
+#EXTINF:-1 tvg-name="UK- BBC 1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 1 FHD
+http://bestsave.ltd:2052/141414/151515/80935
+#EXTINF:-1 tvg-name="UK- BBC 1 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 1 HD
+http://bestsave.ltd:2052/141414/151515/80869
+#EXTINF:-1 tvg-name="UK- BBC 2 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 2 FHD
+http://bestsave.ltd:2052/141414/151515/80938
+#EXTINF:-1 tvg-name="UK- BBC 3 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 3 HD
+http://bestsave.ltd:2052/141414/151515/80873
+#EXTINF:-1 tvg-name="UK- BBC 4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 4 FHD
+http://bestsave.ltd:2052/141414/151515/80937
+#EXTINF:-1 tvg-name="UK- BBC 4 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 4 HD
+http://bestsave.ltd:2052/141414/151515/80874
+#EXTINF:-1 tvg-name="UK- BOX OFFICE 1 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 1 HD
+http://bestsave.ltd:2052/141414/151515/151545
+#EXTINF:-1 tvg-name="UK- BOX OFFICE 2 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 2 HD
+http://bestsave.ltd:2052/141414/151515/151546
+#EXTINF:-1 tvg-name="UK- BOX OFFICE 3 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 3 HD
+http://bestsave.ltd:2052/141414/151515/151547
+#EXTINF:-1 tvg-name="UK- BOX OFFICE 4 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 4 HD
+http://bestsave.ltd:2052/141414/151515/151548
+#EXTINF:-1 tvg-name="UK- BOX OFFICE 5 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 5 HD
+http://bestsave.ltd:2052/141414/151515/151549
+#EXTINF:-1 tvg-name="UK- BOX OFFICE 6 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 6 HD
+http://bestsave.ltd:2052/141414/151515/151550
+#EXTINF:-1 tvg-name="UK- BOX OFFICE 7 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 7 HD
+http://bestsave.ltd:2052/141414/151515/151551
+#EXTINF:-1 tvg-name="UK- BOX OFFICE 8 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 8 HD
+http://bestsave.ltd:2052/141414/151515/151552
+#EXTINF:-1 tvg-name="UK- BOX OFFICE 9 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 9 HD
+http://bestsave.ltd:2052/141414/151515/151553
+#EXTINF:-1 tvg-name="UK- BOX OFFICE 10 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 10 HD
+http://bestsave.ltd:2052/141414/151515/151554
+#EXTINF:-1 tvg-name="UK- BT SPORTS 1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 1 FHD
+http://bestsave.ltd:2052/141414/151515/80932
+#EXTINF:-1 tvg-name="UK- BT SPORTS 1 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 1 HD
+http://bestsave.ltd:2052/141414/151515/80876
+#EXTINF:-1 tvg-name="UK- BT SPORTS 2 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 2 FHD
+http://bestsave.ltd:2052/141414/151515/80931
+#EXTINF:-1 tvg-name="UK- BT SPORTS 2 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 2 HD
+http://bestsave.ltd:2052/141414/151515/80877
+#EXTINF:-1 tvg-name="UK- BT SPORTS 3 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 3 FHD
+http://bestsave.ltd:2052/141414/151515/80930
+#EXTINF:-1 tvg-name="UK- BT SPORTS 3 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 3 HD
+http://bestsave.ltd:2052/141414/151515/80878
+#EXTINF:-1 tvg-name="UK- BT SPORTS ESPN FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS ESPN FHD
+http://bestsave.ltd:2052/141414/151515/80929
+#EXTINF:-1 tvg-name="UK- BT SPORTS ESPN HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS ESPN HD
+http://bestsave.ltd:2052/141414/151515/80879
+#EXTINF:-1 tvg-name="UK- PREMIER SPORTS 1" tvg-logo="",UK- PREMIER SPORTS 1
+http://bestsave.ltd:2052/141414/151515/80807
+#EXTINF:-1 tvg-name="UK- PREMIER SPORTS 2" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- PREMIER SPORTS 2
+http://bestsave.ltd:2052/141414/151515/80830
+#EXTINF:-1 tvg-name="UK- PREMIER SPORT 1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- PREMIER SPORT 1 FHD
+http://bestsave.ltd:2052/141414/151515/80925
+#EXTINF:-1 tvg-name="UK- PREMIER SPORT 2 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- PREMIER SPORT 2 FHD
+http://bestsave.ltd:2052/141414/151515/80924
+#EXTINF:-1 tvg-name="UK- PREMIER SPORT LALIGA TV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- PREMIER SPORT LALIGA TV FHD
+http://bestsave.ltd:2052/141414/151515/80923
+#EXTINF:-1 tvg-name="UK- FREE SPORTS FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- FREE SPORTS FHD
+http://bestsave.ltd:2052/141414/151515/80922
+#EXTINF:-1 tvg-name="UK- EURO SPORT 1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- EURO SPORT 1 FHD
+http://bestsave.ltd:2052/141414/151515/80920
+#EXTINF:-1 tvg-name="UK- NAT GEO FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- NAT GEO FHD
+http://bestsave.ltd:2052/141414/151515/80905
+#EXTINF:-1 tvg-name="UK- NAT GEO WILD FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- NAT GEO WILD FHD
+http://bestsave.ltd:2052/141414/151515/80906
+#EXTINF:-1 tvg-name="UK- DISCOVERY FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- DISCOVERY FHD
+http://bestsave.ltd:2052/141414/151515/80903
+#EXTINF:-1 tvg-name="UK- HISTORY CHANNEL 1" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- HISTORY CHANNEL 1
+http://bestsave.ltd:2052/141414/151515/80829
+#EXTINF:-1 tvg-name="UK- HISTORY CHANNEL 2" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- HISTORY CHANNEL 2
+http://bestsave.ltd:2052/141414/151515/80828
+#EXTINF:-1 tvg-name="UK- ANIMAL PLANET" tvg-logo="",UK- ANIMAL PLANET
+http://bestsave.ltd:2052/141414/151515/80823
+#EXTINF:-1 tvg-name="UK- FOOD NETWORK" tvg-logo="",UK- FOOD NETWORK
+http://bestsave.ltd:2052/141414/151515/80815
+#EXTINF:-1 tvg-name="UK- BOOMERANG" tvg-logo="",UK- BOOMERANG
+http://bestsave.ltd:2052/141414/151515/80820
+#EXTINF:-1 tvg-name="UK- BOOMERANG KIDS" tvg-logo="",UK- BOOMERANG KIDS
+http://bestsave.ltd:2052/141414/151515/80805
+#EXTINF:-1 tvg-name="UK- NICK" tvg-logo="",UK- NICK
+http://bestsave.ltd:2052/141414/151515/80819
+#EXTINF:-1 tvg-name="UK- DISNEY JUNIOR" tvg-logo="",UK- DISNEY JUNIOR
+http://bestsave.ltd:2052/141414/151515/80818
+#EXTINF:-1 tvg-name="UK- HORROR CHANNEL" tvg-logo="",UK- HORROR CHANNEL
+http://bestsave.ltd:2052/141414/151515/80816
+#EXTINF:-1 tvg-name="UK- NICK JR" tvg-logo="",UK- NICK JR
+http://bestsave.ltd:2052/141414/151515/80790
+#EXTINF:-1 tvg-name="UK- NICK JR. FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- NICK JR. FHD
+http://bestsave.ltd:2052/141414/151515/80892
+#EXTINF:-1 tvg-name="UK- M UTV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- M UTV FHD
+http://bestsave.ltd:2052/141414/151515/80928
+#EXTINF:-1 tvg-name="UK-  LFC TV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK-  LFC TV FHD
+http://bestsave.ltd:2052/141414/151515/80921
+#EXTINF:-1 tvg-name="UK- RACING TV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- RACING TV FHD
+http://bestsave.ltd:2052/141414/151515/80927
+#EXTINF:-1 tvg-name="UK-  W+1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK-  W+1 FHD
+http://bestsave.ltd:2052/141414/151515/80894
+#EXTINF:-1 tvg-name="UK- CBBC FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CBBC FHD
+http://bestsave.ltd:2052/141414/151515/80919
+#EXTINF:-1 tvg-name="UK- CNBC FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CNBC FHD
+http://bestsave.ltd:2052/141414/151515/80926
+#EXTINF:-1 tvg-name="UK- SKY NEWS FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY NEWS FHD
+http://bestsave.ltd:2052/141414/151515/80918
+#EXTINF:-1 tvg-name="UK- BLOOMBERG FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BLOOMBERG FHD
+http://bestsave.ltd:2052/141414/151515/80917
+#EXTINF:-1 tvg-name="UK- FILM 4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- FILM 4 FHD
+http://bestsave.ltd:2052/141414/151515/80915
+#EXTINF:-1 tvg-name="UK- CRIME+INV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CRIME+INV FHD
+http://bestsave.ltd:2052/141414/151515/80914
+#EXTINF:-1 tvg-name="UK- QUEST FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- QUEST FHD
+http://bestsave.ltd:2052/141414/151515/80912
+#EXTINF:-1 tvg-name="UK- MORE4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- MORE4 FHD
+http://bestsave.ltd:2052/141414/151515/80911
+#EXTINF:-1 tvg-name="UK-  E4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK-  E4 FHD
+http://bestsave.ltd:2052/141414/151515/80909
+#EXTINF:-1 tvg-name="UK- ALIBI FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ALIBI FHD
+http://bestsave.ltd:2052/141414/151515/80908
+#EXTINF:-1 tvg-name="UK- H2 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- H2 FHD
+http://bestsave.ltd:2052/141414/151515/80907
+#EXTINF:-1 tvg-name="UK- MTV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- MTV FHD
+http://bestsave.ltd:2052/141414/151515/80904
+#EXTINF:-1 tvg-name="UK-  E! FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK-  E! FHD
+http://bestsave.ltd:2052/141414/151515/80902
+#EXTINF:-1 tvg-name="UK- SYFY FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SYFY FHD
+http://bestsave.ltd:2052/141414/151515/80901
+#EXTINF:-1 tvg-name="UK- COMEDY CENT FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- COMEDY CENT FHD
+http://bestsave.ltd:2052/141414/151515/80900
+#EXTINF:-1 tvg-name="UK- DAVE FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- DAVE FHD
+http://bestsave.ltd:2052/141414/151515/80899
+#EXTINF:-1 tvg-name="UK- GOLD FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- GOLD FHD
+http://bestsave.ltd:2052/141414/151515/80898
+#EXTINF:-1 tvg-name="UK- W FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- W FHD
+http://bestsave.ltd:2052/141414/151515/80897
+#EXTINF:-1 tvg-name="UK-  CHANNEL 5 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK-  CHANNEL 5 FHD
+http://bestsave.ltd:2052/141414/151515/80896
+#EXTINF:-1 tvg-name="UK- CHANNEL 4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CHANNEL 4 FHD
+http://bestsave.ltd:2052/141414/151515/80895
+#EXTINF:-1 tvg-name="UK- RACING UK HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- RACING UK HD
+http://bestsave.ltd:2052/141414/151515/80871
+#EXTINF:-1 tvg-name="UK- COMEDY CENTRAL EXTRA HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- COMEDY CENTRAL EXTRA HD
+http://bestsave.ltd:2052/141414/151515/80891
+#EXTINF:-1 tvg-name="UK- COMEDY CENTRAL HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- COMEDY CENTRAL HD
+http://bestsave.ltd:2052/141414/151515/80890
+#EXTINF:-1 tvg-name="UK- CBS REALITY HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CBS REALITY HD
+http://bestsave.ltd:2052/141414/151515/80886
+#EXTINF:-1 tvg-name="UK- CBS ACTION HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CBS ACTION HD
+http://bestsave.ltd:2052/141414/151515/80885
+#EXTINF:-1 tvg-name="UK- 5 STAR HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- 5 STAR HD
+http://bestsave.ltd:2052/141414/151515/80884
+#EXTINF:-1 tvg-name="UK- CHALLENGE HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CHALLENGE HD
+http://bestsave.ltd:2052/141414/151515/80883
+#EXTINF:-1 tvg-name="UK- 4 SEVEN HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- 4 SEVEN HD
+http://bestsave.ltd:2052/141414/151515/80870
+#EXTINF:-1 tvg-name="UK- DAVE HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- DAVE HD
+http://bestsave.ltd:2052/141414/151515/80865
+#EXTINF:-1 tvg-name="UK- BET HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BET HD
+http://bestsave.ltd:2052/141414/151515/80864
+#EXTINF:-1 tvg-name="UK- AMC HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- AMC HD
+http://bestsave.ltd:2052/141414/151515/80863
+#EXTINF:-1 tvg-name="UK- ALIBI HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ALIBI HD
+http://bestsave.ltd:2052/141414/151515/80862
+#EXTINF:-1 tvg-name="UK- SKY CINEMA THRILLER" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA THRILLER
+http://bestsave.ltd:2052/141414/151515/80861
+#EXTINF:-1 tvg-name="UK- SKY CINEMA SELECT" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA SELECT
+http://bestsave.ltd:2052/141414/151515/80860
+#EXTINF:-1 tvg-name="UK- SKY CINEMA HITS" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA HITS
+http://bestsave.ltd:2052/141414/151515/80859
+#EXTINF:-1 tvg-name="UK- SKY SPORTS FOOTBALL" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY SPORTS FOOTBALL
+http://bestsave.ltd:2052/141414/151515/80855
+#EXTINF:-1 tvg-name="UK- SKY SPORTS RACING" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY SPORTS RACING
+http://bestsave.ltd:2052/141414/151515/80854
+#EXTINF:-1 tvg-name="UK- SKY CINEMA ACTION" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA ACTION
+http://bestsave.ltd:2052/141414/151515/80853
+#EXTINF:-1 tvg-name="UK- SKY CINEMA FAMILY" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA FAMILY
+http://bestsave.ltd:2052/141414/151515/80852
+#EXTINF:-1 tvg-name="UK- SKY CINEMA GREATS" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA GREATS
+http://bestsave.ltd:2052/141414/151515/80851
+#EXTINF:-1 tvg-name="UK- SKY CINEMA PREMIER" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA PREMIER
+http://bestsave.ltd:2052/141414/151515/80850
+#EXTINF:-1 tvg-name="UK- SKY CINEMA SCI-FI" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA SCI-FI
+http://bestsave.ltd:2052/141414/151515/80849
+#EXTINF:-1 tvg-name="UK- SKY WITNESS" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY WITNESS
+http://bestsave.ltd:2052/141414/151515/80847
+#EXTINF:-1 tvg-name="UK- S4C" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- S4C
+http://bestsave.ltd:2052/141414/151515/80846
+#EXTINF:-1 tvg-name="UK- SKY MOVIES FAMILY" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY MOVIES FAMILY
+http://bestsave.ltd:2052/141414/151515/80845
+#EXTINF:-1 tvg-name="UK- QUEST" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- QUEST
+http://bestsave.ltd:2052/141414/151515/80844
+#EXTINF:-1 tvg-name="UK- VIRGIN MEDIA TWO" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- VIRGIN MEDIA TWO
+http://bestsave.ltd:2052/141414/151515/80842
+#EXTINF:-1 tvg-name="UK- VIRGIN MEDIA THREE" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- VIRGIN MEDIA THREE
+http://bestsave.ltd:2052/141414/151515/80841
+#EXTINF:-1 tvg-name="UK- WATCH" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- WATCH
+http://bestsave.ltd:2052/141414/151515/80838
+#EXTINF:-1 tvg-name="UK- SMITHSONIAN CHANNEL" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SMITHSONIAN CHANNEL
+http://bestsave.ltd:2052/141414/151515/80837
+#EXTINF:-1 tvg-name="UK- SONY TV" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SONY TV
+http://bestsave.ltd:2052/141414/151515/80836
+#EXTINF:-1 tvg-name="UK- SKY 1" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY 1
+http://bestsave.ltd:2052/141414/151515/80834
+#EXTINF:-1 tvg-name="UK- BOX NATION" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX NATION
+http://bestsave.ltd:2052/141414/151515/80831
+#EXTINF:-1 tvg-name="UK- TLC" tvg-logo="",UK- TLC
+http://bestsave.ltd:2052/141414/151515/80825
+#EXTINF:-1 tvg-name="UK- EDEN" tvg-logo="",UK- EDEN
+http://bestsave.ltd:2052/141414/151515/80824
+#EXTINF:-1 tvg-name="UK- UTV" tvg-logo="",UK- UTV
+http://bestsave.ltd:2052/141414/151515/80822
+#EXTINF:-1 tvg-name="UK- BABY TV" tvg-logo="",UK- BABY TV
+http://bestsave.ltd:2052/141414/151515/80812
+#EXTINF:-1 tvg-name="UK- CARTOONITO" tvg-logo="",UK- CARTOONITO
+http://bestsave.ltd:2052/141414/151515/80811
+#EXTINF:-1 tvg-name="UK- MUTV" tvg-logo="",UK- MUTV
+http://bestsave.ltd:2052/141414/151515/80810
+#EXTINF:-1 tvg-name="UK- FREE SPORTS" tvg-logo="",UK- FREE SPORTS
+http://bestsave.ltd:2052/141414/151515/80808
+#EXTINF:-1 tvg-name="UK- UNIVERSAL" tvg-logo="",UK- UNIVERSAL
+http://bestsave.ltd:2052/141414/151515/80806
+#EXTINF:-1 tvg-name="UK- NICKTOONS" tvg-logo="",UK- NICKTOONS
+http://bestsave.ltd:2052/141414/151515/80803
+#EXTINF:-1 tvg-name="UK- SKY ARTS" tvg-logo="",UK- SKY ARTS
+http://bestsave.ltd:2052/141414/151515/80801
+#EXTINF:-1 tvg-name="UK- 5 SELECT" tvg-logo="",UK- 5 SELECT
+http://bestsave.ltd:2052/141414/151515/80798
+#EXTINF:-1 tvg-name="UK- POP" tvg-logo="",UK- POP
+http://bestsave.ltd:2052/141414/151515/80797
+#EXTINF:-1 tvg-name="UK- TINY POP" tvg-logo="",UK- TINY POP
+http://bestsave.ltd:2052/141414/151515/80796
+#EXTINF:-1 tvg-name="UK- MAGIC TV" tvg-logo="",UK- MAGIC TV
+http://bestsave.ltd:2052/141414/151515/80795
+#EXTINF:-1 tvg-name="UK- SKY ATLANTIC" tvg-logo="",UK- SKY ATLANTIC
+http://bestsave.ltd:2052/141414/151515/80794
+#EXTINF:-1 tvg-name="UK- SKY 2" tvg-logo="",UK- SKY 2
+http://bestsave.ltd:2052/141414/151515/80792
+#EXTINF:-1 tvg-name="UK- SYFY" tvg-logo="",UK- SYFY
+http://bestsave.ltd:2052/141414/151515/80789
+#EXTINF:-1 tvg-name="UK- VH1" tvg-logo="",UK- VH1
+http://bestsave.ltd:2052/141414/151515/80788
+#EXTINF:-1 tvg-name="UK- NICK JR TOO" tvg-logo="",UK- NICK JR TOO
+http://bestsave.ltd:2052/141414/151515/80787
+#EXTINF:-1 tvg-name="UK- YESTERDAY" tvg-logo="",UK- YESTERDAY
+http://bestsave.ltd:2052/141414/151515/80786
+#EXTINF:-1 tvg-name="UK- UFC FIGHT PASS" tvg-logo="",UK- UFC FIGHT PASS
+http://bestsave.ltd:2052/141414/151515/80782
+#EXTINF:-1 tvg-name="UK- TALKING PICTURES" tvg-logo="",UK- TALKING PICTURES
+http://bestsave.ltd:2052/141414/151515/80770
+#EXTINF:-1 tvg-name="UK- ONE VIRGIN MEDIA  FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ONE VIRGIN MEDIA  FHD
+http://bestsave.ltd:2052/141414/151515/80934
+#EXTINF:-1 tvg-name="UK- TOW VIRGIN MEDIA" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- TOW VIRGIN MEDIA
+http://bestsave.ltd:2052/141414/151515/80933
+#EXTINF:-1 tvg-name="UK- LOVE NATURE" tvg-logo="",UK- LOVE NATURE
+http://bestsave.ltd:2052/141414/151515/80767
+
+#EXTINF:-1 tvg-name="UK- SKY SPORTS F1 FHD" tvg-logo="http://62.182.85.43/poster/skyF1.jpg",UK- SKY SPORTS F1 FHD
+http://bestsave.ltd:2052/141414/151515/75496
+#EXTINF:-1 tvg-name="UK- SKY SPORTS F1 SD" tvg-logo="http://62.182.85.43/poster/skyF1.jpg",UK- SKY SPORTS F1 SD
+http://bestsave.ltd:2052/141414/151515/75471
+#EXTINF:-1 tvg-name="UK- SKY SPORTS F1 HD" tvg-logo="http://62.182.85.43/poster/skyF1.jpg",UK- SKY SPORTS F1 HD
+http://bestsave.ltd:2052/141414/151515/75460
+#EXTINF:-1 tvg-name="UK- SKY SPORTS NEWS FHD" tvg-logo="http://62.182.85.43/poster/skynews.jpg",UK- SKY SPORTS NEWS FHD
+http://bestsave.ltd:2052/141414/151515/75491
+#EXTINF:-1 tvg-name="UK- SKY SPORTS RACING FHD" tvg-logo="http://62.182.85.43/poster/skyracing.jpg",UK- SKY SPORTS RACING FHD
+http://bestsave.ltd:2052/141414/151515/75492
+#EXTINF:-1 tvg-name="UK- SKY SPORTS FOOTBALL FHD" tvg-logo="http://62.182.85.43/poster/skyfootball.jpg",UK- SKY SPORTS FOOTBALL FHD
+http://bestsave.ltd:2052/141414/151515/75499
+#EXTINF:-1 tvg-name="UK- SKY SPORTS CRICKET FHD" tvg-logo="http://62.182.85.43/poster/skycri.jpg",UK- SKY SPORTS CRICKET FHD
+http://bestsave.ltd:2052/141414/151515/75498
+#EXTINF:-1 tvg-name="UK- SKY SPORTS GOLF FHD" tvg-logo="http://62.182.85.43/poster/skygolf.jpg",UK- SKY SPORTS GOLF FHD
+http://bestsave.ltd:2052/141414/151515/75497
+#EXTINF:-1 tvg-name="UK- SKY SPORTS ACTION FHD" tvg-logo="http://62.182.85.43/poster/skysaction.jpg",UK- SKY SPORTS ACTION FHD
+http://bestsave.ltd:2052/141414/151515/75495
+#EXTINF:-1 tvg-name="UK- SKY SPORTS MIX FHD" tvg-logo="http://62.182.85.43/poster/skymix.jpg",UK- SKY SPORTS MIX FHD
+http://bestsave.ltd:2052/141414/151515/75493
+#EXTINF:-1 tvg-name="UK- SKY SPORTS ARENA FHD" tvg-logo="http://62.182.85.43/poster/skyarena.jpg",UK- SKY SPORTS ARENA FHD
+http://bestsave.ltd:2052/141414/151515/75494
+#EXTINF:-1 tvg-name="UK- SKY SPORTS MAIN EVENT FHD" tvg-logo="http://62.182.85.43/poster/skysportmain.jpg",UK- SKY SPORTS MAIN EVENT FHD
+http://bestsave.ltd:2052/141414/151515/75501
+#EXTINF:-1 tvg-name="UK- SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://62.182.85.43/poster/skysports.jpg",UK- SKY SPORTS PREMIER LEAGUE FHD
+http://bestsave.ltd:2052/141414/151515/75500
+#EXTINF:-1 tvg-name="UK- SKY CINEMA PREMIER." tvg-logo="http://62.182.85.43/poster/sky.jpg",UK- SKY CINEMA PREMIER.
+http://bestsave.ltd:2052/141414/151515/75513
+#EXTINF:-1 tvg-name="UK- SKY CINEMA HITS." tvg-logo="http://62.182.85.43/poster/skyHits1.jpg",UK- SKY CINEMA HITS.
+http://bestsave.ltd:2052/141414/151515/75512
+#EXTINF:-1 tvg-name="UK- SKY CINEMA FAMILY." tvg-logo="http://62.182.85.43/poster/skyFamily.jpg",UK- SKY CINEMA FAMILY.
+http://bestsave.ltd:2052/141414/151515/75511
+#EXTINF:-1 tvg-name="UK- SKY COMEDY FHD (NEW)" tvg-logo="http://62.182.85.43/poster/comedy.jpg",UK- SKY COMEDY FHD (NEW)
+http://bestsave.ltd:2052/141414/151515/75510
+#EXTINF:-1 tvg-name="UK- SKY CINEMA COMEDY" tvg-logo="http://62.182.85.43/poster/skycenimacomedy.jpg",UK- SKY CINEMA COMEDY
+http://bestsave.ltd:2052/141414/151515/75509
+#EXTINF:-1 tvg-name="UK- SKY CINEMA DISNEY" tvg-logo="http://62.182.85.43/poster/skydisnep.jpg",UK- SKY CINEMA DISNEY
+http://bestsave.ltd:2052/141414/151515/75508
+#EXTINF:-1 tvg-name="UK- SKY CINEMA ACTION." tvg-logo="http://62.182.85.43/poster/skyaction.jpg",UK- SKY CINEMA ACTION.
+http://bestsave.ltd:2052/141414/151515/75507
+#EXTINF:-1 tvg-name="UK- SKY CINEMA DRAMA" tvg-logo="http://62.182.85.43/poster/skydarama.jpg",UK- SKY CINEMA DRAMA
+http://bestsave.ltd:2052/141414/151515/75506
+#EXTINF:-1 tvg-name="UK- SKY CINEMA SCI-FI." tvg-logo="http://62.182.85.43/poster/skyscifi.jpg",UK- SKY CINEMA SCI-FI.
+http://bestsave.ltd:2052/141414/151515/75505
+#EXTINF:-1 tvg-name="UK- SKY CINEMA THRILLER." tvg-logo="http://62.182.85.43/poster/skythriller.jpg",UK- SKY CINEMA THRILLER.
+http://bestsave.ltd:2052/141414/151515/75504
+#EXTINF:-1 tvg-name="UK- SKY CINEMA GREATS." tvg-logo="http://62.182.85.43/poster/skygreats.jpg",UK- SKY CINEMA GREATS.
+http://bestsave.ltd:2052/141414/151515/75503
+#EXTINF:-1 tvg-name="UK- SKY CINEMA SELECT/OSCARS" tvg-logo="http://62.182.85.43/poster/skyslect.jpg",UK- SKY CINEMA SELECT/OSCARS
+http://bestsave.ltd:2052/141414/151515/75502
+#EXTINF:-1 tvg-name="UK- SKY CINEMA PREMIER FHD" tvg-logo="http://62.182.85.43/poster/sky.jpg",UK- SKY CINEMA PREMIER FHD
+http://bestsave.ltd:2052/141414/151515/75490
+#EXTINF:-1 tvg-name="UK- SKY CINEMA HITS FHD" tvg-logo="http://62.182.85.43/poster/skyHits1.jpg",UK- SKY CINEMA HITS FHD
+http://bestsave.ltd:2052/141414/151515/75489
+#EXTINF:-1 tvg-name="UK- SKY CINEMA FAMILY FHD" tvg-logo="http://62.182.85.43/poster/skyFamily.jpg",UK- SKY CINEMA FAMILY FHD
+http://bestsave.ltd:2052/141414/151515/75488
+#EXTINF:-1 tvg-name="UK- SKY CINEMA COMEDY FHD" tvg-logo="http://62.182.85.43/poster/skycenimacomedy.jpg",UK- SKY CINEMA COMEDY FHD
+http://bestsave.ltd:2052/141414/151515/75487
+#EXTINF:-1 tvg-name="UK- SKY CINEMA DISNEY FHD" tvg-logo="http://62.182.85.43/poster/skydisnep.jpg",UK- SKY CINEMA DISNEY FHD
+http://bestsave.ltd:2052/141414/151515/75486
+#EXTINF:-1 tvg-name="UK- SKY CINEMA ACTION FHD" tvg-logo="http://62.182.85.43/poster/skyaction.jpg",UK- SKY CINEMA ACTION FHD
+http://bestsave.ltd:2052/141414/151515/75485
+#EXTINF:-1 tvg-name="UK- SKY CINEMA DRAMA FHD" tvg-logo="http://62.182.85.43/poster/skydarama.jpg",UK- SKY CINEMA DRAMA FHD
+http://bestsave.ltd:2052/141414/151515/75484
+#EXTINF:-1 tvg-name="UK- SKY CINEMA SCI-FI FHD" tvg-logo="http://62.182.85.43/poster/skyscifi.jpg",UK- SKY CINEMA SCI-FI FHD
+http://bestsave.ltd:2052/141414/151515/75483
+#EXTINF:-1 tvg-name="UK- SKY CINEMA THRILLER FHD" tvg-logo="http://62.182.85.43/poster/skythriller.jpg",UK- SKY CINEMA THRILLER FHD
+http://bestsave.ltd:2052/141414/151515/75482
+#EXTINF:-1 tvg-name="UK- SKY CINEMA GREATS FHD" tvg-logo="http://62.182.85.43/poster/skygreats.jpg",UK- SKY CINEMA GREATS FHD
+http://bestsave.ltd:2052/141414/151515/75481
+#EXTINF:-1 tvg-name="UK- SKY CINEMA ANIMATION" tvg-logo="http://62.182.85.43/poster/skyani.jpg",UK- SKY CINEMA ANIMATION
+http://bestsave.ltd:2052/141414/151515/75479
+#EXTINF:-1 tvg-name="UK- SKY SPORTS NFL FHD" tvg-logo="http://62.182.85.43/poster/skyNFL.jpg",UK- SKY SPORTS NFL FHD
+http://bestsave.ltd:2052/141414/151515/75478
+#EXTINF:-1 tvg-name="UK- SKY SPORTS BOX OFFICE (LIVE DURING BOXING MATCH)" tvg-logo="http://62.182.85.43/poster/office.jpg",UK- SKY SPORTS BOX OFFICE (LIVE DURING BOXING MATCH)
+http://bestsave.ltd:2052/141414/151515/75477
+#EXTINF:-1 tvg-name="UK- SKY SPORTS MAIN EVENT SD" tvg-logo="http://62.182.85.43/poster/mainevent.jpg",UK- SKY SPORTS MAIN EVENT SD
+http://bestsave.ltd:2052/141414/151515/75476
+#EXTINF:-1 tvg-name="UK- SKY SPORTS PREMIER LEAGUE SD" tvg-logo="http://62.182.85.43/poster/league.jpg",UK- SKY SPORTS PREMIER LEAGUE SD
+http://bestsave.ltd:2052/141414/151515/75475
+#EXTINF:-1 tvg-name="UK- SKY SPORTS FOOTBALL SD" tvg-logo="http://62.182.85.43/poster/skyfootball.jpg",UK- SKY SPORTS FOOTBALL SD
+http://bestsave.ltd:2052/141414/151515/75474
+#EXTINF:-1 tvg-name="UK- SKY SPORTS CRICKET SD" tvg-logo="http://62.182.85.43/poster/skycri.jpg",UK- SKY SPORTS CRICKET SD
+http://bestsave.ltd:2052/141414/151515/75473
+#EXTINF:-1 tvg-name="UK- SKY SPORTS GOLF SD" tvg-logo="http://62.182.85.43/poster/skygolf.jpg",UK- SKY SPORTS GOLF SD
+http://bestsave.ltd:2052/141414/151515/75472
+#EXTINF:-1 tvg-name="UK- SKY SPORTS ACTION SD" tvg-logo="http://62.182.85.43/poster/skyaction.jpg",UK- SKY SPORTS ACTION SD
+http://bestsave.ltd:2052/141414/151515/75470
+#EXTINF:-1 tvg-name="UK- SKY SPORTS ARENA SD" tvg-logo="http://62.182.85.43/poster/skyarena.jpg",UK- SKY SPORTS ARENA SD
+http://bestsave.ltd:2052/141414/151515/75469
+#EXTINF:-1 tvg-name="UK- SKY SPORTS RACING SD (2AM OFF-AUTO BOOT 6.30AM)" tvg-logo="http://62.182.85.43/poster/skyracing.jpg",UK- SKY SPORTS RACING SD (2AM OFF-AUTO BOOT 6.30AM)
+http://bestsave.ltd:2052/141414/151515/75468
+#EXTINF:-1 tvg-name="UK- SKY SPORTS MIX SD" tvg-logo="http://62.182.85.43/poster/skymix.jpg",UK- SKY SPORTS MIX SD
+http://bestsave.ltd:2052/141414/151515/75467
+#EXTINF:-1 tvg-name="UK- SKY SPORTS NEWS SD" tvg-logo="http://62.182.85.43/poster/skynews.jpg",UK- SKY SPORTS NEWS SD
+http://bestsave.ltd:2052/141414/151515/75466
+#EXTINF:-1 tvg-name="UK- SKY SPORTS MAIN EVENT HD" tvg-logo="http://62.182.85.43/poster/mainevent.jpg",UK- SKY SPORTS MAIN EVENT HD
+http://bestsave.ltd:2052/141414/151515/75465
+#EXTINF:-1 tvg-name="UK- SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://62.182.85.43/poster/league.jpg",UK- SKY SPORTS PREMIER LEAGUE HD
+http://bestsave.ltd:2052/141414/151515/75464
+#EXTINF:-1 tvg-name="UK- SKY SPORTS FOOTBALL HD" tvg-logo="http://62.182.85.43/poster/skyfootball.jpg",UK- SKY SPORTS FOOTBALL HD
+http://bestsave.ltd:2052/141414/151515/75463
+#EXTINF:-1 tvg-name="UK- SKY SPORTS CRICKET HD" tvg-logo="http://62.182.85.43/poster/skycri.jpg",UK- SKY SPORTS CRICKET HD
+http://bestsave.ltd:2052/141414/151515/75462
+#EXTINF:-1 tvg-name="UK- SKY SPORTS GOLF HD" tvg-logo="http://62.182.85.43/poster/skygolf.jpg",UK- SKY SPORTS GOLF HD
+http://bestsave.ltd:2052/141414/151515/75461
+#EXTINF:-1 tvg-name="UK- SKY SPORTS ACTION HD" tvg-logo="http://62.182.85.43/poster/skysaction.jpg",UK- SKY SPORTS ACTION HD
+http://bestsave.ltd:2052/141414/151515/75459
+#EXTINF:-1 tvg-name="UK- SKY SPORTS ARENA HD" tvg-logo="http://62.182.85.43/poster/skyarena.jpg",UK- SKY SPORTS ARENA HD
+http://bestsave.ltd:2052/141414/151515/75458
+#EXTINF:-1 tvg-name="UK- SKY SPORTS MIX HD" tvg-logo="http://62.182.85.43/poster/skymix.jpg",UK- SKY SPORTS MIX HD
+http://bestsave.ltd:2052/141414/151515/75457
+#EXTINF:-1 tvg-name="UK- SKY SPORTS RACING HD (2AM OFF-AUTO BOOT 6.30AM)" tvg-logo="http://62.182.85.43/poster/skyracing.jpg",UK- SKY SPORTS RACING HD (2AM OFF-AUTO BOOT 6.30AM)
+http://bestsave.ltd:2052/141414/151515/75456
+#EXTINF:-1 tvg-name="UK- SKY SPORTS NEWS HD" tvg-logo="http://62.182.85.43/poster/skynews.jpg",UK- SKY SPORTS NEWS HD
+http://bestsave.ltd:2052/141414/151515/75455
+#EXTINF:-1 tvg-name="UK- SKY ONE FHD" tvg-logo="http://62.182.85.43/poster/sky1.jpg",UK- SKY ONE FHD
+http://bestsave.ltd:2052/141414/151515/75454
+#EXTINF:-1 tvg-name="UK- SKY WITNESS FHD" tvg-logo="http://62.182.85.43/poster/witness.jpg",UK- SKY WITNESS FHD
+http://bestsave.ltd:2052/141414/151515/75453
+#EXTINF:-1 tvg-name="UK- SKY ATLANTIC FHD *" tvg-logo="http://62.182.85.43/poster/atlantic.jpg",UK- SKY ATLANTIC FHD *
+http://bestsave.ltd:2052/141414/151515/75452
+#EXTINF:-1 tvg-name="UK- SKY ARTS FHD" tvg-logo="http://62.182.85.43/poster/arts.jpg",UK- SKY ARTS FHD
+http://bestsave.ltd:2052/141414/151515/75451
+#EXTINF:-1 tvg-name="UK- SKY CRIME FHD" tvg-logo="http://62.182.85.43/poster/skycrime.jpg",UK- SKY CRIME FHD
+http://bestsave.ltd:2052/141414/151515/75450
+#EXTINF:-1 tvg-name="UK- SKY NATURE FHD" tvg-logo="http://62.182.85.43/poster/skynatural.jpg",UK- SKY NATURE FHD
+http://bestsave.ltd:2052/141414/151515/75449
+#EXTINF:-1 tvg-name="UK- SKY DOCUMENTARIES FHD" tvg-logo="http://62.182.85.43/poster/decumentaries.jpg",UK- SKY DOCUMENTARIES FHD
+http://bestsave.ltd:2052/141414/151515/75448
+
+#EXTINF:-1 tvg-name="US- FOX 10 (WALA) ALABAMA" tvg-logo="http://62.182.85.43/poster/FOX10.jpg",US- FOX 10 (WALA) ALABAMA
+http://bestsave.ltd:2052/141414/151515/81608
+#EXTINF:-1 tvg-name="US- FOX 17 WXMI GRAND RAPIDS" tvg-logo="http://62.182.85.43/poster/fox17.jpg",US- FOX 17 WXMI GRAND RAPIDS
+http://bestsave.ltd:2052/141414/151515/81607
+#EXTINF:-1 tvg-name="US- FOX 20 WCOV MONTGOMERY" tvg-logo="http://62.182.85.43/poster/ox20.jpg",US- FOX 20 WCOV MONTGOMERY
+http://bestsave.ltd:2052/141414/151515/81606
+#EXTINF:-1 tvg-name="US- FOX 23 ALBANY (WXXA)" tvg-logo="http://62.182.85.43/poster/fox23.jpg",US- FOX 23 ALBANY (WXXA)
+http://bestsave.ltd:2052/141414/151515/81605
+#EXTINF:-1 tvg-name="US- FOX 24 KSAS WICHITA" tvg-logo="http://62.182.85.43/poster/fox24.jpg",US- FOX 24 KSAS WICHITA
+http://bestsave.ltd:2052/141414/151515/81604
+#EXTINF:-1 tvg-name="US- FOX 25 (KOKH) OKLAHOMA CITY" tvg-logo="http://62.182.85.43/poster/fox25.jpg",US- FOX 25 (KOKH) OKLAHOMA CITY
+http://bestsave.ltd:2052/141414/151515/81603
+#EXTINF:-1 tvg-name="US- FOX 30 (WGBC) MERIDIAN" tvg-logo="http://62.182.85.43/poster/fox30.jpg",US- FOX 30 (WGBC) MERIDIAN
+http://bestsave.ltd:2052/141414/151515/81602
+#EXTINF:-1 tvg-name="US- FOX 31 ALBANY (WFXL)" tvg-logo="http://62.182.85.43/poster/fox31.jpg",US- FOX 31 ALBANY (WFXL)
+http://bestsave.ltd:2052/141414/151515/81601
+#EXTINF:-1 tvg-name="US- FOX 41 (WDRB) LOUISVILLE" tvg-logo="http://62.182.85.43/poster/fox41.jpg",US- FOX 41 (WDRB) LOUISVILLE
+http://bestsave.ltd:2052/141414/151515/81600
+#EXTINF:-1 tvg-name="US- FOX 42 OMAHA (KPTM)" tvg-logo="http://62.182.85.43/poster/42.jpg",US- FOX 42 OMAHA (KPTM)
+http://bestsave.ltd:2052/141414/151515/81599
+#EXTINF:-1 tvg-name="US- FOX 43 (WFXB) MYRTLE BEACH" tvg-logo="http://62.182.85.43/poster/43.jpg",US- FOX 43 (WFXB) MYRTLE BEACH
+http://bestsave.ltd:2052/141414/151515/81598
+#EXTINF:-1 tvg-name="US- FOX 45 (WRGT) DAYTON" tvg-logo="http://62.182.85.43/poster/45.jpg",US- FOX 45 (WRGT) DAYTON
+http://bestsave.ltd:2052/141414/151515/81597
+#EXTINF:-1 tvg-name="US- FOX 47 WSYM LANSING" tvg-logo="http://62.182.85.43/poster/47.jpg",US- FOX 47 WSYM LANSING
+http://bestsave.ltd:2052/141414/151515/81596
+#EXTINF:-1 tvg-name="US- FOX 50 RALEIGH WRAZ" tvg-logo="http://62.182.85.43/poster/50.jpg",US- FOX 50 RALEIGH WRAZ
+http://bestsave.ltd:2052/141414/151515/81595
+#EXTINF:-1 tvg-name="US- FOX 54 WZDX HUNTSVILLE" tvg-logo="http://62.182.85.43/poster/54.jpg",US- FOX 54 WZDX HUNTSVILLE
+http://bestsave.ltd:2052/141414/151515/81594
+#EXTINF:-1 tvg-name="US- FOX 57 COLUMBIA (WACH)" tvg-logo="http://62.182.85.43/poster/57.jpg",US- FOX 57 COLUMBIA (WACH)
+http://bestsave.ltd:2052/141414/151515/81593
+#EXTINF:-1 tvg-name="US- FOX 6 WBRC BIRMINGHAM" tvg-logo="http://62.182.85.43/poster/6.jpg",US- FOX 6 WBRC BIRMINGHAM
+http://bestsave.ltd:2052/141414/151515/81592
+#EXTINF:-1 tvg-name="US- FOX 66 WSMH FLINT" tvg-logo="http://62.182.85.43/poster/66.jpg",US- FOX 66 WSMH FLINT
+http://bestsave.ltd:2052/141414/151515/81591
+#EXTINF:-1 tvg-name="US- FOX 9 WTVC-DT CHATTANOOGA" tvg-logo="http://62.182.85.43/poster/9.jpg",US- FOX 9 WTVC-DT CHATTANOOGA
+http://bestsave.ltd:2052/141414/151515/81590
+#EXTINF:-1 tvg-name="US- FOX ATLANTA WAGA" tvg-logo="http://62.182.85.43/poster/atlanta.jpg",US- FOX ATLANTA WAGA
+http://bestsave.ltd:2052/141414/151515/81589
+#EXTINF:-1 tvg-name="US- FOX AUSTIN KTBC" tvg-logo="http://62.182.85.43/poster/austin.jpg",US- FOX AUSTIN KTBC
+http://bestsave.ltd:2052/141414/151515/81588
+#EXTINF:-1 tvg-name="US- FOX BALTIMORE WBFF" tvg-logo="http://62.182.85.43/poster/foxbaltimore.jpg",US- FOX BALTIMORE WBFF
+http://bestsave.ltd:2052/141414/151515/81587
+#EXTINF:-1 tvg-name="US- FOX BELMONT WJZY" tvg-logo="",US- FOX BELMONT WJZY
+http://bestsave.ltd:2052/141414/151515/81586
+#EXTINF:-1 tvg-name="US- FOX BOSTON WFXT" tvg-logo="http://62.182.85.43/poster/25.jpg",US- FOX BOSTON WFXT
+http://bestsave.ltd:2052/141414/151515/81585
+#EXTINF:-1 tvg-name="US- FOX BUFFALO WUTV" tvg-logo="http://62.182.85.43/poster/foxbuffalo.jpg",US- FOX BUFFALO WUTV
+http://bestsave.ltd:2052/141414/151515/81584
+#EXTINF:-1 tvg-name="US- FOX BUSINESS NETWORK LHD" tvg-logo="http://62.182.85.43/poster/foxbusiness.jpg",US- FOX BUSINESS NETWORK LHD
+http://bestsave.ltd:2052/141414/151515/81583
+#EXTINF:-1 tvg-name="US- FOX BUSINESS SD" tvg-logo="http://62.182.85.43/poster/foxbusiness.jpg",US- FOX BUSINESS SD
+http://bestsave.ltd:2052/141414/151515/81582
+#EXTINF:-1 tvg-name="US- FOX BUSINESS UHD" tvg-logo="http://62.182.85.43/poster/foxbusiness.jpg",US- FOX BUSINESS UHD
+http://bestsave.ltd:2052/141414/151515/81581
+#EXTINF:-1 tvg-name="US- FOX BUSINESS NETWORK" tvg-logo="http://62.182.85.43/poster/foxbusiness.jpg",US- FOX BUSINESS NETWORK
+http://bestsave.ltd:2052/141414/151515/81580
+#EXTINF:-1 tvg-name="US- FOX CHICAGO WFLD" tvg-logo="http://62.182.85.43/poster/foxchicaga.jpg",US- FOX CHICAGO WFLD
+http://bestsave.ltd:2052/141414/151515/81579
+#EXTINF:-1 tvg-name="US- FOX CLEVELAND WJW" tvg-logo="http://62.182.85.43/poster/foxcleveland.jpg",US- FOX CLEVELAND WJW
+http://bestsave.ltd:2052/141414/151515/81578
+#EXTINF:-1 tvg-name="US- FOX COLLEGE PACIFIC" tvg-logo="http://62.182.85.43/poster/foxcollege.jpg",US- FOX COLLEGE PACIFIC
+http://bestsave.ltd:2052/141414/151515/81577
+#EXTINF:-1 tvg-name="US- FOX COLUMBUS WTTE" tvg-logo="http://62.182.85.43/poster/28.jpg",US- FOX COLUMBUS WTTE
+http://bestsave.ltd:2052/141414/151515/81576
+#EXTINF:-1 tvg-name="US- FOX DALLAS KDFW" tvg-logo="http://62.182.85.43/poster/4.jpg",US- FOX DALLAS KDFW
+http://bestsave.ltd:2052/141414/151515/81575
+#EXTINF:-1 tvg-name="US- FOX DENVER KDVR" tvg-logo="http://62.182.85.43/poster/foxdenver.jpg",US- FOX DENVER KDVR
+http://bestsave.ltd:2052/141414/151515/81574
+#EXTINF:-1 tvg-name="US- FOX DEPORTES" tvg-logo="http://62.182.85.43/poster/foxdeportes.jpg",US- FOX DEPORTES
+http://bestsave.ltd:2052/141414/151515/81573
+#EXTINF:-1 tvg-name="US- FOX DEPORTES LHD" tvg-logo="http://62.182.85.43/poster/foxdeportes.jpg",US- FOX DEPORTES LHD
+http://bestsave.ltd:2052/141414/151515/81572
+#EXTINF:-1 tvg-name="US- FOX DETROIT WJBK" tvg-logo="http://62.182.85.43/poster/FoxDetroit.jpg",US- FOX DETROIT WJBK
+http://bestsave.ltd:2052/141414/151515/81571
+#EXTINF:-1 tvg-name="US- FOX GREEN BAY WLUK" tvg-logo="http://62.182.85.43/poster/1.jpg",US- FOX GREEN BAY WLUK
+http://bestsave.ltd:2052/141414/151515/81570
+#EXTINF:-1 tvg-name="US- FOX HARTFORD WTIC" tvg-logo="http://62.182.85.43/poster/61.jpg",US- FOX HARTFORD WTIC
+http://bestsave.ltd:2052/141414/151515/81568
+#EXTINF:-1 tvg-name="US- FOX HOUSTON KRIV" tvg-logo="http://62.182.85.43/poster/foxhouston.jpg",US- FOX HOUSTON KRIV
+http://bestsave.ltd:2052/141414/151515/81567
+#EXTINF:-1 tvg-name="US- FOX INDIANAPOLIS WXIN" tvg-logo="http://62.182.85.43/poster/59.jpg",US- FOX INDIANAPOLIS WXIN
+http://bestsave.ltd:2052/141414/151515/81566
+#EXTINF:-1 tvg-name="US- FOX JACKSONVILLE WFOX" tvg-logo="http://62.182.85.43/poster/30.jpg",US- FOX JACKSONVILLE WFOX
+http://bestsave.ltd:2052/141414/151515/81565
+#EXTINF:-1 tvg-name="US- FOX KANSAS CITY WDAF" tvg-logo="http://62.182.85.43/poster/foxcity.jpg",US- FOX KANSAS CITY WDAF
+http://bestsave.ltd:2052/141414/151515/81564
+#EXTINF:-1 tvg-name="US- FOX LOS ANGELES KTTV" tvg-logo="http://62.182.85.43/poster/11.jpg",US- FOX LOS ANGELES KTTV
+http://bestsave.ltd:2052/141414/151515/81563
+#EXTINF:-1 tvg-name="US- FOX MIAMI WSVN UHD" tvg-logo="http://62.182.85.43/poster/7.jpg",US- FOX MIAMI WSVN UHD
+http://bestsave.ltd:2052/141414/151515/81562
+#EXTINF:-1 tvg-name="US- FOX MILWAUKEE WITI" tvg-logo="http://62.182.85.43/poster/foxmilwaukee.jpg",US- FOX MILWAUKEE WITI
+http://bestsave.ltd:2052/141414/151515/81561
+#EXTINF:-1 tvg-name="US- FOX MINNEAPOLIS KMSP" tvg-logo="http://62.182.85.43/poster/9.jpg",US- FOX MINNEAPOLIS KMSP
+http://bestsave.ltd:2052/141414/151515/81560
+#EXTINF:-1 tvg-name="US- FOX NASHVILLE WZTV" tvg-logo="http://62.182.85.43/poster/foxNashville.jpg",US- FOX NASHVILLE WZTV
+http://bestsave.ltd:2052/141414/151515/81559
+#EXTINF:-1 tvg-name="US- FOX NETWORK EAST SD" tvg-logo="http://62.182.85.43/poster/foxnetwork.jpg",US- FOX NETWORK EAST SD
+http://bestsave.ltd:2052/141414/151515/81558
+#EXTINF:-1 tvg-name="US- FOX NETWORK MIAMI" tvg-logo="http://62.182.85.43/poster/foxnetwork.jpg",US- FOX NETWORK MIAMI
+http://bestsave.ltd:2052/141414/151515/81557
+#EXTINF:-1 tvg-name="US- FOX NEW ORLEANS WVUE" tvg-logo="http://62.182.85.43/poster/8.jpg",US- FOX NEW ORLEANS WVUE
+http://bestsave.ltd:2052/141414/151515/81556
+#EXTINF:-1 tvg-name="US- FOX NEW YORK SD" tvg-logo="http://62.182.85.43/poster/foxnewyork.jpg",US- FOX NEW YORK SD
+http://bestsave.ltd:2052/141414/151515/81555
+#EXTINF:-1 tvg-name="US- FOX NEW YORK WNYW" tvg-logo="http://62.182.85.43/poster/foxnewyork.jpg",US- FOX NEW YORK WNYW
+http://bestsave.ltd:2052/141414/151515/81554
+#EXTINF:-1 tvg-name="US- FOX NEWS CHANNEL" tvg-logo="http://62.182.85.43/poster/foxchannel.jpg",US- FOX NEWS CHANNEL
+http://bestsave.ltd:2052/141414/151515/81553
+#EXTINF:-1 tvg-name="US- FOX NEWS CHANNEL LHD" tvg-logo="http://62.182.85.43/poster/foxchannel.jpg",US- FOX NEWS CHANNEL LHD
+http://bestsave.ltd:2052/141414/151515/81552
+#EXTINF:-1 tvg-name="US- FOX NEWS SD" tvg-logo="http://62.182.85.43/poster/foxchannel.jpg",US- FOX NEWS SD
+http://bestsave.ltd:2052/141414/151515/81551
+#EXTINF:-1 tvg-name="US- FOX NEWS UHD" tvg-logo="http://62.182.85.43/poster/foxchannel.jpg",US- FOX NEWS UHD
+http://bestsave.ltd:2052/141414/151515/81550
+#EXTINF:-1 tvg-name="US- FOX OCALA WOGX" tvg-logo="http://62.182.85.43/poster/51.jpg",US- FOX OCALA WOGX
+http://bestsave.ltd:2052/141414/151515/81549
+#EXTINF:-1 tvg-name="US- FOX ORLANDO WOFL" tvg-logo="http://62.182.85.43/poster/foxorlando.jpg",US- FOX ORLANDO WOFL
+http://bestsave.ltd:2052/141414/151515/81548
+#EXTINF:-1 tvg-name="US- FOX PHILADELPHIA WTXF" tvg-logo="http://62.182.85.43/poster/foxphiladelphia.jpg",US- FOX PHILADELPHIA WTXF
+http://bestsave.ltd:2052/141414/151515/81547
+#EXTINF:-1 tvg-name="US- FOX PHOENIX KSAZ" tvg-logo="http://62.182.85.43/poster/10.jpg",US- FOX PHOENIX KSAZ
+http://bestsave.ltd:2052/141414/151515/81546
+#EXTINF:-1 tvg-name="US- FOX PITTSBURGH WPGH" tvg-logo="http://62.182.85.43/poster/53.jpg",US- FOX PITTSBURGH WPGH
+http://bestsave.ltd:2052/141414/151515/81545
+#EXTINF:-1 tvg-name="US- FOX SACRAMENTO KTXL" tvg-logo="http://62.182.85.43/poster/40.jpg",US- FOX SACRAMENTO KTXL
+http://bestsave.ltd:2052/141414/151515/81544
+#EXTINF:-1 tvg-name="US- FOX SALT LAKE CITY KSTU" tvg-logo="http://62.182.85.43/poster/13.jpg",US- FOX SALT LAKE CITY KSTU
+http://bestsave.ltd:2052/141414/151515/81543
+#EXTINF:-1 tvg-name="US- FOX SAN ANTONIO KABB" tvg-logo="http://62.182.85.43/poster/29.jpg",US- FOX SAN ANTONIO KABB
+http://bestsave.ltd:2052/141414/151515/81542
+#EXTINF:-1 tvg-name="US- FOX SAN DIEGO KSWB" tvg-logo="",US- FOX SAN DIEGO KSWB
+http://bestsave.ltd:2052/141414/151515/81541
+#EXTINF:-1 tvg-name="US- FOX SAN FRANCISCO KTVU" tvg-logo="http://62.182.85.43/poster/fox2.jpg",US- FOX SAN FRANCISCO KTVU
+http://bestsave.ltd:2052/141414/151515/81540
+#EXTINF:-1 tvg-name="US- FOX SEATTLE KCPQ" tvg-logo="http://62.182.85.43/poster/13.jpg",US- FOX SEATTLE KCPQ
+http://bestsave.ltd:2052/141414/151515/81539
+#EXTINF:-1 tvg-name="US- FOX SOCCER PLUS" tvg-logo="http://62.182.85.43/poster/foxsoccer.jpg",US- FOX SOCCER PLUS
+http://bestsave.ltd:2052/141414/151515/81538
+#EXTINF:-1 tvg-name="US- FOX SOCCER PLUS LHD" tvg-logo="http://62.182.85.43/poster/foxsoccer.jpg",US- FOX SOCCER PLUS LHD
+http://bestsave.ltd:2052/141414/151515/81537
+#EXTINF:-1 tvg-name="US- FOX SPORTS 1 LHD" tvg-logo="http://62.182.85.43/poster/foxs1.jpg",US- FOX SPORTS 1 LHD
+http://bestsave.ltd:2052/141414/151515/81536
+#EXTINF:-1 tvg-name="US- FOX SPORTS 1 SD" tvg-logo="http://62.182.85.43/poster/foxs1.jpg",US- FOX SPORTS 1 SD
+http://bestsave.ltd:2052/141414/151515/81535
+#EXTINF:-1 tvg-name="US- FOX SPORTS 1 UHD" tvg-logo="http://62.182.85.43/poster/foxs1.jpg",US- FOX SPORTS 1 UHD
+http://bestsave.ltd:2052/141414/151515/81534
+#EXTINF:-1 tvg-name="US- FOX SPORTS 2" tvg-logo="http://62.182.85.43/poster/foxs2.jpg",US- FOX SPORTS 2
+http://bestsave.ltd:2052/141414/151515/81533
+#EXTINF:-1 tvg-name="US- FOX SPORTS 2 LHD" tvg-logo="http://62.182.85.43/poster/foxs2.jpg",US- FOX SPORTS 2 LHD
+http://bestsave.ltd:2052/141414/151515/81532
+#EXTINF:-1 tvg-name="US- FOX SPORTS 2 SD" tvg-logo="http://62.182.85.43/poster/foxs2.jpg",US- FOX SPORTS 2 SD
+http://bestsave.ltd:2052/141414/151515/81531
+#EXTINF:-1 tvg-name="US- FOX SPORTS 2 UHD" tvg-logo="http://62.182.85.43/poster/foxs2.jpg",US- FOX SPORTS 2 UHD
+http://bestsave.ltd:2052/141414/151515/81530
+#EXTINF:-1 tvg-name="US- FOX SPORTS ARIZONA" tvg-logo="http://62.182.85.43/poster/foxarizoa.jpg",US- FOX SPORTS ARIZONA
+http://bestsave.ltd:2052/141414/151515/81529
+#EXTINF:-1 tvg-name="US- FOX SPORTS ARIZONA LHD" tvg-logo="http://62.182.85.43/poster/foxarizoa.jpg",US- FOX SPORTS ARIZONA LHD
+http://bestsave.ltd:2052/141414/151515/81528
+#EXTINF:-1 tvg-name="US- FOX SPORTS CINCINNATI" tvg-logo="http://62.182.85.43/poster/foxcinci.jpg",US- FOX SPORTS CINCINNATI
+http://bestsave.ltd:2052/141414/151515/81527
+#EXTINF:-1 tvg-name="US- FOX SPORTS COLLEGE ATLANTIC" tvg-logo="http://62.182.85.43/poster/foxcolleges.jpg",US- FOX SPORTS COLLEGE ATLANTIC
+http://bestsave.ltd:2052/141414/151515/81526
+#EXTINF:-1 tvg-name="US- FOX SPORTS DETROIT" tvg-logo="http://62.182.85.43/poster/FoxDetroit.jpg",US- FOX SPORTS DETROIT
+http://bestsave.ltd:2052/141414/151515/81525
+#EXTINF:-1 tvg-name="US- FOX SPORTS DETROIT LHD" tvg-logo="http://62.182.85.43/poster/FoxDetroit.jpg",US- FOX SPORTS DETROIT LHD
+http://bestsave.ltd:2052/141414/151515/81524
+#EXTINF:-1 tvg-name="US- FOX SPORTS FLORIDA" tvg-logo="http://62.182.85.43/poster/foxflorida.jpg",US- FOX SPORTS FLORIDA
+http://bestsave.ltd:2052/141414/151515/81523
+#EXTINF:-1 tvg-name="US- FOX SPORTS FLORIDA LHD" tvg-logo="http://62.182.85.43/poster/foxflorida.jpg",US- FOX SPORTS FLORIDA LHD
+http://bestsave.ltd:2052/141414/151515/81522
+#EXTINF:-1 tvg-name="US- FOX SPORTS INDIANA PLUS KDVR" tvg-logo="http://62.182.85.43/poster/foxindia.jpg",US- FOX SPORTS INDIANA PLUS KDVR
+http://bestsave.ltd:2052/141414/151515/81521
+#EXTINF:-1 tvg-name="US- FOX SPORTS MIDWEST" tvg-logo="http://62.182.85.43/poster/foxmidwest.jpg",US- FOX SPORTS MIDWEST
+http://bestsave.ltd:2052/141414/151515/81520
+#EXTINF:-1 tvg-name="US- FOX SPORTS NETBASE" tvg-logo="",US- FOX SPORTS NETBASE
+http://bestsave.ltd:2052/141414/151515/81519
+#EXTINF:-1 tvg-name="US- FOX SPORTS NEW ORLEANS" tvg-logo="",US- FOX SPORTS NEW ORLEANS
+http://bestsave.ltd:2052/141414/151515/81518
+#EXTINF:-1 tvg-name="US- FOX SPORTS NORTH" tvg-logo="http://62.182.85.43/poster/foxy.jpg",US- FOX SPORTS NORTH
+http://bestsave.ltd:2052/141414/151515/81517
+#EXTINF:-1 tvg-name="US- FOX SPORTS NORTH LHD" tvg-logo="http://62.182.85.43/poster/foxy.jpg",US- FOX SPORTS NORTH LHD
+http://bestsave.ltd:2052/141414/151515/81516
+#EXTINF:-1 tvg-name="US- FOX SPORTS OHIO" tvg-logo="http://62.182.85.43/poster/foxohio.jpg",US- FOX SPORTS OHIO
+http://bestsave.ltd:2052/141414/151515/81515
+#EXTINF:-1 tvg-name="US- FOX SPORTS OHIO LHD" tvg-logo="http://62.182.85.43/poster/foxohio.jpg",US- FOX SPORTS OHIO LHD
+http://bestsave.ltd:2052/141414/151515/81514
+#EXTINF:-1 tvg-name="US- FOX SPORTS OKLAHOMA" tvg-logo="http://62.182.85.43/poster/foxoklahoma.jpg",US- FOX SPORTS OKLAHOMA
+http://bestsave.ltd:2052/141414/151515/81513
+#EXTINF:-1 tvg-name="US- FOX SPORTS OKLAHOMA LHD" tvg-logo="http://62.182.85.43/poster/foxoklahoma.jpg",US- FOX SPORTS OKLAHOMA LHD
+http://bestsave.ltd:2052/141414/151515/81512
+#EXTINF:-1 tvg-name="US- FOX SPORTS PRIME TICKET" tvg-logo="http://62.182.85.43/poster/foxticket.jpg",US- FOX SPORTS PRIME TICKET
+http://bestsave.ltd:2052/141414/151515/81511
+#EXTINF:-1 tvg-name="US- FOX SPORTS PRIME TICKET LHD" tvg-logo="http://62.182.85.43/poster/foxticket.jpg",US- FOX SPORTS PRIME TICKET LHD
+http://bestsave.ltd:2052/141414/151515/81510
+#EXTINF:-1 tvg-name="US- FOX SPORTS SAN DIEGO" tvg-logo="http://62.182.85.43/poster/foxsan.jpg",US- FOX SPORTS SAN DIEGO
+http://bestsave.ltd:2052/141414/151515/81509
+#EXTINF:-1 tvg-name="US- FOX SPORTS SAN DIEGO LHD" tvg-logo="http://62.182.85.43/poster/foxsan.jpg",US- FOX SPORTS SAN DIEGO LHD
+http://bestsave.ltd:2052/141414/151515/81508
+#EXTINF:-1 tvg-name="US- FOX SPORTS SOUTH" tvg-logo="",US- FOX SPORTS SOUTH
+http://bestsave.ltd:2052/141414/151515/81507
+#EXTINF:-1 tvg-name="US- FOX SPORTS SOUTH LHD" tvg-logo="",US- FOX SPORTS SOUTH LHD
+http://bestsave.ltd:2052/141414/151515/81506
+#EXTINF:-1 tvg-name="US- FOX SPORTS SOUTHEAST" tvg-logo="",US- FOX SPORTS SOUTHEAST
+http://bestsave.ltd:2052/141414/151515/81505
+#EXTINF:-1 tvg-name="US- FOX SPORTS SOUTHEAST LHD" tvg-logo="",US- FOX SPORTS SOUTHEAST LHD
+http://bestsave.ltd:2052/141414/151515/81504
+#EXTINF:-1 tvg-name="US- FOX SPORTS SOUTHWEST" tvg-logo="",US- FOX SPORTS SOUTHWEST
+http://bestsave.ltd:2052/141414/151515/81503
+#EXTINF:-1 tvg-name="US- FOX SPORTS SOUTHWEST LHD" tvg-logo="",US- FOX SPORTS SOUTHWEST LHD
+http://bestsave.ltd:2052/141414/151515/81502
+#EXTINF:-1 tvg-name="US- FOX SPORTS SP OHIO" tvg-logo="",US- FOX SPORTS SP OHIO
+http://bestsave.ltd:2052/141414/151515/81501
+#EXTINF:-1 tvg-name="US- FOX SPORTS SUN" tvg-logo="",US- FOX SPORTS SUN
+http://bestsave.ltd:2052/141414/151515/81500
+#EXTINF:-1 tvg-name="US- FOX SPORTS SUN LHD" tvg-logo="",US- FOX SPORTS SUN LHD
+http://bestsave.ltd:2052/141414/151515/81499
+#EXTINF:-1 tvg-name="US- FOX SPORTS TENNESSEE" tvg-logo="",US- FOX SPORTS TENNESSEE
+http://bestsave.ltd:2052/141414/151515/81498
+#EXTINF:-1 tvg-name="US- FOX SPORTS TENNESSEE LHD" tvg-logo="",US- FOX SPORTS TENNESSEE LHD
+http://bestsave.ltd:2052/141414/151515/81497
+#EXTINF:-1 tvg-name="US- FOX SPORTS WEST" tvg-logo="",US- FOX SPORTS WEST
+http://bestsave.ltd:2052/141414/151515/81496
+#EXTINF:-1 tvg-name="US- FOX SPORTS WEST LHD" tvg-logo="",US- FOX SPORTS WEST LHD
+http://bestsave.ltd:2052/141414/151515/81495
+#EXTINF:-1 tvg-name="US- FOX SPORTS WISCONSIN" tvg-logo="",US- FOX SPORTS WISCONSIN
+http://bestsave.ltd:2052/141414/151515/81494
+#EXTINF:-1 tvg-name="US- FOX SPORTS WISCONSIN LHD" tvg-logo="",US- FOX SPORTS WISCONSIN LHD
+http://bestsave.ltd:2052/141414/151515/81493
+#EXTINF:-1 tvg-name="US- FOX SPORTSTIME OHIO" tvg-logo="",US- FOX SPORTSTIME OHIO
+http://bestsave.ltd:2052/141414/151515/81492
+#EXTINF:-1 tvg-name="US- FOX SPORTSTIME OHIO LHD" tvg-logo="",US- FOX SPORTSTIME OHIO LHD
+http://bestsave.ltd:2052/141414/151515/81491
+
+#EXTINF:-1 tvg-name="US- MOTOR TREND HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MOTOR TREND HD
+http://bestsave.ltd:2052/141414/151515/81490
+#EXTINF:-1 tvg-name="US- MOVIEPLEX FHD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MOVIEPLEX FHD
+http://bestsave.ltd:2052/141414/151515/81488
+#EXTINF:-1 tvg-name="US- MOVIEPLEX HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MOVIEPLEX HD
+http://bestsave.ltd:2052/141414/151515/81487
+#EXTINF:-1 tvg-name="US- RETROPLEX FHD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- RETROPLEX FHD
+http://bestsave.ltd:2052/141414/151515/81485
+#EXTINF:-1 tvg-name="US- MY 13 KCOP LOS ANGELES" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY 13 KCOP LOS ANGELES
+http://bestsave.ltd:2052/141414/151515/81484
+#EXTINF:-1 tvg-name="US- MY 20 HOUSTON KTXH" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY 20 HOUSTON KTXH
+http://bestsave.ltd:2052/141414/151515/81483
+#EXTINF:-1 tvg-name="US- MY 9 NEW JERSEY" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY 9 NEW JERSEY
+http://bestsave.ltd:2052/141414/151515/81481
+#EXTINF:-1 tvg-name="US- MY 9 NEW YORK SD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY 9 NEW YORK SD
+http://bestsave.ltd:2052/141414/151515/81480
+#EXTINF:-1 tvg-name="US- MY25 (WFGX) ALABAMA" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY25 (WFGX) ALABAMA
+http://bestsave.ltd:2052/141414/151515/81479
+#EXTINF:-1 tvg-name="US- MY30 (WUXP) NASHVILLE" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY30 (WUXP) NASHVILLE
+http://bestsave.ltd:2052/141414/151515/81478
+#EXTINF:-1 tvg-name="US- MY 33 (WBFS) FORT LAUDERDALE" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY 33 (WBFS) FORT LAUDERDALE
+http://bestsave.ltd:2052/141414/151515/81477
+#EXTINF:-1 tvg-name="US- MY33 (WBFS) MIAMI" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY33 (WBFS) MIAMI
+http://bestsave.ltd:2052/141414/151515/81476
+#EXTINF:-1 tvg-name="US- MY40 (WMYA) CAROLINA" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY40 (WMYA) CAROLINA
+http://bestsave.ltd:2052/141414/151515/81474
+#EXTINF:-1 tvg-name="US- MY48 (WMYV) GREENSBORO" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY48 (WMYV) GREENSBORO
+http://bestsave.ltd:2052/141414/151515/81473
+#EXTINF:-1 tvg-name="US- MY49 (WDKA) PADUCAH" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY49 (WDKA) PADUCAH
+http://bestsave.ltd:2052/141414/151515/81472
+#EXTINF:-1 tvg-name="US- MY49 (WNYO) BUFFALO" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY49 (WNYO) BUFFALO
+http://bestsave.ltd:2052/141414/151515/81471
+#EXTINF:-1 tvg-name="US- MY53 (WQMY) WILLIAMSPORT" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY53 (WQMY) WILLIAMSPORT
+http://bestsave.ltd:2052/141414/151515/81470
+#EXTINF:-1 tvg-name="US- MY62 (KSMO) KANSAS CITY" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MY62 (KSMO) KANSAS CITY
+http://bestsave.ltd:2052/141414/151515/81469
+#EXTINF:-1 tvg-name="US- MYNET (KVCW-DT) LAS VEGAS" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MYNET (KVCW-DT) LAS VEGAS
+http://bestsave.ltd:2052/141414/151515/81468
+#EXTINF:-1 tvg-name="US- MYNET (WCIV) CHARLESTON" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MYNET (WCIV) CHARLESTON
+http://bestsave.ltd:2052/141414/151515/81467
+#EXTINF:-1 tvg-name="US- MYNET (WHP-DT) HARRISBURG" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MYNET (WHP-DT) HARRISBURG
+http://bestsave.ltd:2052/141414/151515/81466
+#EXTINF:-1 tvg-name="US- WWE NETWORK HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- WWE NETWORK HD
+http://bestsave.ltd:2052/141414/151515/81465
+#EXTINF:-1 tvg-name="US- WWE HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- WWE HD
+http://bestsave.ltd:2052/141414/151515/81464
+#EXTINF:-1 tvg-name="US- WGN 9 HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- WGN 9 HD
+http://bestsave.ltd:2052/141414/151515/81462
+#EXTINF:-1 tvg-name="US- VH1 HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- VH1 HD
+http://bestsave.ltd:2052/141414/151515/81461
+#EXTINF:-1 tvg-name="US- VELOCITY HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- VELOCITY HD
+http://bestsave.ltd:2052/141414/151515/81460
+#EXTINF:-1 tvg-name="US- NFL REDZONE HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- NFL REDZONE HD
+http://bestsave.ltd:2052/141414/151515/81459
+#EXTINF:-1 tvg-name="US- NFL NOW HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- NFL NOW HD
+http://bestsave.ltd:2052/141414/151515/81458
+#EXTINF:-1 tvg-name="US- SPIKE HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- SPIKE HD
+http://bestsave.ltd:2052/141414/151515/81457
+#EXTINF:-1 tvg-name="US- SHOWTIME EAST HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- SHOWTIME EAST HD
+http://bestsave.ltd:2052/141414/151515/81456
+#EXTINF:-1 tvg-name="US- SHOWTIME PACIFIC HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- SHOWTIME PACIFIC HD
+http://bestsave.ltd:2052/141414/151515/81455
+#EXTINF:-1 tvg-name="US- SEC NETWORK HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- SEC NETWORK HD
+http://bestsave.ltd:2052/141414/151515/81454
+#EXTINF:-1 tvg-name="US- REELZ HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- REELZ HD
+http://bestsave.ltd:2052/141414/151515/81453
+#EXTINF:-1 tvg-name="US- PBS HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- PBS HD
+http://bestsave.ltd:2052/141414/151515/81452
+#EXTINF:-1 tvg-name="US- OXYGEN HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- OXYGEN HD
+http://bestsave.ltd:2052/141414/151515/81451
+#EXTINF:-1 tvg-name="US- OWN HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- OWN HD
+http://bestsave.ltd:2052/141414/151515/81450
+#EXTINF:-1 tvg-name="US- NICKTOONS HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- NICKTOONS HD
+http://bestsave.ltd:2052/141414/151515/81449
+#EXTINF:-1 tvg-name="US- NICKELODEON HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- NICKELODEON HD
+http://bestsave.ltd:2052/141414/151515/81448
+#EXTINF:-1 tvg-name="US- NICK JR HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- NICK JR HD
+http://bestsave.ltd:2052/141414/151515/81447
+#EXTINF:-1 tvg-name="US- NHL NETWORK HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- NHL NETWORK HD
+http://bestsave.ltd:2052/141414/151515/81446
+#EXTINF:-1 tvg-name="US- NBCSN HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- NBCSN HD
+http://bestsave.ltd:2052/141414/151515/81445
+#EXTINF:-1 tvg-name="US- NBC GOLF HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- NBC GOLF HD
+http://bestsave.ltd:2052/141414/151515/81444
+#EXTINF:-1 tvg-name="US- NAT GEO WILD HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- NAT GEO WILD HD
+http://bestsave.ltd:2052/141414/151515/81442
+#EXTINF:-1 tvg-name="US- NAT GEO HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- NAT GEO HD
+http://bestsave.ltd:2052/141414/151515/81441
+#EXTINF:-1 tvg-name="US- MTV HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MTV HD
+http://bestsave.ltd:2052/141414/151515/81440
+#EXTINF:-1 tvg-name="US- MSNBC HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MSNBC HD
+http://bestsave.ltd:2052/141414/151515/81439
+#EXTINF:-1 tvg-name="US- MORE MAX HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MORE MAX HD
+http://bestsave.ltd:2052/141414/151515/81438
+#EXTINF:-1 tvg-name="US- MLB NETWORK HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- MLB NETWORK HD
+http://bestsave.ltd:2052/141414/151515/81437
+#EXTINF:-1 tvg-name="US- LIFE TIME HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- LIFE TIME HD
+http://bestsave.ltd:2052/141414/151515/81436
+#EXTINF:-1 tvg-name="US- INVESTIGATION DISCOVERY HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- INVESTIGATION DISCOVERY HD
+http://bestsave.ltd:2052/141414/151515/81435
+#EXTINF:-1 tvg-name="US- IFC HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- IFC HD
+http://bestsave.ltd:2052/141414/151515/81434
+#EXTINF:-1 tvg-name="US- HISTORY HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- HISTORY HD
+http://bestsave.ltd:2052/141414/151515/81433
+#EXTINF:-1 tvg-name="US- HBO ZONE HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- HBO ZONE HD
+http://bestsave.ltd:2052/141414/151515/81432
+#EXTINF:-1 tvg-name="US- HBO SIGNATURE HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- HBO SIGNATURE HD
+http://bestsave.ltd:2052/141414/151515/81431
+#EXTINF:-1 tvg-name="US- HBO HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- HBO HD
+http://bestsave.ltd:2052/141414/151515/81430
+#EXTINF:-1 tvg-name="US- HBO COMEDY HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- HBO COMEDY HD
+http://bestsave.ltd:2052/141414/151515/81429
+#EXTINF:-1 tvg-name="US- HALLMARK CHANNEL HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- HALLMARK CHANNEL HD
+http://bestsave.ltd:2052/141414/151515/81428
+#EXTINF:-1 tvg-name="US- H2 HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- H2 HD
+http://bestsave.ltd:2052/141414/151515/81427
+#EXTINF:-1 tvg-name="US- GSN HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- GSN HD
+http://bestsave.ltd:2052/141414/151515/81425
+#EXTINF:-1 tvg-name="US- GOLF CHANNEL HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- GOLF CHANNEL HD
+http://bestsave.ltd:2052/141414/151515/81424
+#EXTINF:-1 tvg-name="US- TNT HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- TNT HD
+http://bestsave.ltd:2052/141414/151515/81423
+#EXTINF:-1 tvg-name="US- TLC CHANNEL" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- TLC CHANNEL
+http://bestsave.ltd:2052/141414/151515/81422
+#EXTINF:-1 tvg-name="US- THE WEATHER CHANNEL HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- THE WEATHER CHANNEL HD
+http://bestsave.ltd:2052/141414/151515/81421
+#EXTINF:-1 tvg-name="US- TENNIS HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- TENNIS HD
+http://bestsave.ltd:2052/141414/151515/81420
+#EXTINF:-1 tvg-name="US- SYFY HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- SYFY HD
+http://bestsave.ltd:2052/141414/151515/81419
+#EXTINF:-1 tvg-name="US- SUNDANCE HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- SUNDANCE HD
+http://bestsave.ltd:2052/141414/151515/81418
+#EXTINF:-1 tvg-name="US- STARZ EDGE HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- STARZ EDGE HD
+http://bestsave.ltd:2052/141414/151515/81417
+#EXTINF:-1 tvg-name="US- FXX HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- FXX HD
+http://bestsave.ltd:2052/141414/151515/81416
+#EXTINF:-1 tvg-name="US- FX HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- FX HD
+http://bestsave.ltd:2052/141414/151515/81415
+#EXTINF:-1 tvg-name="US- FREEFORM HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- FREEFORM HD
+http://bestsave.ltd:2052/141414/151515/81414
+#EXTINF:-1 tvg-name="US- FOX NEWS CHANNEL HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- FOX NEWS CHANNEL HD
+http://bestsave.ltd:2052/141414/151515/81413
+#EXTINF:-1 tvg-name="US- FOX HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- FOX HD
+http://bestsave.ltd:2052/141414/151515/81412
+#EXTINF:-1 tvg-name="US- FOX BUSINESS NETWORK HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- FOX BUSINESS NETWORK HD
+http://bestsave.ltd:2052/141414/151515/81411
+#EXTINF:-1 tvg-name="US- FOOD NETWORK HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- FOOD NETWORK HD
+http://bestsave.ltd:2052/141414/151515/81410
+#EXTINF:-1 tvg-name="US- ESPN U HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- ESPN U HD
+http://bestsave.ltd:2052/141414/151515/81409
+#EXTINF:-1 tvg-name="US- DESTINATION AMERICA HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- DESTINATION AMERICA HD
+http://bestsave.ltd:2052/141414/151515/81408
+#EXTINF:-1 tvg-name="US- CW HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CW HD
+http://bestsave.ltd:2052/141414/151515/81407
+#EXTINF:-1 tvg-name="US- CRIME &amp; INVESTIGATION HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CRIME &amp; INVESTIGATION HD
+http://bestsave.ltd:2052/141414/151515/81406
+#EXTINF:-1 tvg-name="US- COOKING CHANNEL HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- COOKING CHANNEL HD
+http://bestsave.ltd:2052/141414/151515/81405
+#EXTINF:-1 tvg-name="US- COMEDY CENTRAL HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- COMEDY CENTRAL HD
+http://bestsave.ltd:2052/141414/151515/81404
+#EXTINF:-1 tvg-name="US- CNN FHD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CNN FHD
+http://bestsave.ltd:2052/141414/151515/81403
+#EXTINF:-1 tvg-name="US- CNBC HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CNBC HD
+http://bestsave.ltd:2052/141414/151515/81402
+#EXTINF:-1 tvg-name="US- CMT HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CMT HD
+http://bestsave.ltd:2052/141414/151515/81401
+#EXTINF:-1 tvg-name="US- CINEMAX MOREMAX HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CINEMAX MOREMAX HD
+http://bestsave.ltd:2052/141414/151515/81399
+#EXTINF:-1 tvg-name="US- CINEMAX 5" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CINEMAX 5
+http://bestsave.ltd:2052/141414/151515/81398
+#EXTINF:-1 tvg-name="US- CBS SPORTS NETWORK" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CBS SPORTS NETWORK
+http://bestsave.ltd:2052/141414/151515/81397
+#EXTINF:-1 tvg-name="US- CBS" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CBS
+http://bestsave.ltd:2052/141414/151515/81396
+#EXTINF:-1 tvg-name="US- CBN HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CBN HD
+http://bestsave.ltd:2052/141414/151515/81395
+#EXTINF:-1 tvg-name="US- CARTOON NETWORK" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- CARTOON NETWORK
+http://bestsave.ltd:2052/141414/151515/81394
+#EXTINF:-1 tvg-name="US- C-SPAN 1 HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- C-SPAN 1 HD
+http://bestsave.ltd:2052/141414/151515/81391
+#EXTINF:-1 tvg-name="US- C-SPAN 2 HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- C-SPAN 2 HD
+http://bestsave.ltd:2052/141414/151515/81392
+#EXTINF:-1 tvg-name="US- C-SPAN 3 HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- C-SPAN 3 HD
+http://bestsave.ltd:2052/141414/151515/81393
+#EXTINF:-1 tvg-name="US- BTN HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- BTN HD
+http://bestsave.ltd:2052/141414/151515/81390
+#EXTINF:-1 tvg-name="US- BOOMERANG HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- BOOMERANG HD
+http://bestsave.ltd:2052/141414/151515/81389
+#EXTINF:-1 tvg-name="US- BLOOMBERG HD" tvg-logo="http://62.182.85.43/poster/USA.jpg",US- BLOOMBERG HD
+http://bestsave.ltd:2052/141414/151515/81388
+#EXTINF:-1 tvg-name="US- BIG TEN NETWORK HD" tvg-logo="",US- BIG TEN NETWORK HD
+http://bestsave.ltd:2052/141414/151515/81387
+#EXTINF:-1 tvg-name="US- BET HD" tvg-logo="",US- BET HD
+http://bestsave.ltd:2052/141414/151515/81386
+#EXTINF:-1 tvg-name="US- BBC AMERICA HD" tvg-logo="",US- BBC AMERICA HD
+http://bestsave.ltd:2052/141414/151515/81385
+#EXTINF:-1 tvg-name="US- ANIMAL PLANET HD" tvg-logo="",US- ANIMAL PLANET HD
+http://bestsave.ltd:2052/141414/151515/81384
+#EXTINF:-1 tvg-name="US- AFN SPORTS HD" tvg-logo="",US- AFN SPORTS HD
+http://bestsave.ltd:2052/141414/151515/81383
+#EXTINF:-1 tvg-name="US- AFN PRIME PACIFIC HD" tvg-logo="",US- AFN PRIME PACIFIC HD
+http://bestsave.ltd:2052/141414/151515/81382
+#EXTINF:-1 tvg-name="US- AFN PRIME ATLANTIC HD" tvg-logo="",US- AFN PRIME ATLANTIC HD
+http://bestsave.ltd:2052/141414/151515/81381
+#EXTINF:-1 tvg-name="US- FOX SPORTS 1 HD" tvg-logo="",US- FOX SPORTS 1 HD
+http://bestsave.ltd:2052/141414/151515/81380
+#EXTINF:-1 tvg-name="US- FOX SPORTS 2 HD" tvg-logo="",US- FOX SPORTS 2 HD
+http://bestsave.ltd:2052/141414/151515/81379
+#EXTINF:-1 tvg-name="US- TSN 1 HD" tvg-logo="",US- TSN 1 HD
+http://bestsave.ltd:2052/141414/151515/81373
+#EXTINF:-1 tvg-name="US- TSN 2 HD" tvg-logo="",US- TSN 2 HD
+http://bestsave.ltd:2052/141414/151515/81374
+#EXTINF:-1 tvg-name="US- TSN 3 HD" tvg-logo="",US- TSN 3 HD
+http://bestsave.ltd:2052/141414/151515/81375
+#EXTINF:-1 tvg-name="US- TSN 4 HD" tvg-logo="",US- TSN 4 HD
+http://bestsave.ltd:2052/141414/151515/81376
+#EXTINF:-1 tvg-name="US- TSN 5 HD" tvg-logo="",US- TSN 5 HD
+http://bestsave.ltd:2052/141414/151515/81377
+#EXTINF:-1 tvg-name="US- CINEMAX HD" tvg-logo="",US- CINEMAX HD
+http://bestsave.ltd:2052/141414/151515/81372
+#EXTINF:-1 tvg-name="US- NFL NETWORK HD" tvg-logo="",US- NFL NETWORK HD
+http://bestsave.ltd:2052/141414/151515/81371
+#EXTINF:-1 tvg-name="US- USA NETWORK" tvg-logo="",US- USA NETWORK
+http://bestsave.ltd:2052/141414/151515/81370
+#EXTINF:-1 tvg-name="US- UNIVERSAL HD" tvg-logo="",US- UNIVERSAL HD
+http://bestsave.ltd:2052/141414/151515/81369
+#EXTINF:-1 tvg-name="US- TV LAND HD" tvg-logo="",US- TV LAND HD
+http://bestsave.ltd:2052/141414/151515/81368
+#EXTINF:-1 tvg-name="US- TRAVEL CHANNEL HD" tvg-logo="",US- TRAVEL CHANNEL HD
+http://bestsave.ltd:2052/141414/151515/81367
+#EXTINF:-1 tvg-name="US- ESPN DEPORTES HD" tvg-logo="",US- ESPN DEPORTES HD
+http://bestsave.ltd:2052/141414/151515/81366
+#EXTINF:-1 tvg-name="US- ESPN 2 HD" tvg-logo="",US- ESPN 2 HD
+http://bestsave.ltd:2052/141414/151515/81365
+#EXTINF:-1 tvg-name="US- ESPN HD" tvg-logo="",US- ESPN HD
+http://bestsave.ltd:2052/141414/151515/81364
+#EXTINF:-1 tvg-name="US- E! HD" tvg-logo="",US- E! HD
+http://bestsave.ltd:2052/141414/151515/81363
+#EXTINF:-1 tvg-name="US- DIY NETWORK HD" tvg-logo="",US- DIY NETWORK HD
+http://bestsave.ltd:2052/141414/151515/81362
+#EXTINF:-1 tvg-name="US- DISNEY JUNIOR HD" tvg-logo="",US- DISNEY JUNIOR HD
+http://bestsave.ltd:2052/141414/151515/81361
+#EXTINF:-1 tvg-name="US- DISNEY CHANNEL HD" tvg-logo="",US- DISNEY CHANNEL HD
+http://bestsave.ltd:2052/141414/151515/81360
+#EXTINF:-1 tvg-name="US- DISCOVERY VELOCITY HD" tvg-logo="",US- DISCOVERY VELOCITY HD
+http://bestsave.ltd:2052/141414/151515/81359
+#EXTINF:-1 tvg-name="US- DISCOVERY SCIENCE HD" tvg-logo="",US- DISCOVERY SCIENCE HD
+http://bestsave.ltd:2052/141414/151515/81358
+#EXTINF:-1 tvg-name="US- DISCOVERY FAMILY HD" tvg-logo="",US- DISCOVERY FAMILY HD
+http://bestsave.ltd:2052/141414/151515/81357
+#EXTINF:-1 tvg-name="US- ACTION MAX HD" tvg-logo="",US- ACTION MAX HD
+http://bestsave.ltd:2052/141414/151515/81356
+#EXTINF:-1 tvg-name="US- ABC NEWS" tvg-logo="",US- ABC NEWS
+http://bestsave.ltd:2052/141414/151515/81355
+#EXTINF:-1 tvg-name="US- A&amp;E HD" tvg-logo="",US- A&amp;E HD
+http://bestsave.ltd:2052/141414/151515/81354
+#EXTINF:-1 tvg-name="US- TBS HD" tvg-logo="",US- TBS HD
+http://bestsave.ltd:2052/141414/151515/81353
+#EXTINF:-1 tvg-name="US- HGTV HD" tvg-logo="",US- HGTV HD
+http://bestsave.ltd:2052/141414/151515/81352
+#EXTINF:-1 tvg-name="US- HBO FAMILY HD" tvg-logo="",US- HBO FAMILY HD
+http://bestsave.ltd:2052/141414/151515/81351
+#EXTINF:-1 tvg-name="US- CNN HD" tvg-logo="",US- CNN HD
+http://bestsave.ltd:2052/141414/151515/81350
+#EXTINF:-1 tvg-name="US- BEIN SPORTS HD" tvg-logo="",US- BEIN SPORTS HD
+http://bestsave.ltd:2052/141414/151515/81349
+#EXTINF:-1 tvg-name="US- BRAVO HD" tvg-logo="",US- BRAVO HD
+http://bestsave.ltd:2052/141414/151515/81348
+#EXTINF:-1 tvg-name="US- DISCOVERY CHANNEL HD" tvg-logo="",US- DISCOVERY CHANNEL HD
+http://bestsave.ltd:2052/141414/151515/81347
+#EXTINF:-1 tvg-name="US- ABC HD" tvg-logo="",US- ABC HD
+http://bestsave.ltd:2052/141414/151515/81346
+#EXTINF:-1 tvg-name="US- AMC HD" tvg-logo="",US- AMC HD
+http://bestsave.ltd:2052/141414/151515/81345
+#EXTINF:-1 tvg-name="US- ABC" tvg-logo="",US- ABC
+http://bestsave.ltd:2052/141414/151515/81344
+#EXTINF:-1 tvg-name="US- ABC NEWS LIVE" tvg-logo="",US- ABC NEWS LIVE
+http://bestsave.ltd:2052/141414/151515/81340
+#EXTINF:-1 tvg-name="US- ABC SPARK" tvg-logo="",US- ABC SPARK
+http://bestsave.ltd:2052/141414/151515/81331
+#EXTINF:-1 tvg-name="US- ABC13 [KTRK]" tvg-logo="",US- ABC13 [KTRK]
+http://bestsave.ltd:2052/141414/151515/81323
+#EXTINF:-1 tvg-name="US- CBS 47 JACKSONVILLE [WJAX]" tvg-logo="",US- CBS 47 JACKSONVILLE [WJAX]
+http://bestsave.ltd:2052/141414/151515/81322
+#EXTINF:-1 tvg-name="US- CBS 7 OHIO [WHIO]" tvg-logo="",US- CBS 7 OHIO [WHIO]
+http://bestsave.ltd:2052/141414/151515/81321
+#EXTINF:-1 tvg-name="US- CBS MIAMI" tvg-logo="",US- CBS MIAMI
+http://bestsave.ltd:2052/141414/151515/81320
+#EXTINF:-1 tvg-name="US- CBS NEWS" tvg-logo="",US- CBS NEWS
+http://bestsave.ltd:2052/141414/151515/81319
+#EXTINF:-1 tvg-name="US- CBS WASHINGTON" tvg-logo="",US- CBS WASHINGTON
+http://bestsave.ltd:2052/141414/151515/81318
+#EXTINF:-1 tvg-name="US- CBS [KCAL]" tvg-logo="",US- CBS [KCAL]
+http://bestsave.ltd:2052/141414/151515/81317
+#EXTINF:-1 tvg-name="US- CBS [WCBS]" tvg-logo="",US- CBS [WCBS]
+http://bestsave.ltd:2052/141414/151515/81316
+#EXTINF:-1 tvg-name="US- CBS [WTVF]" tvg-logo="",US- CBS [WTVF]
+http://bestsave.ltd:2052/141414/151515/81315
+#EXTINF:-1 tvg-name="US- STARZ" tvg-logo="",US- STARZ
+http://bestsave.ltd:2052/141414/151515/81314
+#EXTINF:-1 tvg-name="US- STARZ CINEMA HD" tvg-logo="",US- STARZ CINEMA HD
+http://bestsave.ltd:2052/141414/151515/81313
+#EXTINF:-1 tvg-name="US- STARZ COMEDY HD" tvg-logo="",US- STARZ COMEDY HD
+http://bestsave.ltd:2052/141414/151515/81312
+#EXTINF:-1 tvg-name="US- STARZ ENCORE CLASSICS HD" tvg-logo="",US- STARZ ENCORE CLASSICS HD
+http://bestsave.ltd:2052/141414/151515/81311
+#EXTINF:-1 tvg-name="US- STARZ ENCORE HD" tvg-logo="",US- STARZ ENCORE HD
+http://bestsave.ltd:2052/141414/151515/81310
+#EXTINF:-1 tvg-name="US- STARZ ENCORE SUSPENSE HD" tvg-logo="",US- STARZ ENCORE SUSPENSE HD
+http://bestsave.ltd:2052/141414/151515/81309
+#EXTINF:-1 tvg-name="US- STARZ ENCORE WESTERN HD" tvg-logo="",US- STARZ ENCORE WESTERN HD
+http://bestsave.ltd:2052/141414/151515/81308
+#EXTINF:-1 tvg-name="US- STARZ IN BLACK HD" tvg-logo="",US- STARZ IN BLACK HD
+http://bestsave.ltd:2052/141414/151515/81307
+#EXTINF:-1 tvg-name="US- STARZ KIDS &amp; FAMILY HD" tvg-logo="",US- STARZ KIDS &amp; FAMILY HD
+http://bestsave.ltd:2052/141414/151515/81306
+#EXTINF:-1 tvg-name="US- TRUTV HD" tvg-logo="",US- TRUTV HD
+http://bestsave.ltd:2052/141414/151515/81305
+#EXTINF:-1 tvg-name="US- MSG" tvg-logo="",US- MSG
+http://bestsave.ltd:2052/141414/151515/81304
+#EXTINF:-1 tvg-name="US- MSG 2" tvg-logo="",US- MSG 2
+http://bestsave.ltd:2052/141414/151515/81303
+#EXTINF:-1 tvg-name="US- MSG+" tvg-logo="",US- MSG+
+http://bestsave.ltd:2052/141414/151515/81302
+#EXTINF:-1 tvg-name="US- HALLMARK DRAMA" tvg-logo="",US- HALLMARK DRAMA
+http://bestsave.ltd:2052/141414/151515/81301
+#EXTINF:-1 tvg-name="US- HALLMARK MOVIES &amp; MYSTERIES" tvg-logo="",US- HALLMARK MOVIES &amp; MYSTERIES
+http://bestsave.ltd:2052/141414/151515/81300
+#EXTINF:-1 tvg-name="US- PEOPLE TV" tvg-logo="",US- PEOPLE TV
+http://bestsave.ltd:2052/141414/151515/81299
+#EXTINF:-1 tvg-name="US- TURNER CLASSIC MOVIES HD" tvg-logo="",US- TURNER CLASSIC MOVIES HD
+http://bestsave.ltd:2052/141414/151515/81298
+#EXTINF:-1 tvg-name="US- TV ONE HD" tvg-logo="",US- TV ONE HD
+http://bestsave.ltd:2052/141414/151515/81297
+#EXTINF:-1 tvg-name="US- UNIVERSAL KIDS HD" tvg-logo="",US- UNIVERSAL KIDS HD
+http://bestsave.ltd:2052/141414/151515/81296
+#EXTINF:-1 tvg-name="US- VICELAND HD" tvg-logo="",US- VICELAND HD
+http://bestsave.ltd:2052/141414/151515/81295
+#EXTINF:-1 tvg-name="US- WETV HD" tvg-logo="",US- WETV HD
+http://bestsave.ltd:2052/141414/151515/81294
+#EXTINF:-1 tvg-name="US- TCM" tvg-logo="",US- TCM
+http://bestsave.ltd:2052/141414/151515/81293
+#EXTINF:-1 tvg-name="US- TEEN NICK" tvg-logo="",US- TEEN NICK
+http://bestsave.ltd:2052/141414/151515/81292
+#EXTINF:-1 tvg-name="US- WGN AMERICA" tvg-logo="",US- WGN AMERICA
+http://bestsave.ltd:2052/141414/151515/81291
+#EXTINF:-1 tvg-name="US- GINX ESPORTS" tvg-logo="",US- GINX ESPORTS
+http://bestsave.ltd:2052/141414/151515/81290
+#EXTINF:-1 tvg-name="US- NBC 11 NEWS [BAY AREA]" tvg-logo="",US- NBC 11 NEWS [BAY AREA]
+http://bestsave.ltd:2052/141414/151515/81247
+#EXTINF:-1 tvg-name="US- NBC 12 WFSA MONTGOMERY" tvg-logo="",US- NBC 12 WFSA MONTGOMERY
+http://bestsave.ltd:2052/141414/151515/81246
+#EXTINF:-1 tvg-name="US- NBC 15 MADISON [WMTV]" tvg-logo="",US- NBC 15 MADISON [WMTV]
+http://bestsave.ltd:2052/141414/151515/81245
+#EXTINF:-1 tvg-name="US- NBC 30 CONNECTICUT [WVIT]" tvg-logo="",US- NBC 30 CONNECTICUT [WVIT]
+http://bestsave.ltd:2052/141414/151515/81244
+#EXTINF:-1 tvg-name="US- NBC 38 COLUMBUS [WLTZ]" tvg-logo="",US- NBC 38 COLUMBUS [WLTZ]
+http://bestsave.ltd:2052/141414/151515/81243
+#EXTINF:-1 tvg-name="US- NBC 3 WRCB CHATTANOOGA" tvg-logo="",US- NBC 3 WRCB CHATTANOOGA
+http://bestsave.ltd:2052/141414/151515/81242
+#EXTINF:-1 tvg-name="US- NBC 4 NEWS [WASHINGTON DC] WITN" tvg-logo="",US- NBC 4 NEWS [WASHINGTON DC] WITN
+http://bestsave.ltd:2052/141414/151515/81241
+#EXTINF:-1 tvg-name="US- NBC CHICAGO WMAQ" tvg-logo="",US- NBC CHICAGO WMAQ
+http://bestsave.ltd:2052/141414/151515/81240
+#EXTINF:-1 tvg-name="US- NBC MIAMI WTVJ" tvg-logo="",US- NBC MIAMI WTVJ
+http://bestsave.ltd:2052/141414/151515/81239
+#EXTINF:-1 tvg-name="US- NBC NEW YORK WNBC" tvg-logo="",US- NBC NEW YORK WNBC
+http://bestsave.ltd:2052/141414/151515/81238
+#EXTINF:-1 tvg-name="US- NBC PHILADELPHIA WCAU" tvg-logo="",US- NBC PHILADELPHIA WCAU
+http://bestsave.ltd:2052/141414/151515/81237
+#EXTINF:-1 tvg-name="US- NBC [WBIR]" tvg-logo="",US- NBC [WBIR]
+http://bestsave.ltd:2052/141414/151515/81236
+#EXTINF:-1 tvg-name="US- NBC [WBTS]" tvg-logo="",US- NBC [WBTS]
+http://bestsave.ltd:2052/141414/151515/81235
+#EXTINF:-1 tvg-name="US- NBC [WESH]" tvg-logo="",US- NBC [WESH]
+http://bestsave.ltd:2052/141414/151515/81234
+#EXTINF:-1 tvg-name="US- NBC [WFLA]" tvg-logo="",US- NBC [WFLA]
+http://bestsave.ltd:2052/141414/151515/81233
+#EXTINF:-1 tvg-name="US- NBC [WNBC]" tvg-logo="",US- NBC [WNBC]
+http://bestsave.ltd:2052/141414/151515/81232
+#EXTINF:-1 tvg-name="US- NBC [WPXI]" tvg-logo="",US- NBC [WPXI]
+http://bestsave.ltd:2052/141414/151515/81231
+#EXTINF:-1 tvg-name="US- NBC [WSMV]" tvg-logo="",US- NBC [WSMV]
+http://bestsave.ltd:2052/141414/151515/81230
+#EXTINF:-1 tvg-name="US- FOX 43 KNOXVILLE" tvg-logo="",US- FOX 43 KNOXVILLE
+http://bestsave.ltd:2052/141414/151515/81227
+#EXTINF:-1 tvg-name="US- FOX ATLANTA" tvg-logo="",US- FOX ATLANTA
+http://bestsave.ltd:2052/141414/151515/81224
+#EXTINF:-1 tvg-name="US- FOX BALTIMORE MD WBFF" tvg-logo="",US- FOX BALTIMORE MD WBFF
+http://bestsave.ltd:2052/141414/151515/81220
+#EXTINF:-1 tvg-name="US- FOX BOSTON MA WFXT" tvg-logo="",US- FOX BOSTON MA WFXT
+http://bestsave.ltd:2052/141414/151515/81218
+#EXTINF:-1 tvg-name="US- FOX BUFFALO NY WUTV" tvg-logo="",US- FOX BUFFALO NY WUTV
+http://bestsave.ltd:2052/141414/151515/81216
+#EXTINF:-1 tvg-name="US- FOX BUSINESS FHD" tvg-logo="",US- FOX BUSINESS FHD
+http://bestsave.ltd:2052/141414/151515/81215
+#EXTINF:-1 tvg-name="US- FOX BUSINESS NETWORK FHD" tvg-logo="",US- FOX BUSINESS NETWORK FHD
+http://bestsave.ltd:2052/141414/151515/81214
+#EXTINF:-1 tvg-name="US- FOX CHICAGO" tvg-logo="",US- FOX CHICAGO
+http://bestsave.ltd:2052/141414/151515/81212
+#EXTINF:-1 tvg-name="US- FOX CHICAGO IL WFLD" tvg-logo="",US- FOX CHICAGO IL WFLD
+http://bestsave.ltd:2052/141414/151515/81211
+#EXTINF:-1 tvg-name="US- FOX COLUMBUS OH WTTE" tvg-logo="",US- FOX COLUMBUS OH WTTE
+http://bestsave.ltd:2052/141414/151515/81207
+#EXTINF:-1 tvg-name="US- FOX DALLAS" tvg-logo="",US- FOX DALLAS
+http://bestsave.ltd:2052/141414/151515/81206
+#EXTINF:-1 tvg-name="US- FOX DENVER" tvg-logo="",US- FOX DENVER
+http://bestsave.ltd:2052/141414/151515/81204
+#EXTINF:-1 tvg-name="US- FOX DENVER CO KDVR" tvg-logo="",US- FOX DENVER CO KDVR
+http://bestsave.ltd:2052/141414/151515/81203
+#EXTINF:-1 tvg-name="US- FOX DETROIT" tvg-logo="",US- FOX DETROIT
+http://bestsave.ltd:2052/141414/151515/81201
+#EXTINF:-1 tvg-name="US- FOX HARTFORD" tvg-logo="",US- FOX HARTFORD
+http://bestsave.ltd:2052/141414/151515/81197
+#EXTINF:-1 tvg-name="US- FOX" tvg-logo="",US- FOX
+http://bestsave.ltd:2052/141414/151515/81195
+#EXTINF:-1 tvg-name="US- FOX HOUSTON" tvg-logo="",US- FOX HOUSTON
+http://bestsave.ltd:2052/141414/151515/81194
+#EXTINF:-1 tvg-name="US- FOX INDIANAPOLIS" tvg-logo="",US- FOX INDIANAPOLIS
+http://bestsave.ltd:2052/141414/151515/81192
+#EXTINF:-1 tvg-name="US- FOX JACKSONVILLE FL WFOX" tvg-logo="",US- FOX JACKSONVILLE FL WFOX
+http://bestsave.ltd:2052/141414/151515/81190
+#EXTINF:-1 tvg-name="US- FOX JACKSONVILLE" tvg-logo="",US- FOX JACKSONVILLE
+http://bestsave.ltd:2052/141414/151515/81189
+#EXTINF:-1 tvg-name="US- FOX LIFE" tvg-logo="",US- FOX LIFE
+http://bestsave.ltd:2052/141414/151515/81186
+#EXTINF:-1 tvg-name="US- FOX LOS ANGELES" tvg-logo="",US- FOX LOS ANGELES
+http://bestsave.ltd:2052/141414/151515/81185
+#EXTINF:-1 tvg-name="US- FOX MILWAUKEE WI WITI" tvg-logo="",US- FOX MILWAUKEE WI WITI
+http://bestsave.ltd:2052/141414/151515/81180
+#EXTINF:-1 tvg-name="US- FOX MINNEAPOLIS" tvg-logo="",US- FOX MINNEAPOLIS
+http://bestsave.ltd:2052/141414/151515/81179
+#EXTINF:-1 tvg-name="US- FOX NASHVILLE" tvg-logo="",US- FOX NASHVILLE
+http://bestsave.ltd:2052/141414/151515/81178
+#EXTINF:-1 tvg-name="US- FOX NETWORK" tvg-logo="",US- FOX NETWORK
+http://bestsave.ltd:2052/141414/151515/81176
+#EXTINF:-1 tvg-name="US- FOX NEW ORLEANS" tvg-logo="",US- FOX NEW ORLEANS
+http://bestsave.ltd:2052/141414/151515/81175
+#EXTINF:-1 tvg-name="US- FOX NEW ORLEANS LA WVUE" tvg-logo="",US- FOX NEW ORLEANS LA WVUE
+http://bestsave.ltd:2052/141414/151515/81174
+#EXTINF:-1 tvg-name="US- FOX NEW YORK" tvg-logo="",US- FOX NEW YORK
+http://bestsave.ltd:2052/141414/151515/81173
+#EXTINF:-1 tvg-name="US- FOX NEW YORK NY WNYW" tvg-logo="",US- FOX NEW YORK NY WNYW
+http://bestsave.ltd:2052/141414/151515/81172
+#EXTINF:-1 tvg-name="US- FOX NEWS CHANNEL." tvg-logo="",US- FOX NEWS CHANNEL.
+http://bestsave.ltd:2052/141414/151515/81171
+#EXTINF:-1 tvg-name="US- FOX OCALA" tvg-logo="",US- FOX OCALA
+http://bestsave.ltd:2052/141414/151515/81170
+#EXTINF:-1 tvg-name="US- FOX ORLANDO" tvg-logo="",US- FOX ORLANDO
+http://bestsave.ltd:2052/141414/151515/81169
+#EXTINF:-1 tvg-name="US- FOX ORLANDO FL WOFL" tvg-logo="",US- FOX ORLANDO FL WOFL
+http://bestsave.ltd:2052/141414/151515/81168
+#EXTINF:-1 tvg-name="US- FOX PITTSBURGH" tvg-logo="",US- FOX PITTSBURGH
+http://bestsave.ltd:2052/141414/151515/81163
+#EXTINF:-1 tvg-name="US- FOX PITTSBURGH PA WPGH" tvg-logo="",US- FOX PITTSBURGH PA WPGH
+http://bestsave.ltd:2052/141414/151515/81162
+#EXTINF:-1 tvg-name="US- FOX SALT LAKE CITY UT KSTU" tvg-logo="",US- FOX SALT LAKE CITY UT KSTU
+http://bestsave.ltd:2052/141414/151515/81158
+#EXTINF:-1 tvg-name="US- FOX SAN ANTONIO TX KABB" tvg-logo="",US- FOX SAN ANTONIO TX KABB
+http://bestsave.ltd:2052/141414/151515/81157
+#EXTINF:-1 tvg-name="US- FOX SAN DIEGO CA KSWB" tvg-logo="",US- FOX SAN DIEGO CA KSWB
+http://bestsave.ltd:2052/141414/151515/81155
+#EXTINF:-1 tvg-name="US- FOX SOCCER PLUS." tvg-logo="",US- FOX SOCCER PLUS.
+http://bestsave.ltd:2052/141414/151515/81150
+#EXTINF:-1 tvg-name="US- FOX SPORTS (DETROIT)" tvg-logo="",US- FOX SPORTS (DETROIT)
+http://bestsave.ltd:2052/141414/151515/81147
+#EXTINF:-1 tvg-name="US- FOX SPORTS (MID WEST)" tvg-logo="",US- FOX SPORTS (MID WEST)
+http://bestsave.ltd:2052/141414/151515/81146
+#EXTINF:-1 tvg-name="US- FOX SPORTS (NORTH)" tvg-logo="",US- FOX SPORTS (NORTH)
+http://bestsave.ltd:2052/141414/151515/81145
+#EXTINF:-1 tvg-name="US- FOX SPORTS (OHIO)" tvg-logo="",US- FOX SPORTS (OHIO)
+http://bestsave.ltd:2052/141414/151515/81144
+#EXTINF:-1 tvg-name="US- FOX SPORTS (SAN DIEGO)" tvg-logo="",US- FOX SPORTS (SAN DIEGO)
+http://bestsave.ltd:2052/141414/151515/81142
+#EXTINF:-1 tvg-name="US- FOX SPORTS (SOUTH WEST)" tvg-logo="",US- FOX SPORTS (SOUTH WEST)
+http://bestsave.ltd:2052/141414/151515/81141
+#EXTINF:-1 tvg-name="US- FOX SPORTS (SOUTH)" tvg-logo="",US- FOX SPORTS (SOUTH)
+http://bestsave.ltd:2052/141414/151515/81140
+#EXTINF:-1 tvg-name="US- FOX SPORTS (SUN)" tvg-logo="",US- FOX SPORTS (SUN)
+http://bestsave.ltd:2052/141414/151515/81139
+#EXTINF:-1 tvg-name="US- FOX SPORTS (WEST)" tvg-logo="",US- FOX SPORTS (WEST)
+http://bestsave.ltd:2052/141414/151515/81137
+#EXTINF:-1 tvg-name="US- FOX SPORTS (WISCONSIN)" tvg-logo="",US- FOX SPORTS (WISCONSIN)
+http://bestsave.ltd:2052/141414/151515/81136
+#EXTINF:-1 tvg-name="US- FOX SPORTS 1" tvg-logo="",US- FOX SPORTS 1
+http://bestsave.ltd:2052/141414/151515/81135
+#EXTINF:-1 tvg-name="US- FOX SPORTS 2." tvg-logo="",US- FOX SPORTS 2.
+http://bestsave.ltd:2052/141414/151515/81134
+#EXTINF:-1 tvg-name="US- FOX SPORTS CAROLINA" tvg-logo="",US- FOX SPORTS CAROLINA
+http://bestsave.ltd:2052/141414/151515/81133
+#EXTINF:-1 tvg-name="US- FOX SPORTS DEPORTES" tvg-logo="",US- FOX SPORTS DEPORTES
+http://bestsave.ltd:2052/141414/151515/81132
+#EXTINF:-1 tvg-name="US- FOX SPORTS FLORIDA." tvg-logo="",US- FOX SPORTS FLORIDA.
+http://bestsave.ltd:2052/141414/151515/81131
+#EXTINF:-1 tvg-name="US- FOX SPORTS RACING" tvg-logo="",US- FOX SPORTS RACING
+http://bestsave.ltd:2052/141414/151515/81129
+#EXTINF:-1 tvg-name="US- FOX SPORTS SOUTHWEST PLUS" tvg-logo="",US- FOX SPORTS SOUTHWEST PLUS
+http://bestsave.ltd:2052/141414/151515/81127
+#EXTINF:-1 tvg-name="US- FOX SPORTS SPORTSTIME OHIO" tvg-logo="",US- FOX SPORTS SPORTSTIME OHIO
+http://bestsave.ltd:2052/141414/151515/81126
+#EXTINF:-1 tvg-name="US- THE OLYMPIC CHANNEL" tvg-logo="",US- THE OLYMPIC CHANNEL
+http://bestsave.ltd:2052/141414/151515/81125
+#EXTINF:-1 tvg-name="US- TELEMUNDO BOSTON" tvg-logo="",US- TELEMUNDO BOSTON
+http://bestsave.ltd:2052/141414/151515/81124
+#EXTINF:-1 tvg-name="US- TELEMUNDO CHICAGO" tvg-logo="",US- TELEMUNDO CHICAGO
+http://bestsave.ltd:2052/141414/151515/81123
+#EXTINF:-1 tvg-name="US- TELEMUNDO DALLAS" tvg-logo="",US- TELEMUNDO DALLAS
+http://bestsave.ltd:2052/141414/151515/81121
+#EXTINF:-1 tvg-name="US- TELEMUNDO DENVER" tvg-logo="",US- TELEMUNDO DENVER
+http://bestsave.ltd:2052/141414/151515/81120
+#EXTINF:-1 tvg-name="US- TELEMUNDO LOS ANGELES" tvg-logo="",US- TELEMUNDO LOS ANGELES
+http://bestsave.ltd:2052/141414/151515/81115
+#EXTINF:-1 tvg-name="US- TELEMUNDO MIAMI" tvg-logo="",US- TELEMUNDO MIAMI
+http://bestsave.ltd:2052/141414/151515/81114
+#EXTINF:-1 tvg-name="US- TELEMUNDO NEW YORK" tvg-logo="",US- TELEMUNDO NEW YORK
+http://bestsave.ltd:2052/141414/151515/81113
+#EXTINF:-1 tvg-name="US- TELEMUNDO PHOENIX" tvg-logo="",US- TELEMUNDO PHOENIX
+http://bestsave.ltd:2052/141414/151515/81111
+#EXTINF:-1 tvg-name="US- TELEMUNDO SAN ANTONIO" tvg-logo="",US- TELEMUNDO SAN ANTONIO
+http://bestsave.ltd:2052/141414/151515/81110
+#EXTINF:-1 tvg-name="US- ION" tvg-logo="",US- ION
+http://bestsave.ltd:2052/141414/151515/81106
+#EXTINF:-1 tvg-name="US- BOUNCE TV" tvg-logo="",US- BOUNCE TV
+http://bestsave.ltd:2052/141414/151515/81105
+#EXTINF:-1 tvg-name="US- AMERICAN HEROES CHANNEL" tvg-logo="",US- AMERICAN HEROES CHANNEL
+http://bestsave.ltd:2052/141414/151515/81104
+#EXTINF:-1 tvg-name="US- COZI TV" tvg-logo="",US- COZI TV
+http://bestsave.ltd:2052/141414/151515/81103
+#EXTINF:-1 tvg-name="US- EPIX" tvg-logo="",US- EPIX
+http://bestsave.ltd:2052/141414/151515/81102
+#EXTINF:-1 tvg-name="US- EPIX 2" tvg-logo="",US- EPIX 2
+http://bestsave.ltd:2052/141414/151515/81101
+#EXTINF:-1 tvg-name="US- EPIX HITS" tvg-logo="",US- EPIX HITS
+http://bestsave.ltd:2052/141414/151515/81100
+#EXTINF:-1 tvg-name="US- START TV" tvg-logo="",US- START TV
+http://bestsave.ltd:2052/141414/151515/81099
+#EXTINF:-1 tvg-name="US- RED BULL TV" tvg-logo="",US- RED BULL TV
+http://bestsave.ltd:2052/141414/151515/81098
+#EXTINF:-1 tvg-name="US- GALAVISION" tvg-logo="",US- GALAVISION
+http://bestsave.ltd:2052/141414/151515/81097
+#EXTINF:-1 tvg-name="US- LOGO" tvg-logo="",US- LOGO
+http://bestsave.ltd:2052/141414/151515/81096
+#EXTINF:-1 tvg-name="US- AWE" tvg-logo="",US- AWE
+http://bestsave.ltd:2052/141414/151515/81095
+#EXTINF:-1 tvg-name="US- AXS TV" tvg-logo="",US- AXS TV
+http://bestsave.ltd:2052/141414/151515/81094
+#EXTINF:-1 tvg-name="US- LMN" tvg-logo="",US- LMN
+http://bestsave.ltd:2052/141414/151515/81093
+#EXTINF:-1 tvg-name="US- ACC NETWORK" tvg-logo="",US- ACC NETWORK
+http://bestsave.ltd:2052/141414/151515/81092
+#EXTINF:-1 tvg-name="US- FREEFORM" tvg-logo="",US- FREEFORM
+http://bestsave.ltd:2052/141414/151515/81091
+#EXTINF:-1 tvg-name="US- CINEMAX ACTIONMAX" tvg-logo="",US- CINEMAX ACTIONMAX
+http://bestsave.ltd:2052/141414/151515/81090
+#EXTINF:-1 tvg-name="US- CINEMAX OUTERMAX" tvg-logo="",US- CINEMAX OUTERMAX
+http://bestsave.ltd:2052/141414/151515/81089
+#EXTINF:-1 tvg-name="US- STARZ ENCORE ACTION" tvg-logo="",US- STARZ ENCORE ACTION
+http://bestsave.ltd:2052/141414/151515/81088
+#EXTINF:-1 tvg-name="US- CINEMAX MOVIEMAX" tvg-logo="",US- CINEMAX MOVIEMAX
+http://bestsave.ltd:2052/141414/151515/81087
+#EXTINF:-1 tvg-name="US- PAC12 ARIZONA" tvg-logo="",US- PAC12 ARIZONA
+http://bestsave.ltd:2052/141414/151515/81086
+#EXTINF:-1 tvg-name="US- PAC12 NETWORK" tvg-logo="",US- PAC12 NETWORK
+http://bestsave.ltd:2052/141414/151515/81082
+#EXTINF:-1 tvg-name="US- WWE SD" tvg-logo="",US- WWE SD
+http://bestsave.ltd:2052/141414/151515/81079
+#EXTINF:-1 tvg-name="US- GRIT" tvg-logo="",US- GRIT
+http://bestsave.ltd:2052/141414/151515/81078
+#EXTINF:-1 tvg-name="US- UNIVISION GALAVISION_EAST" tvg-logo="",US- UNIVISION GALAVISION_EAST
+http://bestsave.ltd:2052/141414/151515/81075
+#EXTINF:-1 tvg-name="US- UNIVISION GALAVISION_WEST" tvg-logo="",US- UNIVISION GALAVISION_WEST
+http://bestsave.ltd:2052/141414/151515/81074
+#EXTINF:-1 tvg-name="US- UNIVISION UNIMAS_LOSANGELES" tvg-logo="",US- UNIVISION UNIMAS_LOSANGELES
+http://bestsave.ltd:2052/141414/151515/81073
+#EXTINF:-1 tvg-name="US- UNIVISION UNIMAS_NEWYORK" tvg-logo="",US- UNIVISION UNIMAS_NEWYORK
+http://bestsave.ltd:2052/141414/151515/81072
+#EXTINF:-1 tvg-name="US- UNIVISION KAKW (62-AUSTIN)" tvg-logo="",US- UNIVISION KAKW (62-AUSTIN)
+http://bestsave.ltd:2052/141414/151515/81071
+#EXTINF:-1 tvg-name="US- UNIVISION KFTV (21-FRESNO)" tvg-logo="",US- UNIVISION KFTV (21-FRESNO)
+http://bestsave.ltd:2052/141414/151515/81070
+#EXTINF:-1 tvg-name="US- UNIVISION KMEX (34-LOS ANGELES)" tvg-logo="",US- UNIVISION KMEX (34-LOS ANGELES)
+http://bestsave.ltd:2052/141414/151515/81069
+#EXTINF:-1 tvg-name="US- UNIVISION KUVN (23-DALLAS)" tvg-logo="",US- UNIVISION KUVN (23-DALLAS)
+http://bestsave.ltd:2052/141414/151515/81068
+#EXTINF:-1 tvg-name="US- UNIVISION NEWYORK" tvg-logo="",US- UNIVISION NEWYORK
+http://bestsave.ltd:2052/141414/151515/81066
+#EXTINF:-1 tvg-name="US- UNIVISION NOTICIAS" tvg-logo="",US- UNIVISION NOTICIAS
+http://bestsave.ltd:2052/141414/151515/81065
+#EXTINF:-1 tvg-name="US- UNIVISION SAN FRANCISCO" tvg-logo="",US- UNIVISION SAN FRANCISCO
+http://bestsave.ltd:2052/141414/151515/81064
+#EXTINF:-1 tvg-name="US- UNIVISION TDN" tvg-logo="",US- UNIVISION TDN
+http://bestsave.ltd:2052/141414/151515/81063
+#EXTINF:-1 tvg-name="US- UNIVISION WGBO (66-CHICAGO)" tvg-logo="",US- UNIVISION WGBO (66-CHICAGO)
+http://bestsave.ltd:2052/141414/151515/81062
+#EXTINF:-1 tvg-name="US- UNIVISION WLTV (23-FORT LAUDERDALE)" tvg-logo="",US- UNIVISION WLTV (23-FORT LAUDERDALE)
+http://bestsave.ltd:2052/141414/151515/81061
+#EXTINF:-1 tvg-name="US- UNIVISION WQHS (61-CLEVELAND)" tvg-logo="",US- UNIVISION WQHS (61-CLEVELAND)
+http://bestsave.ltd:2052/141414/151515/81060
+#EXTINF:-1 tvg-name="US- UNIVISION WUVG (34-ATLANTA)" tvg-logo="",US- UNIVISION WUVG (34-ATLANTA)
+http://bestsave.ltd:2052/141414/151515/81059
+#EXTINF:-1 tvg-name="US- UNIVISION WXTV (41-PATERSON)" tvg-logo="",US- UNIVISION WXTV (41-PATERSON)
+http://bestsave.ltd:2052/141414/151515/81058
+#EXTINF:-1 tvg-name="US- UNIVISION WEST" tvg-logo="",US- UNIVISION WEST
+http://bestsave.ltd:2052/141414/151515/81057
+#EXTINF:-1 tvg-name="US- UNIVISION 19 (KUVS) SACRAMENTO" tvg-logo="",US- UNIVISION 19 (KUVS) SACRAMENTO
+http://bestsave.ltd:2052/141414/151515/81056
+#EXTINF:-1 tvg-name="US- UNIVISION 33 (KTVW) PHOENIX" tvg-logo="",US- UNIVISION 33 (KTVW) PHOENIX
+http://bestsave.ltd:2052/141414/151515/81055
+#EXTINF:-1 tvg-name="US- UNIVISION 41 (KWEX) SAN ANTONIO" tvg-logo="",US- UNIVISION 41 (KWEX) SAN ANTONIO
+http://bestsave.ltd:2052/141414/151515/81054
+#EXTINF:-1 tvg-name="US- UNIVISION 46 (KUVE) TUCSON" tvg-logo="",US- UNIVISION 46 (KUVE) TUCSON
+http://bestsave.ltd:2052/141414/151515/81053
+#EXTINF:-1 tvg-name="US- UNIVISION EAST UHD" tvg-logo="",US- UNIVISION EAST UHD
+http://bestsave.ltd:2052/141414/151515/81052
+#EXTINF:-1 tvg-name="US- UNIVISION NETWORK" tvg-logo="",US- UNIVISION NETWORK
+http://bestsave.ltd:2052/141414/151515/81051
+#EXTINF:-1 tvg-name="US- UNIVISION NEW YORK WXTV" tvg-logo="",US- UNIVISION NEW YORK WXTV
+http://bestsave.ltd:2052/141414/151515/81050
+#EXTINF:-1 tvg-name="US- UNIVISION NOW UNIVISION ATLANTA" tvg-logo="",US- UNIVISION NOW UNIVISION ATLANTA
+http://bestsave.ltd:2052/141414/151515/81049
+#EXTINF:-1 tvg-name="US- UNIVISION NOW UNIVISION_LOSANGELES" tvg-logo="",US- UNIVISION NOW UNIVISION_LOSANGELES
+http://bestsave.ltd:2052/141414/151515/81047
+#EXTINF:-1 tvg-name="US- UNIVISION NOW: UNIVISION_WEST" tvg-logo="",US- UNIVISION NOW: UNIVISION_WEST
+http://bestsave.ltd:2052/141414/151515/81046
+#EXTINF:-1 tvg-name="US- ABC NEW YORK UHD" tvg-logo="",US- ABC NEW YORK UHD
+http://bestsave.ltd:2052/141414/151515/81005
+#EXTINF:-1 tvg-name="US- ABC PORTLAND KATU" tvg-logo="",US- ABC PORTLAND KATU
+http://bestsave.ltd:2052/141414/151515/81000
+#EXTINF:-1 tvg-name="US- ABC SACRAMENTO KXTV" tvg-logo="",US- ABC SACRAMENTO KXTV
+http://bestsave.ltd:2052/141414/151515/80999
+#EXTINF:-1 tvg-name="US- ABC SAINT PAUL KSTP" tvg-logo="",US- ABC SAINT PAUL KSTP
+http://bestsave.ltd:2052/141414/151515/80998
+#EXTINF:-1 tvg-name="US- ABC SAN ANTONIO KSAT" tvg-logo="",US- ABC SAN ANTONIO KSAT
+http://bestsave.ltd:2052/141414/151515/80996
+#EXTINF:-1 tvg-name="US- ABC SAN DIEGO KGTV" tvg-logo="",US- ABC SAN DIEGO KGTV
+http://bestsave.ltd:2052/141414/151515/80995
+#EXTINF:-1 tvg-name="US- ABC SARASOTA WWSB" tvg-logo="",US- ABC SARASOTA WWSB
+http://bestsave.ltd:2052/141414/151515/80993
+#EXTINF:-1 tvg-name="US- ABC SEATTLE KOMO" tvg-logo="",US- ABC SEATTLE KOMO
+http://bestsave.ltd:2052/141414/151515/80992
+#EXTINF:-1 tvg-name="US- ABC ST LOUIS KDNL" tvg-logo="",US- ABC ST LOUIS KDNL
+http://bestsave.ltd:2052/141414/151515/80991
+#EXTINF:-1 tvg-name="US- ABC TAMPA BAY" tvg-logo="",US- ABC TAMPA BAY
+http://bestsave.ltd:2052/141414/151515/80990
+#EXTINF:-1 tvg-name="US- ABC WASHINGTON" tvg-logo="",US- ABC WASHINGTON
+http://bestsave.ltd:2052/141414/151515/80989
+#EXTINF:-1 tvg-name="US- ABC10 (WTEN) ALBANY" tvg-logo="",US- ABC10 (WTEN) ALBANY
+http://bestsave.ltd:2052/141414/151515/80988
+#EXTINF:-1 tvg-name="US- ABC13 (KTNV) LAS VEGAS" tvg-logo="",US- ABC13 (KTNV) LAS VEGAS
+http://bestsave.ltd:2052/141414/151515/80987
+#EXTINF:-1 tvg-name="US- ABC13 (KYUR) ANCHORAGE" tvg-logo="",US- ABC13 (KYUR) ANCHORAGE
+http://bestsave.ltd:2052/141414/151515/80986
+#EXTINF:-1 tvg-name="US- ABC13 (WLOS) ASHEVILLE" tvg-logo="",US- ABC13 (WLOS) ASHEVILLE
+http://bestsave.ltd:2052/141414/151515/80985
+#EXTINF:-1 tvg-name="US- ABC13 (WVEC) HAMPTON ROADS" tvg-logo="",US- ABC13 (WVEC) HAMPTON ROADS
+http://bestsave.ltd:2052/141414/151515/80984
+#EXTINF:-1 tvg-name="US- ABC17 (KMIZ) JEFFERSON CITY" tvg-logo="",US- ABC17 (KMIZ) JEFFERSON CITY
+http://bestsave.ltd:2052/141414/151515/80982
+#EXTINF:-1 tvg-name="US- ABC2 (WBAY) GREEN BAY" tvg-logo="",US- ABC2 (WBAY) GREEN BAY
+http://bestsave.ltd:2052/141414/151515/80981
+#EXTINF:-1 tvg-name="US- ABC2 (WBRZ) BATON ROUGE" tvg-logo="",US- ABC2 (WBRZ) BATON ROUGE
+http://bestsave.ltd:2052/141414/151515/80980
+#EXTINF:-1 tvg-name="US- ABC20 (WCJB) GAINESVILLE" tvg-logo="",US- ABC20 (WCJB) GAINESVILLE
+http://bestsave.ltd:2052/141414/151515/80979
+#EXTINF:-1 tvg-name="US- ABC22 (WKEF) DAYTON" tvg-logo="",US- ABC22 (WKEF) DAYTON
+http://bestsave.ltd:2052/141414/151515/80978
+#EXTINF:-1 tvg-name="US- ABC24 WATN MEMPHIS" tvg-logo="",US- ABC24 WATN MEMPHIS
+http://bestsave.ltd:2052/141414/151515/80977
+#EXTINF:-1 tvg-name="US- ABC25 (KXXV) BRYAN" tvg-logo="",US- ABC25 (KXXV) BRYAN
+http://bestsave.ltd:2052/141414/151515/80976
+#EXTINF:-1 tvg-name="US- ABC25 (WJXX) JACKSONVILLE" tvg-logo="",US- ABC25 (WJXX) JACKSONVILLE
+http://bestsave.ltd:2052/141414/151515/80975
+#EXTINF:-1 tvg-name="US- ABC27 (WHTM) HARRISBURG" tvg-logo="",US- ABC27 (WHTM) HARRISBURG
+http://bestsave.ltd:2052/141414/151515/80974
+#EXTINF:-1 tvg-name="US- ABC27 (WKOW) MADISON" tvg-logo="",US- ABC27 (WKOW) MADISON
+http://bestsave.ltd:2052/141414/151515/80973
+#EXTINF:-1 tvg-name="US- ABC28 (KAMC) LUBBOCK" tvg-logo="",US- ABC28 (KAMC) LUBBOCK
+http://bestsave.ltd:2052/141414/151515/80972
+#EXTINF:-1 tvg-name="US- ABC3 (KTBS) SHREVEPORT" tvg-logo="",US- ABC3 (KTBS) SHREVEPORT
+http://bestsave.ltd:2052/141414/151515/80971
+#EXTINF:-1 tvg-name="US- ABC3 (WEAR) PENSACOLA" tvg-logo="",US- ABC3 (WEAR) PENSACOLA
+http://bestsave.ltd:2052/141414/151515/80970
+#EXTINF:-1 tvg-name="US- ABC3 (WSIL) LLLINOIS" tvg-logo="",US- ABC3 (WSIL) LLLINOIS
+http://bestsave.ltd:2052/141414/151515/80969
+#EXTINF:-1 tvg-name="US- ABC31 (WAAY) HUNTSVILLE" tvg-logo="",US- ABC31 (WAAY) HUNTSVILLE
+http://bestsave.ltd:2052/141414/151515/80968
+#EXTINF:-1 tvg-name="US- ABC33 (KSPR) MISSOURI" tvg-logo="",US- ABC33 (KSPR) MISSOURI
+http://bestsave.ltd:2052/141414/151515/80967
+#EXTINF:-1 tvg-name="US- ABC36 (WTVQ) LEXINGTON" tvg-logo="",US- ABC36 (WTVQ) LEXINGTON
+http://bestsave.ltd:2052/141414/151515/80966
+#EXTINF:-1 tvg-name="US- ABC4 (WCIV) CHARLESTON" tvg-logo="",US- ABC4 (WCIV) CHARLESTON
+http://bestsave.ltd:2052/141414/151515/80964
+#EXTINF:-1 tvg-name="US- ABC40/29 (KHBS) FORT SMITH" tvg-logo="",US- ABC40/29 (KHBS) FORT SMITH
+http://bestsave.ltd:2052/141414/151515/80962
+#EXTINF:-1 tvg-name="US- ABC40/29 (KHOG) FORT SMITH" tvg-logo="",US- ABC40/29 (KHOG) FORT SMITH
+http://bestsave.ltd:2052/141414/151515/80961
+#EXTINF:-1 tvg-name="US- ABC45 (WXLV) WINSTON-SALEM" tvg-logo="",US- ABC45 (WXLV) WINSTON-SALEM
+http://bestsave.ltd:2052/141414/151515/80960
+#EXTINF:-1 tvg-name="US- ABC5 (KOCO) OKLAHOMA CITY" tvg-logo="",US- ABC5 (KOCO) OKLAHOMA CITY
+http://bestsave.ltd:2052/141414/151515/80959
+#EXTINF:-1 tvg-name="US- ABC6 (WJBF) AUGUSTA" tvg-logo="",US- ABC6 (WJBF) AUGUSTA
+http://bestsave.ltd:2052/141414/151515/80958
+#EXTINF:-1 tvg-name="US- ABC68 (WABM) BIRMINGHAM" tvg-logo="",US- ABC68 (WABM) BIRMINGHAM
+http://bestsave.ltd:2052/141414/151515/80957
+#EXTINF:-1 tvg-name="US- ABC 7 KOAT NEW MEXICO" tvg-logo="",US- ABC 7 KOAT NEW MEXICO
+http://bestsave.ltd:2052/141414/151515/80956
+#EXTINF:-1 tvg-name="US- ABC7 (KVIA) EL PASO" tvg-logo="",US- ABC7 (KVIA) EL PASO
+http://bestsave.ltd:2052/141414/151515/80955
+#EXTINF:-1 tvg-name="US- ABC7 (WKBW) BUFFALO" tvg-logo="",US- ABC7 (WKBW) BUFFALO
+http://bestsave.ltd:2052/141414/151515/80954
+#EXTINF:-1 tvg-name="US- ABC7 (WZVN) FORT MYERS" tvg-logo="",US- ABC7 (WZVN) FORT MYERS
+http://bestsave.ltd:2052/141414/151515/80953
+#EXTINF:-1 tvg-name="US- ABC8 (KTUL) TULSA" tvg-logo="",US- ABC8 (KTUL) TULSA
+http://bestsave.ltd:2052/141414/151515/80952
+#EXTINF:-1 tvg-name="US- ABC8 (WCHS) CHARLESTON" tvg-logo="",US- ABC8 (WCHS) CHARLESTON
+http://bestsave.ltd:2052/141414/151515/80951
+#EXTINF:-1 tvg-name="US- ABC8 (WRIC) RICHMOND" tvg-logo="",US- ABC8 (WRIC) RICHMOND
+http://bestsave.ltd:2052/141414/151515/80950
+#EXTINF:-1 tvg-name="US- ABC9 (KCRG) CEDAR RAPIDS" tvg-logo="",US- ABC9 (KCRG) CEDAR RAPIDS
+http://bestsave.ltd:2052/141414/151515/80949
+#EXTINF:-1 tvg-name="US- ABC9 (WMUR) MANCHESTER" tvg-logo="",US- ABC9 (WMUR) MANCHESTER
+http://bestsave.ltd:2052/141414/151515/80948
+#EXTINF:-1 tvg-name="US- ABC9 (WSYR) SYRACUSE" tvg-logo="",US- ABC9 (WSYR) SYRACUSE
+http://bestsave.ltd:2052/141414/151515/80947
+#EXTINF:-1 tvg-name="US- HLN" tvg-logo="",US- HLN
+http://bestsave.ltd:2052/141414/151515/80946
+#EXTINF:-1 tvg-name="US- YES NETWORK" tvg-logo="",US- YES NETWORK
+http://bestsave.ltd:2052/141414/151515/80945
