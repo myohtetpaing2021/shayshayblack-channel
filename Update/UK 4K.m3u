@@ -1,275 +1,275 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="UK- ITV 1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV 1 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- ITV 1 FHD
 http://bestsave.ltd:2052/141414/151515/125059
-#EXTINF:-1 tvg-name="UK- ITV 2 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV 2 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- ITV 2 FHD
 http://bestsave.ltd:2052/141414/151515/125058
-#EXTINF:-1 tvg-name="UK- ITV 3 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV 3 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- ITV 3 FHD
 http://bestsave.ltd:2052/141414/151515/125056
-#EXTINF:-1 tvg-name="UK- ITV 4 FHD-" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV 4 FHD-
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- ITV 4 FHD-
 http://bestsave.ltd:2052/141414/151515/82521
-#EXTINF:-1 tvg-name="UK- ITV 4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV 4 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- ITV 4 FHD
 http://bestsave.ltd:2052/141414/151515/125055
-#EXTINF:-1 tvg-name="UK- ITV BE FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ITV BE FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- ITV BE FHD
 http://bestsave.ltd:2052/141414/151515/80943
-#EXTINF:-1 tvg-name="UK- AL JAZEERA HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- AL JAZEERA HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- AL JAZEERA HD
 http://bestsave.ltd:2052/141414/151515/80868
-#EXTINF:-1 tvg-name="UK- SKY NEWS" tvg-logo="",UK- SKY NEWS
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY NEWS
 http://bestsave.ltd:2052/141414/151515/80793
-#EXTINF:-1 tvg-name="UK- BBC NEWS FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC NEWS FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BBC NEWS FHD
 http://bestsave.ltd:2052/141414/151515/80939
-#EXTINF:-1 tvg-name="UK- BBC NEWS HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC NEWS HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BBC NEWS HD
 http://bestsave.ltd:2052/141414/151515/80875
-#EXTINF:-1 tvg-name="UK- BBC 1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 1 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BBC 1 FHD
 http://bestsave.ltd:2052/141414/151515/80935
-#EXTINF:-1 tvg-name="UK- BBC 1 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 1 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BBC 1 HD
 http://bestsave.ltd:2052/141414/151515/80869
-#EXTINF:-1 tvg-name="UK- BBC 2 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 2 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BBC 2 FHD
 http://bestsave.ltd:2052/141414/151515/80938
-#EXTINF:-1 tvg-name="UK- BBC 3 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 3 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BBC 3 HD
 http://bestsave.ltd:2052/141414/151515/80873
-#EXTINF:-1 tvg-name="UK- BBC 4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 4 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BBC 4 FHD
 http://bestsave.ltd:2052/141414/151515/80937
-#EXTINF:-1 tvg-name="UK- BBC 4 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BBC 4 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BBC 4 HD
 http://bestsave.ltd:2052/141414/151515/80874
-#EXTINF:-1 tvg-name="UK- BOX OFFICE 1 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 1 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX OFFICE 1 HD
 http://bestsave.ltd:2052/141414/151515/151545
-#EXTINF:-1 tvg-name="UK- BOX OFFICE 2 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 2 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX OFFICE 2 HD
 http://bestsave.ltd:2052/141414/151515/151546
-#EXTINF:-1 tvg-name="UK- BOX OFFICE 3 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 3 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX OFFICE 3 HD
 http://bestsave.ltd:2052/141414/151515/151547
-#EXTINF:-1 tvg-name="UK- BOX OFFICE 4 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 4 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX OFFICE 4 HD
 http://bestsave.ltd:2052/141414/151515/151548
-#EXTINF:-1 tvg-name="UK- BOX OFFICE 5 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 5 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX OFFICE 5 HD
 http://bestsave.ltd:2052/141414/151515/151549
-#EXTINF:-1 tvg-name="UK- BOX OFFICE 6 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 6 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX OFFICE 6 HD
 http://bestsave.ltd:2052/141414/151515/151550
-#EXTINF:-1 tvg-name="UK- BOX OFFICE 7 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 7 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX OFFICE 7 HD
 http://bestsave.ltd:2052/141414/151515/151551
-#EXTINF:-1 tvg-name="UK- BOX OFFICE 8 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 8 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX OFFICE 8 HD
 http://bestsave.ltd:2052/141414/151515/151552
-#EXTINF:-1 tvg-name="UK- BOX OFFICE 9 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 9 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX OFFICE 9 HD
 http://bestsave.ltd:2052/141414/151515/151553
-#EXTINF:-1 tvg-name="UK- BOX OFFICE 10 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX OFFICE 10 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX OFFICE 10 HD
 http://bestsave.ltd:2052/141414/151515/151554
-#EXTINF:-1 tvg-name="UK- BT SPORTS 1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 1 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BT SPORTS 1 FHD
 http://bestsave.ltd:2052/141414/151515/80932
-#EXTINF:-1 tvg-name="UK- BT SPORTS 1 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 1 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BT SPORTS 1 HD
 http://bestsave.ltd:2052/141414/151515/80876
-#EXTINF:-1 tvg-name="UK- BT SPORTS 2 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 2 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BT SPORTS 2 FHD
 http://bestsave.ltd:2052/141414/151515/80931
-#EXTINF:-1 tvg-name="UK- BT SPORTS 2 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 2 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BT SPORTS 2 HD
 http://bestsave.ltd:2052/141414/151515/80877
-#EXTINF:-1 tvg-name="UK- BT SPORTS 3 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 3 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BT SPORTS 3 FHD
 http://bestsave.ltd:2052/141414/151515/80930
-#EXTINF:-1 tvg-name="UK- BT SPORTS 3 HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS 3 HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BT SPORTS 3 HD
 http://bestsave.ltd:2052/141414/151515/80878
-#EXTINF:-1 tvg-name="UK- BT SPORTS ESPN FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS ESPN FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BT SPORTS ESPN FHD
 http://bestsave.ltd:2052/141414/151515/80929
-#EXTINF:-1 tvg-name="UK- BT SPORTS ESPN HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BT SPORTS ESPN HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BT SPORTS ESPN HD
 http://bestsave.ltd:2052/141414/151515/80879
-#EXTINF:-1 tvg-name="UK- PREMIER SPORTS 1" tvg-logo="",UK- PREMIER SPORTS 1
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- PREMIER SPORTS 1
 http://bestsave.ltd:2052/141414/151515/80807
-#EXTINF:-1 tvg-name="UK- PREMIER SPORTS 2" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- PREMIER SPORTS 2
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- PREMIER SPORTS 2
 http://bestsave.ltd:2052/141414/151515/80830
-#EXTINF:-1 tvg-name="UK- PREMIER SPORT 1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- PREMIER SPORT 1 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- PREMIER SPORT 1 FHD
 http://bestsave.ltd:2052/141414/151515/80925
-#EXTINF:-1 tvg-name="UK- PREMIER SPORT 2 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- PREMIER SPORT 2 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- PREMIER SPORT 2 FHD
 http://bestsave.ltd:2052/141414/151515/80924
-#EXTINF:-1 tvg-name="UK- PREMIER SPORT LALIGA TV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- PREMIER SPORT LALIGA TV FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- PREMIER SPORT LALIGA TV FHD
 http://bestsave.ltd:2052/141414/151515/80923
-#EXTINF:-1 tvg-name="UK- FREE SPORTS FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- FREE SPORTS FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- FREE SPORTS FHD
 http://bestsave.ltd:2052/141414/151515/80922
-#EXTINF:-1 tvg-name="UK- EURO SPORT 1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- EURO SPORT 1 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- EURO SPORT 1 FHD
 http://bestsave.ltd:2052/141414/151515/80920
-#EXTINF:-1 tvg-name="UK- NAT GEO FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- NAT GEO FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- NAT GEO FHD
 http://bestsave.ltd:2052/141414/151515/80905
-#EXTINF:-1 tvg-name="UK- NAT GEO WILD FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- NAT GEO WILD FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- NAT GEO WILD FHD
 http://bestsave.ltd:2052/141414/151515/80906
-#EXTINF:-1 tvg-name="UK- DISCOVERY FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- DISCOVERY FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- DISCOVERY FHD
 http://bestsave.ltd:2052/141414/151515/80903
-#EXTINF:-1 tvg-name="UK- HISTORY CHANNEL 1" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- HISTORY CHANNEL 1
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- HISTORY CHANNEL 1
 http://bestsave.ltd:2052/141414/151515/80829
-#EXTINF:-1 tvg-name="UK- HISTORY CHANNEL 2" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- HISTORY CHANNEL 2
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- HISTORY CHANNEL 2
 http://bestsave.ltd:2052/141414/151515/80828
-#EXTINF:-1 tvg-name="UK- ANIMAL PLANET" tvg-logo="",UK- ANIMAL PLANET
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- ANIMAL PLANET
 http://bestsave.ltd:2052/141414/151515/80823
-#EXTINF:-1 tvg-name="UK- FOOD NETWORK" tvg-logo="",UK- FOOD NETWORK
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- FOOD NETWORK
 http://bestsave.ltd:2052/141414/151515/80815
-#EXTINF:-1 tvg-name="UK- BOOMERANG" tvg-logo="",UK- BOOMERANG
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOOMERANG
 http://bestsave.ltd:2052/141414/151515/80820
-#EXTINF:-1 tvg-name="UK- BOOMERANG KIDS" tvg-logo="",UK- BOOMERANG KIDS
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOOMERANG KIDS
 http://bestsave.ltd:2052/141414/151515/80805
-#EXTINF:-1 tvg-name="UK- NICK" tvg-logo="",UK- NICK
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- NICK
 http://bestsave.ltd:2052/141414/151515/80819
-#EXTINF:-1 tvg-name="UK- DISNEY JUNIOR" tvg-logo="",UK- DISNEY JUNIOR
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- DISNEY JUNIOR
 http://bestsave.ltd:2052/141414/151515/80818
-#EXTINF:-1 tvg-name="UK- HORROR CHANNEL" tvg-logo="",UK- HORROR CHANNEL
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- HORROR CHANNEL
 http://bestsave.ltd:2052/141414/151515/80816
-#EXTINF:-1 tvg-name="UK- NICK JR" tvg-logo="",UK- NICK JR
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- NICK JR
 http://bestsave.ltd:2052/141414/151515/80790
-#EXTINF:-1 tvg-name="UK- NICK JR. FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- NICK JR. FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- NICK JR. FHD
 http://bestsave.ltd:2052/141414/151515/80892
-#EXTINF:-1 tvg-name="UK- M UTV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- M UTV FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- M UTV FHD
 http://bestsave.ltd:2052/141414/151515/80928
-#EXTINF:-1 tvg-name="UK-  LFC TV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK-  LFC TV FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK-  LFC TV FHD
 http://bestsave.ltd:2052/141414/151515/80921
-#EXTINF:-1 tvg-name="UK- RACING TV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- RACING TV FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- RACING TV FHD
 http://bestsave.ltd:2052/141414/151515/80927
-#EXTINF:-1 tvg-name="UK-  W+1 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK-  W+1 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK-  W+1 FHD
 http://bestsave.ltd:2052/141414/151515/80894
-#EXTINF:-1 tvg-name="UK- CBBC FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CBBC FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- CBBC FHD
 http://bestsave.ltd:2052/141414/151515/80919
-#EXTINF:-1 tvg-name="UK- CNBC FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CNBC FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- CNBC FHD
 http://bestsave.ltd:2052/141414/151515/80926
-#EXTINF:-1 tvg-name="UK- SKY NEWS FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY NEWS FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY NEWS FHD
 http://bestsave.ltd:2052/141414/151515/80918
-#EXTINF:-1 tvg-name="UK- BLOOMBERG FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BLOOMBERG FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BLOOMBERG FHD
 http://bestsave.ltd:2052/141414/151515/80917
-#EXTINF:-1 tvg-name="UK- FILM 4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- FILM 4 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- FILM 4 FHD
 http://bestsave.ltd:2052/141414/151515/80915
-#EXTINF:-1 tvg-name="UK- CRIME+INV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CRIME+INV FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- CRIME+INV FHD
 http://bestsave.ltd:2052/141414/151515/80914
-#EXTINF:-1 tvg-name="UK- QUEST FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- QUEST FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- QUEST FHD
 http://bestsave.ltd:2052/141414/151515/80912
-#EXTINF:-1 tvg-name="UK- MORE4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- MORE4 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- MORE4 FHD
 http://bestsave.ltd:2052/141414/151515/80911
-#EXTINF:-1 tvg-name="UK-  E4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK-  E4 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK-  E4 FHD
 http://bestsave.ltd:2052/141414/151515/80909
-#EXTINF:-1 tvg-name="UK- ALIBI FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ALIBI FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- ALIBI FHD
 http://bestsave.ltd:2052/141414/151515/80908
-#EXTINF:-1 tvg-name="UK- H2 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- H2 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- H2 FHD
 http://bestsave.ltd:2052/141414/151515/80907
-#EXTINF:-1 tvg-name="UK- MTV FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- MTV FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- MTV FHD
 http://bestsave.ltd:2052/141414/151515/80904
-#EXTINF:-1 tvg-name="UK-  E! FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK-  E! FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK-  E! FHD
 http://bestsave.ltd:2052/141414/151515/80902
-#EXTINF:-1 tvg-name="UK- SYFY FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SYFY FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SYFY FHD
 http://bestsave.ltd:2052/141414/151515/80901
-#EXTINF:-1 tvg-name="UK- COMEDY CENT FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- COMEDY CENT FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- COMEDY CENT FHD
 http://bestsave.ltd:2052/141414/151515/80900
-#EXTINF:-1 tvg-name="UK- DAVE FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- DAVE FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- DAVE FHD
 http://bestsave.ltd:2052/141414/151515/80899
-#EXTINF:-1 tvg-name="UK- GOLD FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- GOLD FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- GOLD FHD
 http://bestsave.ltd:2052/141414/151515/80898
-#EXTINF:-1 tvg-name="UK- W FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- W FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- W FHD
 http://bestsave.ltd:2052/141414/151515/80897
-#EXTINF:-1 tvg-name="UK-  CHANNEL 5 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK-  CHANNEL 5 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK-  CHANNEL 5 FHD
 http://bestsave.ltd:2052/141414/151515/80896
-#EXTINF:-1 tvg-name="UK- CHANNEL 4 FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CHANNEL 4 FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- CHANNEL 4 FHD
 http://bestsave.ltd:2052/141414/151515/80895
-#EXTINF:-1 tvg-name="UK- RACING UK HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- RACING UK HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- RACING UK HD
 http://bestsave.ltd:2052/141414/151515/80871
-#EXTINF:-1 tvg-name="UK- COMEDY CENTRAL EXTRA HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- COMEDY CENTRAL EXTRA HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- COMEDY CENTRAL EXTRA HD
 http://bestsave.ltd:2052/141414/151515/80891
-#EXTINF:-1 tvg-name="UK- COMEDY CENTRAL HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- COMEDY CENTRAL HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- COMEDY CENTRAL HD
 http://bestsave.ltd:2052/141414/151515/80890
-#EXTINF:-1 tvg-name="UK- CBS REALITY HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CBS REALITY HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- CBS REALITY HD
 http://bestsave.ltd:2052/141414/151515/80886
-#EXTINF:-1 tvg-name="UK- CBS ACTION HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CBS ACTION HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- CBS ACTION HD
 http://bestsave.ltd:2052/141414/151515/80885
-#EXTINF:-1 tvg-name="UK- 5 STAR HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- 5 STAR HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- 5 STAR HD
 http://bestsave.ltd:2052/141414/151515/80884
-#EXTINF:-1 tvg-name="UK- CHALLENGE HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- CHALLENGE HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- CHALLENGE HD
 http://bestsave.ltd:2052/141414/151515/80883
-#EXTINF:-1 tvg-name="UK- 4 SEVEN HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- 4 SEVEN HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- 4 SEVEN HD
 http://bestsave.ltd:2052/141414/151515/80870
-#EXTINF:-1 tvg-name="UK- DAVE HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- DAVE HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- DAVE HD
 http://bestsave.ltd:2052/141414/151515/80865
-#EXTINF:-1 tvg-name="UK- BET HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BET HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BET HD
 http://bestsave.ltd:2052/141414/151515/80864
-#EXTINF:-1 tvg-name="UK- AMC HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- AMC HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- AMC HD
 http://bestsave.ltd:2052/141414/151515/80863
-#EXTINF:-1 tvg-name="UK- ALIBI HD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ALIBI HD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- ALIBI HD
 http://bestsave.ltd:2052/141414/151515/80862
-#EXTINF:-1 tvg-name="UK- SKY CINEMA THRILLER" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA THRILLER
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY CINEMA THRILLER
 http://bestsave.ltd:2052/141414/151515/80861
-#EXTINF:-1 tvg-name="UK- SKY CINEMA SELECT" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA SELECT
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY CINEMA SELECT
 http://bestsave.ltd:2052/141414/151515/80860
-#EXTINF:-1 tvg-name="UK- SKY CINEMA HITS" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA HITS
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY CINEMA HITS
 http://bestsave.ltd:2052/141414/151515/80859
-#EXTINF:-1 tvg-name="UK- SKY SPORTS FOOTBALL" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY SPORTS FOOTBALL
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY SPORTS FOOTBALL
 http://bestsave.ltd:2052/141414/151515/80855
-#EXTINF:-1 tvg-name="UK- SKY SPORTS RACING" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY SPORTS RACING
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY SPORTS RACING
 http://bestsave.ltd:2052/141414/151515/80854
-#EXTINF:-1 tvg-name="UK- SKY CINEMA ACTION" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA ACTION
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY CINEMA ACTION
 http://bestsave.ltd:2052/141414/151515/80853
-#EXTINF:-1 tvg-name="UK- SKY CINEMA FAMILY" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA FAMILY
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY CINEMA FAMILY
 http://bestsave.ltd:2052/141414/151515/80852
-#EXTINF:-1 tvg-name="UK- SKY CINEMA GREATS" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA GREATS
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY CINEMA GREATS
 http://bestsave.ltd:2052/141414/151515/80851
-#EXTINF:-1 tvg-name="UK- SKY CINEMA PREMIER" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA PREMIER
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY CINEMA PREMIER
 http://bestsave.ltd:2052/141414/151515/80850
-#EXTINF:-1 tvg-name="UK- SKY CINEMA SCI-FI" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY CINEMA SCI-FI
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY CINEMA SCI-FI
 http://bestsave.ltd:2052/141414/151515/80849
-#EXTINF:-1 tvg-name="UK- SKY WITNESS" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY WITNESS
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY WITNESS
 http://bestsave.ltd:2052/141414/151515/80847
-#EXTINF:-1 tvg-name="UK- S4C" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- S4C
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- S4C
 http://bestsave.ltd:2052/141414/151515/80846
-#EXTINF:-1 tvg-name="UK- SKY MOVIES FAMILY" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY MOVIES FAMILY
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY MOVIES FAMILY
 http://bestsave.ltd:2052/141414/151515/80845
-#EXTINF:-1 tvg-name="UK- QUEST" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- QUEST
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- QUEST
 http://bestsave.ltd:2052/141414/151515/80844
-#EXTINF:-1 tvg-name="UK- VIRGIN MEDIA TWO" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- VIRGIN MEDIA TWO
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- VIRGIN MEDIA TWO
 http://bestsave.ltd:2052/141414/151515/80842
-#EXTINF:-1 tvg-name="UK- VIRGIN MEDIA THREE" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- VIRGIN MEDIA THREE
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- VIRGIN MEDIA THREE
 http://bestsave.ltd:2052/141414/151515/80841
-#EXTINF:-1 tvg-name="UK- WATCH" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- WATCH
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- WATCH
 http://bestsave.ltd:2052/141414/151515/80838
-#EXTINF:-1 tvg-name="UK- SMITHSONIAN CHANNEL" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SMITHSONIAN CHANNEL
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SMITHSONIAN CHANNEL
 http://bestsave.ltd:2052/141414/151515/80837
-#EXTINF:-1 tvg-name="UK- SONY TV" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SONY TV
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SONY TV
 http://bestsave.ltd:2052/141414/151515/80836
-#EXTINF:-1 tvg-name="UK- SKY 1" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- SKY 1
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY 1
 http://bestsave.ltd:2052/141414/151515/80834
-#EXTINF:-1 tvg-name="UK- BOX NATION" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- BOX NATION
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BOX NATION
 http://bestsave.ltd:2052/141414/151515/80831
-#EXTINF:-1 tvg-name="UK- TLC" tvg-logo="",UK- TLC
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- TLC
 http://bestsave.ltd:2052/141414/151515/80825
-#EXTINF:-1 tvg-name="UK- EDEN" tvg-logo="",UK- EDEN
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- EDEN
 http://bestsave.ltd:2052/141414/151515/80824
-#EXTINF:-1 tvg-name="UK- UTV" tvg-logo="",UK- UTV
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- UTV
 http://bestsave.ltd:2052/141414/151515/80822
-#EXTINF:-1 tvg-name="UK- BABY TV" tvg-logo="",UK- BABY TV
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- BABY TV
 http://bestsave.ltd:2052/141414/151515/80812
-#EXTINF:-1 tvg-name="UK- CARTOONITO" tvg-logo="",UK- CARTOONITO
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- CARTOONITO
 http://bestsave.ltd:2052/141414/151515/80811
-#EXTINF:-1 tvg-name="UK- MUTV" tvg-logo="",UK- MUTV
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- MUTV
 http://bestsave.ltd:2052/141414/151515/80810
-#EXTINF:-1 tvg-name="UK- FREE SPORTS" tvg-logo="",UK- FREE SPORTS
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- FREE SPORTS
 http://bestsave.ltd:2052/141414/151515/80808
-#EXTINF:-1 tvg-name="UK- UNIVERSAL" tvg-logo="",UK- UNIVERSAL
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- UNIVERSAL
 http://bestsave.ltd:2052/141414/151515/80806
-#EXTINF:-1 tvg-name="UK- NICKTOONS" tvg-logo="",UK- NICKTOONS
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- NICKTOONS
 http://bestsave.ltd:2052/141414/151515/80803
-#EXTINF:-1 tvg-name="UK- SKY ARTS" tvg-logo="",UK- SKY ARTS
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY ARTS
 http://bestsave.ltd:2052/141414/151515/80801
-#EXTINF:-1 tvg-name="UK- 5 SELECT" tvg-logo="",UK- 5 SELECT
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- 5 SELECT
 http://bestsave.ltd:2052/141414/151515/80798
-#EXTINF:-1 tvg-name="UK- POP" tvg-logo="",UK- POP
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- POP
 http://bestsave.ltd:2052/141414/151515/80797
-#EXTINF:-1 tvg-name="UK- TINY POP" tvg-logo="",UK- TINY POP
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- TINY POP
 http://bestsave.ltd:2052/141414/151515/80796
-#EXTINF:-1 tvg-name="UK- MAGIC TV" tvg-logo="",UK- MAGIC TV
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- MAGIC TV
 http://bestsave.ltd:2052/141414/151515/80795
-#EXTINF:-1 tvg-name="UK- SKY ATLANTIC" tvg-logo="",UK- SKY ATLANTIC
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY ATLANTIC
 http://bestsave.ltd:2052/141414/151515/80794
-#EXTINF:-1 tvg-name="UK- SKY 2" tvg-logo="",UK- SKY 2
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SKY 2
 http://bestsave.ltd:2052/141414/151515/80792
-#EXTINF:-1 tvg-name="UK- SYFY" tvg-logo="",UK- SYFY
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- SYFY
 http://bestsave.ltd:2052/141414/151515/80789
-#EXTINF:-1 tvg-name="UK- VH1" tvg-logo="",UK- VH1
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- VH1
 http://bestsave.ltd:2052/141414/151515/80788
-#EXTINF:-1 tvg-name="UK- NICK JR TOO" tvg-logo="",UK- NICK JR TOO
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- NICK JR TOO
 http://bestsave.ltd:2052/141414/151515/80787
-#EXTINF:-1 tvg-name="UK- YESTERDAY" tvg-logo="",UK- YESTERDAY
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- YESTERDAY
 http://bestsave.ltd:2052/141414/151515/80786
-#EXTINF:-1 tvg-name="UK- UFC FIGHT PASS" tvg-logo="",UK- UFC FIGHT PASS
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- UFC FIGHT PASS
 http://bestsave.ltd:2052/141414/151515/80782
-#EXTINF:-1 tvg-name="UK- TALKING PICTURES" tvg-logo="",UK- TALKING PICTURES
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- TALKING PICTURES
 http://bestsave.ltd:2052/141414/151515/80770
-#EXTINF:-1 tvg-name="UK- ONE VIRGIN MEDIA  FHD" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- ONE VIRGIN MEDIA  FHD
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- ONE VIRGIN MEDIA  FHD
 http://bestsave.ltd:2052/141414/151515/80934
-#EXTINF:-1 tvg-name="UK- TOW VIRGIN MEDIA" tvg-logo="http://62.182.85.43/poster/UK.jpg",UK- TOW VIRGIN MEDIA
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- TOW VIRGIN MEDIA
 http://bestsave.ltd:2052/141414/151515/80933
-#EXTINF:-1 tvg-name="UK- LOVE NATURE" tvg-logo="",UK- LOVE NATURE
+#EXTINF:1 tvg-logo="http://62.182.85.43/poster/UK.jpg"  group-title="UK 4K", UK- LOVE NATURE
 http://bestsave.ltd:2052/141414/151515/80767
