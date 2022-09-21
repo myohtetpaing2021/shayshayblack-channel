@@ -1,116 +1,41 @@
-#EXTINF:-1,BEINSPORT 1 PREMIUM 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3531
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="Bein FUD TV Ch", beIN News
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18910
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="Bein FUD TV Ch", beIN SP
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18911
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="Bein FUD TV Ch", beIN Premium 1
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18912
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="Bein FUD TV Ch", beIN Premium 2
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18913
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="Bein FUD TV Ch", beIN Premium 3
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18914
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="Bein FUD TV Ch", beIN SP 1
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18915
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="Bein FUD TV Ch", beIN SP 2
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18916
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="Bein FUD TV Ch", beIN SP 3
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18917
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="Bein FUD TV Ch", beIN SP 4
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18918
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="Bein FUD TV Ch", beIN SP 5
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18919
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="Bein FUD TV Ch", beIN SP 6
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18920
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="Bein FUD TV Ch", beIN SP 7
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18921
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="Bein FUD TV Ch", beIN Xtra 1
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18922
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="Bein FUD TV Ch", beIN Xtra 2
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18923
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="Bein FUD TV Ch", beIN SP EN 1
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18924
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="Bein FUD TV Ch", beIN Premium 1
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18912
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="Bein FUD TV Ch", beIN Premium 2
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18913
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="Bein FUD TV Ch", beIN Premium 3
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18914
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-2-qa.png" group-title="Bein FUD TV Ch", beIN SP FR 2
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18928
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-nba-qa.png" group-title="Bein FUD TV Ch", beIN Nba
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/18929
 
-#EXTINF:-1,BEINSPORT 2 PREMIUM 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3532
-#EXTINF:-1,BEINSPORT 3 PREMIUM 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3533
-#EXTINF:-1,BEINSPORT 1 PREMIUM
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3521
-
-#EXTINF:-1,BEINSPORT 2 PREMIUM
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3522
-#EXTINF:-1,BEINSPORT 3 PREMIUM
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3523
-#EXTINF:-1,BEINSPORT
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2363
-
-#EXTINF:-1,BEINSPORT
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2364
-
-#EXTINF:-1,BEINSPORT xtra1
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2365
-#EXTINF:-1,BEINSPORT xtra2
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2366
-#EXTINF:-1,BEIN afc 1
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2367
-
-#EXTINF:-1,BEIN afc 2
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2368
-#EXTINF:-1,BEIN afc 3
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2369
-#EXTINF:-1,on time SPORTS 1
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2666
-#EXTINF:-1,on time SPORTS 2
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2667
-#EXTINF:-1,on time SPORTS 3
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2668
-#EXTINF:-1,AD SPORTS Premium 1
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3537
-#EXTINF:-1,AD SPORTS Premium 2
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3538
-#EXTINF:-1,BEINSPORT 1
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3524
-#EXTINF:-1,BEINSPORT 2
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3525
-#EXTINF:-1,BEINSPORT 3
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3526
-#EXTINF:-1,BEINSPORT 4
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3527
-
-#EXTINF:-1,BEINSPORT 5
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3528
-#EXTINF:-1,BEINSPORT 6
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3529
-#EXTINF:-1,BEINSPORT 7
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3530
-#EXTINF:-1,BEINSPORT 1 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3534
-#EXTINF:-1,BEINSPORT 2 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3535
-#EXTINF:-1,BEINSPORT 3 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/3536
-#EXTINF:-1,SSC SPORT 1 hd
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2473
-
-#EXTINF:-1,SSC SPORT 2 hd
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2474
-#EXTINF:-1,SSC SPORT 3 hd
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2475
-
-#EXTINF:-1,SSC SPORT 4 hd
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2476
-
-#EXTINF:-1,SSC SPORT 5 hd
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2477
-
-#EXTINF:-1,SSC SPORT 6 hd
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2478
-
-#EXTINF:-1,SSC SPORT 7 hd
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://bobolacko.live:80/N6TscgmCP84w/VLruTsaH7DqX/2479
