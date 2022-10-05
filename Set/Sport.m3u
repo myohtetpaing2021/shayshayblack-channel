@@ -16,4 +16,7 @@ http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&
 http://198.16.64.10:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
 #EXTINF:1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021114237606.png"  group-title="Sport", Sky Sports Cricket
 http://198.16.64.10:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
-
+#EXTINF:1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021114237606.png"  group-title="Sport", Bein Sports Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF:1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021114237606.png"  group-title="Sport", Bein SportXtra [Pluto]
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
