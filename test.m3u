@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:0,http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.01/Hometown.Cha.Cha.Cha.2021.01.m3u8
-http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.02/Hometown.Cha.Cha.Cha.2021.02.m3u8
-#EXTINF:0,http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.03/Hometown.Cha.Cha.Cha.2021.03.m3u8
-http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.04/Hometown.Cha.Cha.Cha.2021.04.m3u8
-#EXTINF:0,http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.05/Hometown.Cha.Cha.Cha.2021.05.m3u8
-http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.06/Hometown.Cha.Cha.Cha.2021.06.m3u8
-#EXTINF:0,http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.07/Hometown.Cha.Cha.Cha.2021.07.m3u8
-http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.08/Hometown.Cha.Cha.Cha.2021.08.m3u8
-#EXTINF:0,http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.09/Hometown.Cha.Cha.Cha.2021.09.m3u8
-http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.10/Hometown.Cha.Cha.Cha.2021.10.m3u8
-#EXTINF:0,http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.11/Hometown.Cha.Cha.Cha.2021.11.m3u8
-http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.12/Hometown.Cha.Cha.Cha.2021.12.m3u8
-#EXTINF:0,http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.13/Hometown.Cha.Cha.Cha.2021.13.m3u8
-http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.14/Hometown.Cha.Cha.Cha.2021.14.m3u8
-#EXTINF:0,http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.15/Hometown.Cha.Cha.Cha.2021.15.m3u8
-http://m2.mycinema.asia/media/series/Hometown.Cha.Cha.Cha.2021/Hometown.Cha.Cha.Cha.2021.16/Hometown.Cha.Cha.Cha.2021.16.m3u8
+#EXTINF:1 tvg-logo="https://tinyurl.com/45728nc3"  group-title="Adult", NHDTA-775
+https://www1052.ff-03.com/token=Z4dFzVbYJYkAAVSkHq7oxw/1665774644/34.80.0.0/196/1/79/62e95644e7b3eb51faa367a5fbe8b791-1080p.mp4
