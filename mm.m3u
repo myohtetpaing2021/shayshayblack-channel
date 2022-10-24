@@ -56,4 +56,6 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 #EXTINF:1 tvg-logo="https://tinyurl.com/5t2jc6f3"  group-title="Myanmar", Mnet
 http://95.217.44.77:80/mnet/tracks-v1a1/mono.m3u8
 
+#EXTINF:1 tvg-logo="http://p2086.securepoint.io:2086/images/175d7963936f16d8d5b81f02bf3e4796.png"  group-title="Myanmar", AU FoxSport507
+http://mains.vip:2086/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/100789
 
