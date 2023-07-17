@@ -1,1804 +1,594 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", 31 RTSH Sport HD
-http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Eurosport 1 Deutschland
-http://185.204.32.4:9981/stream/channelid/577840136?ticket=6BD731AAAAF62A0FC6B42210FD1752C29F939C80&profile=pass&checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.112114.xyz/logo/HBO.png" group-title="Astro",HBO
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941648
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Super Sport 1 HD
-http://1tv1.net:8080/euro2021/123456/59134?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits HD" tvg-logo="https://upload.112114.xyz/logo/HBO%20Hits.png" group-title="Astro",HBO Hits
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941647
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Super Sport 1 HD
-http://1tv1.net:8080/omnia2021/123456/59134?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://upload.112114.xyz/logo/HBO%20Family.png" group-title="Astro",HBO Family
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941646
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Super Sport 1 HD
-http://stariptv.org:8080/wael2021/123456/59134?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD"  tvg-logo="https://upload.112114.xyz/logo/HBO%20Signature.png" group-title="Astro",HBO Signature
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941645
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", 31 RTSH Sport HD
-http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="Astro",Cinemax
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941659
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Eurosport 1 Deutschland
-http://185.204.32.4:9981/stream/channelid/577840136?ticket=6BD731AAAAF62A0FC6B42210FD1752C29F939C80&profile=pass&checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="SCM HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="Astro",卫视电影台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941625
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Super Sport 4
-http://1tv1.net:8080/euro2021/123456/59214?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Channel HD" tvg-logo="https://upload.112114.xyz/logo/STARCHINESE.png" group-title="Astro",卫视中文台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941624
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Super Sport 4
-http://1tv1.net:8080/omnia2021/123456/59214?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63803" tvg-name="Celestial Movies HD" tvg-logo="https://iptv-pro.github.io/logo/tianying.png" group-title="Astro",天映电影
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941618
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Super Sport 4
-http://stariptv.org:8080/wael2021/123456/59214?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63804" tvg-name="CCM" tvg-logo="https://iptv-pro.github.io/logo/tianyingjd.png" group-title="Astro",天映经典
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941639
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport", Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63792" tvg-name="Hub E City HD" tvg-logo="https://i.imgur.com/UscuzZm.png" group-title="Astro",HUB都会
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941632
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", beIN Sports 1 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63800" tvg-name="Hub VVDrama HD" tvg-logo="https://i.imgur.com/7iYCNKa.png" group-title="Astro",HUB娱家
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941634
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", beIN Sports 2 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63702" tvg-name="Channel 5 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Astro",Channel 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941615
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", beIN Sports 3 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63703" tvg-name="Channel 8 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Astro",Channel 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941616
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", CBC SPORT
-http://stariptv.org:8080/wael2021/123456/55402?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63707" tvg-name="Channel U HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Astro",Channel U
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941617
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ELEVEN SPORTS 1 HD
-http://stariptv.org:8080/wael2021/123456/56214?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63809" tvg-name="National Geographic HD" tvg-logo="https://media.info/i/lf/300/1644358707/1077.png" group-title="Astro",国家地理频道
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941665
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ELEVEN SPORTS 1 HD
-http://1tv1.net:8080/omnia2021/123456/56214?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63810" tvg-name="Nat Geo Wild HD" tvg-logo="https://media.info/i/lf/300/1405279177/1125.png" group-title="Astro",国家地理野生频道
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941664
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ELEVEN SPORTS 2 HD
-http://stariptv.org:8080/wael2021/123456/56215?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63808" tvg-name="BBC Earth HD" tvg-logo="https://media.info/i/lf/300/1641979823/6953.png" group-title="Astro",BBCEarth
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941667
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ELEVEN SPORTS 2 HD
-http://1tv1.net:8080/omnia2021/123456/56215?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63813" tvg-name="BBC Lifestyle HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="Astro",BBCLifestyle
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941668
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", PLAY SPORTS 1 FHD
-http://red.ipfox.org:8080/1234/12345678/37650?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63806" tvg-name="HISTORY HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="Astro",History
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941661
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", PLAY SPORTS 4 FHD
-http://red.ipfox.org:8080/1234/12345678/37647?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63825" tvg-name="AXN HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="Astro",AXN
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941660
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Pickx+ Sports 1 FR HD
-http://red.ipfox.org:8080/1234/12345678/37564?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63692" tvg-name="WarnerTV HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="Astro",WarnerTV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941652
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Pickx+ Sports 6 NL HD
-http://red.ipfox.org:8080/1234/12345678/37553?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63807" tvg-name="Crime + Investigation HD" tvg-logo="https://upload.112114.xyz/logo/Crime%20%26%20Investigation.png" group-title="Astro",CI
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941666
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Pickx+ Sports 7 FR HD
-http://red.ipfox.org:8080/1234/12345678/37552?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63691" tvg-name="Lifetime HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="Astro",Lifetime
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941669
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Pickx+ Sports 7 NL HD
-http://red.ipfox.org:8080/1234/12345678/37551?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63708" tvg-name="Paramount Network" tvg-logo="https://www.paramount.com/themes/custom/viacom/viacom.png" group-title="Astro",Paramount Network HD
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941654
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ALL SPORTS
-http://168.205.87.198:8555/live/antony/1234/148.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="12582" tvg-name="ROCK ENT (HD)" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Astro",ROCK ENTERTAINMENT
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941643
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ALL SPORTS
-http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63812" tvg-name="Travelxp HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7146.1525122979.png" group-title="Astro",TravelXP
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941662
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ALL SPORTS
-http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63693" tvg-name="Hits HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="Astro",HITS
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941578
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ALL SPORTS
-http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63690" tvg-name="HITS MOVIES HD" tvg-logo="https://upload.112114.xyz/logo/Hits.png" group-title="Astro",HITS MOVIES
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941577
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ALL SPORTS
-http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63699" tvg-name="CinemaWorld HD" tvg-logo="https://upload.112114.xyz/logo/CINEMAWORLD.png" group-title="Astro",CINEMAWORLD
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941658
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ALL SPORTS
-http://168.205.87.198:8555/live/leila/123456/148.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63694" tvg-name="Animax HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="Astro",Animax
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941676
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ALL SPORTS
-http://168.205.87.198:8555/live/1114/123456/148.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63793" tvg-name="Nickelodeon HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="Astro",Nickelodeon
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941671
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BAND SPORTS
-http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63785" tvg-name="Nick Jr HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="Astro",NickJr.
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941670
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BAND SPORTS
-http://168.205.87.198:8555/live/JOSEE/123456/176.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63784" tvg-name="Cbeebies HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="Astro",CBeebies
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941672
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BAND SPORTS
-http://168.205.87.198:8555/live/1114/123456/176.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63795" tvg-name="Cartoon Network" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="Astro",Cartoon Network
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941673
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BAND SPORTS
-http://168.205.87.198:8555/live/antony/1234/176.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63796" tvg-name="Boomerang HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="Astro",Boomerang
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941674
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BAND SPORTS
-http://168.205.87.198:8555/live/1221/123456/176.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63787" tvg-name="DreamWorks Channel HD" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="Astro",Dreamworks
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941656
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN 2
-http://168.205.87.198:8555/live/leila/123456/49.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63788" tvg-name="Now Jelli HD" tvg-logo="https://iptv-pro.github.io/logo/NowJelli.png" group-title="Astro",NOW紫金国际台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941630
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN 2
-http://168.205.87.198:8555/live/michele/123456/49.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63873" tvg-name="KBS World HD" tvg-logo="https://upload.112114.xyz/logo/KBS%20World.png" group-title="Astro",KBS World
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941604
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN BRASIL
-http://168.205.87.198:8555/live/leila/123456/50.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63790" tvg-name="ONE HD" tvg-logo="https://upload.112114.xyz/logo/ONE.png" group-title="Astro",ONE	
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941628
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN BRASIL
-http://168.205.87.198:8555/live/michele/123456/50.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63791" tvg-name="tvN HD" tvg-logo="https://upload.112114.xyz/logo/TVN.png" group-title="Astro",tvN
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941623
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN BRASIL
-http://168.205.87.198:8555/live/antony/1234/50.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63783" tvg-name="GEM HD" tvg-logo="https://upload.112114.xyz/logo/GEM.png" group-title="Astro",GEM
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941608
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN EXTRA
-http://168.205.87.198:8555/live/leila/123456/51.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63786" tvg-name="Arirang TV HD" tvg-logo="https://upload.112114.xyz/logo/Arirang%20TV.png" group-title="Astro",Arirang TV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941614
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN EXTRA
-http://168.205.87.198:8555/live/michele/123456/51.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63762" tvg-name="NBA TV HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png" group-title="Sports",NBA TV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941562
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN INT
-http://168.205.87.198:8555/live/michele/123456/60.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63758" tvg-name="beIN SPORTS HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG1.png" group-title="Sports",beIN SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941569
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN INT
-http://168.205.87.198:8555/live/antony/1234/60.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63756" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://upload.112114.xyz/logo/BEINENG2.png" group-title="Sports",beIN SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941568
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN INT
-http://168.205.87.198:8555/live/leila/123456/60.ts?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63759" tvg-name="beIN Sports 3" tvg-logo="https://upload.112114.xyz/logo/BEINENG3.png" group-title="Sports",beIN SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941567
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Diema Sport 1 HD
-http://red.ipfox.org:8080/1234/12345678/31293?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63747" tvg-name="Hub Sports 1 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="Sports",Hub Sports 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941573
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Diema Sport 2 HD
-http://red.ipfox.org:8080/1234/12345678/31292?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63748" tvg-name="Hub Sports 2 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="Sports",Hub Sports 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941572
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", MAX Sport 1 HD
-http://red.ipfox.org:8080/1234/12345678/31290?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63750" tvg-name="Hub Sports 4 HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="Sports",Hub Sports 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941571
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", MAX Sport 2 HD
-http://red.ipfox.org:8080/1234/12345678/31289?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63754" tvg-name="SPOTV" tvg-logo="https://upload.112114.xyz/logo/SPOTV.png" group-title="Sports",SPOTV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941564
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", MAX Sport 3 HD
-http://red.ipfox.org:8080/1234/12345678/31288?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63755" tvg-name="SPOTV2" tvg-logo="https://upload.112114.xyz/logo/SPOTV2.png" group-title="Sports",SPOTV2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941563
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Max Sport 1 HD
-http://1tv1.net:8080/euro2021/123456/86491?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63746" tvg-name="CNN HD" tvg-logo="https://upload.112114.xyz/logo/CNN%20International.png" group-title="Astro",CNN
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941690
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NOVA Sport
-http://stariptv.org:8080/wael2021/123456/15870?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63739" tvg-name="BBC World News HD" tvg-logo="https://upload.112114.xyz/logo/BBC%20World%20News.png" group-title="Astro",BBC World News
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941693
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Nova Sport HD
-http://red.ipfox.org:8080/1234/12345678/31291?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63741" tvg-name="Sky News HD" tvg-logo="https://media.info/i/lf/300/1641766200/1083.png" group-title="Astro",Sky News
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941684
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SPORT Plus HD
-http://red.ipfox.org:8080/1234/12345678/31285?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63740" tvg-name="Fox News Channel HD" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="Astro",FOX News Channel
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941685
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ALTITUDE SPORTS HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4106?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63742" tvg-name="Euronews HD" tvg-logo="https://upload.112114.xyz/logo/EURONEWS.png" group-title="Astro",EuroNews
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941686
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", AT&T SPORTSNET PITTSBURGH HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3802?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63736" tvg-name="DW (Deutsch)" tvg-logo="https://upload.112114.xyz/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" group-title="Astro",DW English
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941687
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", AT&T SPORTSNET SOUTHWEST HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/548?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63706" tvg-name="Channel NewsAsia HD" tvg-logo="https://upload.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="Astro",CNA
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941688
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS ARIZONA
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/201?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63743" tvg-name="CNBC HD" tvg-logo="https://upload.112114.xyz/logo/CNBC%20Asia%20Channel.png" group-title="Astro",CNBC
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941689
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS ATLANTA
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/202?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63744" tvg-name="Bloomberg Television HD" tvg-logo="https://upload.112114.xyz/logo/Bloomberg%20TV.png" group-title="Astro",Bloomberg
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941692
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS CAROLINAS
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/203?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63781" tvg-name="NHK World Premium HD" tvg-logo="https://upload.112114.xyz/logo/NHK%20WORLD%20PREMIUM.png" group-title="Astro",NHK
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941611
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS CINCINNATI
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/205?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="63782" tvg-name="NHK WORLD - JAPAN HD" tvg-logo="https://upload.112114.xyz/logo/NHK%20WORLD-JAPAN.png" group-title="Astro",NHK World - Japan
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941610
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS DETROIT
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/207?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="Astro",TVBJ1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS FLORIDA
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/208?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="Astro",TVB1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153396
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS KANSAS CITY
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/211?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="Astro",TVBE
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS MID-WEST
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/212?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Xing%20He.png" group-title="Astro",TVB XING HE
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS NEW ORLEANS
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/213?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="Astro",TVB CHINESE
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS NORTH
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/214?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Classic.png" group-title="Astro",TVB CLASSIC
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS OHIO
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/217?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Entertainment%20News.png" group-title="Astro",TVB E NEWS
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS PRIME TICKET
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/219?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="Astro",TVB PEARL
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS SAN DIEGO
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/221?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/c4/e4/1f/c4e41fc61929bfd7f871812906f17127.png" group-title="Astro",TVB DRAMA
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153400
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS SOUTHEAST
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/224?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="Astro",TVB JADE
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS SPORTSTIME OHIO
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/227?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png" group-title="Astro",FAIRCHILD EAST
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90350
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS SUN
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/228?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png" group-title="Astro",FAIRCHILD WEST
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90351
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS WEST
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/230?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/45/Fairchild_TV_Logo_2013.png" group-title="Astro",FAIRCHILD 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90352
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BALLY SPORTS WISCONSIN
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/231?checkedby:zaltv.co
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BEINSPORTS HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1466?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/IQIYI.png" group-title="Astro",astro 爱奇艺
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571198&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BEINSPORTS HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1604?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/Astro%E5%85%A8%E4%BD%B3.png" group-title="Astro",astro 全佳
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571192&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BEINSPORTS LA LIGA HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1605?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ASTROSHUANGXING.png" group-title="Astro",astro 双星
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571191&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BT SPORT 2
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1089?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/Astro%E5%B0%8F%E5%A4%AA%E9%98%B3.png" group-title="Astro",astro 小太阳 
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571230&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BT SPORT 3
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1090?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="Astro",astro AOD 351
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571226&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BT SPORT ESPN
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1091?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="Astro",astro AOD 352
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571225&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", CBS SPORTS HQ HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3951?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/AstroAOD.png" group-title="Astro",astro AOD 353
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571229&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", CBS SPORTS NETWORK SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4220?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Jade.png" group-title="Astro",TVB 翡翠台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMUHtv3.png" group-title="Sport", CanBangla TV (1080p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Xing%20He.png" group-title="Astro",TVB 星河频道
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571186&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", DRAFTKINGS COLLEGE FOOTBALL HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4631?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Classic.png" group-title="Astro",TVB 经典台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", DRAFTKINGS NBA HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4545?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVB%20Entertainment%20News.png" group-title="Astro",TVB 娱乐新闻台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", DRAFTKINGS NFL SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4656?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/tianyingjd.png" group-title="Astro",天映经典
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ELEVEN SPORTS HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/176?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/tianying.png" group-title="Astro",天映频道
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571218&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/959?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctiasia.chinatimes.com/wp-content/uploads/2018/12/logo-460x180-300x117.png" group-title="Astro",中天亚洲台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN 2
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/957?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TVBS%E4%BA%9A%E6%B4%B2%E5%8F%B0.png" group-title="Astro",TVBS亚洲台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571185&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN 2 FHD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4753?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="Astro",探索亚洲
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN 2 HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/178?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="Astro",探索频道
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571210&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN 2 SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4217?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/New_England_Sports_Network_%28logo%29.png/220px-New_England_Sports_Network_%28logo%29.png" group-title="Sports",NESN UHD
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1124351&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN 3
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/958?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",Astro SuperSport UHD
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1016544&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN DEPORTES FHD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4758?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-c.png" group-title="Sports",Now Sports 4K
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032489&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN DEPORTES HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/181?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport Ultimate
+http://4ksuper.live/play/live.php?mac=00:1a:79:b1:05:9e&stream=1038792&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN FHD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4740?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/eleven.png" group-title="Sports",ELEVEN SPORTS 1 4K
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=905665&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/177?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro SuperSport
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4538?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro SuperSport 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN LONGHORN FHD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4757?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro SuperSport 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN LONGHORN NETWORK HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/183?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro SuperSport 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN LONGHORN NETWORK SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4225?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="Sports",Astro SuperSport 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN NEWS FHD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4754?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-c.png" group-title="Sports",Now Sports Premier League 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110622&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN NEWS HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/179?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="Sports",Now Sports 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110615&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN NEWS SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4218?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="Sports",Now Sports 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110616&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3870?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-c.png" group-title="Sports",Now Sports 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110617&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN SEC NETWORK FHD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4756?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/634-wbg-c.png" group-title="Sports",Now Sports 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110618&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN SEC NETWORK HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/184?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/635-wbg-c.png" group-title="Sports",Now Sports 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110619&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN SEC NETWORK SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4222?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/636-wbg-c.png" group-title="Sports",Now Sports 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPN SEC NETWORK+ HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4654?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-c.png" group-title="Sports",Now Sports 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110621&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPNU FHD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4755?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="Sports",Hub Sports 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110667&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPNU HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/180?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="Sports",Hub Sports 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110666&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ESPNU SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4219?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="Sports",Hub Sports 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110665&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", EUROSPORT 1
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1109?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/05/espn.png" group-title="Sports",ESPN
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45579&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", EUROSPORT 2
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1110?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/09/espn2.png" group-title="Sports",ESPN 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45580&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", FOX SPORTS DEPORTES HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/206?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/09/fox-sports-1.png" group-title="Sports",FS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45571&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NBA TV FHD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4741?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/11/fox-sports-2.png" group-title="Sports",FS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45570&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NBA TV HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4540?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://substance.agency/wp-content/uploads/2016/06/fsp_10.jpg" group-title="Sports",FOX SOCCER PLUS
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45572&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NBA TV HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/238?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NBA TV SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3470?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NBC GOLF CHANNEL HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/251?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NBC GOLF CHANNEL SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4761?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="Sports",BT Sport 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30564&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NFL 00 NETWORK HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3984?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="Sports",Sky Sports Premier League
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30493&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NFL 00 NETWORK SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4623?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="Sports",Sky Sports Football
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30498&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NFL 00 REDZONE HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3952?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="Sports",Sky Sports Main Event
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30496&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NFL 00 REDZONE SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4622?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="Sports",Sky Sports Mix
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30495&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NFL NETWORK FHD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4750?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600377/1135.png" group-title="Sports",Sky Sports Action
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=929003&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NFL NETWORK HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/252?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="Sports",Sky Sports Arena
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30500&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NFL NETWORK SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4231?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="Sports",Sky Sports F1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NFL REDZONE FHD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/4749?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="Sports",TSN 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177344&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NFL REDZONE HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2981?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="Sports",TSN 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177345&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", NFL REDZONE SD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3953?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="Sports",TSN 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177346&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", PREMIER SPORTS 1
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1125?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="Sports",TSN 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904213&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ROOT SPORTS NORTHWEST HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/248?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/2560px-TSN_Logo.svg.png" group-title="Sports",TSN 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904212&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ROOTS SPORTS HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3806?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo_blue_background.png" group-title="Sports",EUROSPORT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30541&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS ACTION
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1146?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo_blue_background.png" group-title="Sports",EUROSPORT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30540&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS ARENA
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1147?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1389608856725205001/qw4jhnxg_400x400.jpg" group-title="Sports",LALIGA TV
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163611&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS CRICKET
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1148?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="Sports",VIAPLAY SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=163607&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS FOOTBALL
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1150?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="Sports",VIAPLAY SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45251&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS GOLF
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1151?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="Sports",VIAPLAY XTRA
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=546807&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS MAIN EVENT
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1152?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/edgesports-logo-sml-v2.png" group-title="Sports",EDGE SPORT
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1014266&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS MIX
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1153?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports",SONY SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114576&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SKY SPORTS PREMIERE LEAGUE
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1155?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports",SONY SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1114577&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SPECTRUM SPORTSNET LA DODGERS
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2945?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports",SONY SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156024&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SPECTRUM SPORTSNET LA LAKERS
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2946?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",STAR SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155968&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SPORTSMAN CHANNEL HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1239?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",STAR SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155966&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", TYC SPORTS
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/932?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",STAR SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155976&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ZONA FUTBOL TUDN HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2940?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",STAR SPORTS SELECT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155972&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BEIN SPORT 1 HD
-http://w.bs-share.com:8000/00/233441437392897/36207?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports",STAR SPORTS SELECT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", BEIN SPORT 3 HD
-http://w.bs-share.com:8000/00/233441437392897/36209?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="Sports",Hub Premier 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032529&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", CANAL+  SPORT
-http://stariptv.org:8080/wael2021/123456/629?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports",Hub Premier 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032528&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", CANAL+ SPORT FHD
-http://stariptv.org:8080/wael2021/123456/56238?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="Sports",Hub Premier 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032527&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Canal+ Sport
-http://red.ipfox.org:8080/1234/12345678/2422?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png" group-title="Sports",Hub Premier 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032526&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", EUROSPORT 1 FHD
-http://stariptv.org:8080/wael2021/123456/56261?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" group-title="Sports",Hub Premier 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032525&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Eurosport 1
-http://stariptv.org:8080/wael2021/123456/4357?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" group-title="Sports",Hub Premier 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032524&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Eurosport 2
-http://stariptv.org:8080/wael2021/123456/4356?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png" group-title="Sports",Hub Premier 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032523&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", GOLF CHANNEL
-http://stariptv.org:8080/wael2021/123456/10212?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png" group-title="Sports",Hub Premier 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032522&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", GOLF CHANNEL FHD
-http://stariptv.org:8080/wael2021/123456/56275?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png" group-title="Sports",Hub Premier 9
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032521&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", GOLF+
-http://stariptv.org:8080/wael2021/123456/10211?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png" group-title="Sports",Hub Premier 10
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032520&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", GOLF+ FHD
-http://stariptv.org:8080/wael2021/123456/56274?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png" group-title="Sports",Hub Premier 11
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032519&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Golf Channel
-http://red.ipfox.org:8080/1234/12345678/2386?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Sports",ELEVEN SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880457&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", INFOSPORT+
-http://stariptv.org:8080/wael2021/123456/10207?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Sports",ELEVEN SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880456&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", INFOSPORT+ FHD
-http://stariptv.org:8080/wael2021/123456/56278?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Sports",ELEVEN SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880455&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Info Sport
-http://red.ipfox.org:8080/1234/12345678/2384?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Sports",ELEVEN SPORTS 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880454&extension=ts
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="Sport", Pluto TV Sports
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220&serverSideAds=false&checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sports",CANAL+ SPORT 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880461&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC SPORT 1 FHD
-http://stariptv.org:8080/wael2021/123456/56311?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sports",CANAL+ SPORT 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC SPORT 1 HD
-http://w.bs-share.com:8000/00/233441437392897/36202?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sports",CANAL+ SPORT 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880459&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC SPORT 2 HD
-http://w.bs-share.com:8000/00/233441437392897/36203?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sports",CANAL+ SPORT 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880458&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC SPORT 3
-http://stariptv.org:8080/wael2021/123456/4355?checkedby:zaltv.co
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC SPORT 3 FHD
-http://stariptv.org:8080/wael2021/123456/56313?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC SPORT 4 FHD
-http://stariptv.org:8080/wael2021/123456/56314?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC SPORT 5
-http://stariptv.org:8080/wael2021/123456/15354?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836371&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC SPORT ACCESS 1
-http://stariptv.org:8080/wael2021/123456/44986?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836370&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC SPORT ACCESS 2
-http://stariptv.org:8080/wael2021/123456/44985?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836369&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC Sport 1
-http://red.ipfox.org:8080/1234/12345678/2355?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836368&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC Sport 2
-http://red.ipfox.org:8080/1234/12345678/2354?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836367&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RMC Sport 4
-http://red.ipfox.org:8080/1234/12345678/2352?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836366&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", beIN SPORT 2
-http://stariptv.org:8080/wael2021/123456/636?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 9
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836365&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", beIN SPORTS 10
-http://red.ipfox.org:8080/1234/12345678/2440?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA LIVE 10
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836364&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", beIN SPORTS 4
-http://red.ipfox.org:8080/1234/12345678/2437?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY INFO
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040606&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", beIN SPORTS 5
-http://red.ipfox.org:8080/1234/12345678/2436?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY HIGHLIGHTS
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040605&extension=ts
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="Sport", Action Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&deviceId=5be1be871843b56328bc3ef1&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040604&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Scandinavia", V Sport Extra
-http://ch-media.site:8080/Sameda/Sameda1/178025?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040603&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Scandinavia", V Sport Football
-http://ch-media.site:8080/Sameda/Sameda1/178019?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040602&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Scandinavia", V Sport Hockey
-http://ch-media.site:8080/Sameda/Sameda1/178021?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040601&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Scandinavia", V Sport Motor
-http://ch-media.site:8080/Sameda/Sameda1/178020?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 5
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040600&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Scandinavia", V Sport Premium
-http://ch-media.site:8080/Sameda/Sameda1/178027?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 6
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040599&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Scandinavia", V Sport UltraHD
-http://ch-media.site:8080/Sameda/Sameda1/178018?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 7
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040598&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Greece", ART
-http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 8
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040597&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Greece", Cosmote Sport 2 HD
-http://stariptv.org:8080/wael2021/123456/81744?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 9
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040596&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Greece", Cosmote Sport 2 HD
-http://1tv1.net:8080/omnia2021/123456/81744?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 10
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040595&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Greece", Cosmote Sport 2 HD
-http://1tv1.net:8080/euro2021/123456/81744?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 11
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040594&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Greece", Cosmote Sport 5 HD
-http://1tv1.net:8080/omnia2021/123456/81747?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 12
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040593&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Greece", Cosmote Sport 5 HD
-http://1tv1.net:8080/euro2021/123456/81747?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 13
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040592&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Greece", Cosmote Sport 5 HD
-http://stariptv.org:8080/wael2021/123456/81747?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 14
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040591&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Star Sports 1 HD
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 15
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040590&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Indonesia", All Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:zaltv.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 16
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040589&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", YES_SPORT_2_HQ
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7194.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", YES_SPORT_3_HQ
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7791.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", YES_SPORT_4_HQ
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7332.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", YES_SPORT_ONE_HQ
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7503.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", YES_Sport_1_HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2943.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", YES_Sport_2_HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2944.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", YES_Sport_5_Gold
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3971.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", YES_Sport_5_Plus_Live_HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2946.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", YES_Sport_5_Stars
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2945.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", Yes_Sport_3_hd
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6758.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", Yes_Sport_5plus (1080)
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6759.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", Yes_sport_5_HD
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/8026.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Israel", yes_sport_4_hd
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/6705.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Italy", Sky Sport MotoGP
-http://1tv1.net:8080/omnia2021/123456/58986?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malaysia", AL KASS 1 (1024×576),Al Kass Sports
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malaysia", AL KASS 3 (1024×576),Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malaysia", DUBAI SPORTS 1 (1920×1080)
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KDHJryj.png" group-title="Malaysia", DUBAI SPORTS 2 (1920×1080),SPORT : Dubai Sports 2,SPORT | Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malaysia", DUBAI SPORTS 3 (1920×1080)
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Netherlands", Euro Sport 1
-http://red.ipfox.org:8080/1234/12345678/2501?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Netherlands", Euro Sport 2
-http://red.ipfox.org:8080/1234/12345678/2502?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Netherlands", FOX Sports 1 HD Eredivisie
-http://stariptv.org:8080/wael2021/123456/57504?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Netherlands", FOX Sports 2 HD
-http://stariptv.org:8080/wael2021/123456/57503?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Netherlands", FOX Sports 3 HD Eredivisie
-http://stariptv.org:8080/wael2021/123456/57502?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Netherlands", Fox Sport  3 HD
-http://red.ipfox.org:8080/1234/12345678/2497?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Netherlands", Fox Sport 1 HD
-http://red.ipfox.org:8080/1234/12345678/2494?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Netherlands", Fox Sport 4 HD
-http://red.ipfox.org:8080/1234/12345678/2498?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yaWTUE6.png" group-title="Oman", Oman Sport,SPORT : Oman Sports,SPORT | Oman Sports
-http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Oman", Oman Sport
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", ELEVEN SPORTS 1 HD
-http://1tv1.net:8080/euro2021/123456/33429?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", ELEVEN SPORTS 4 HD
-http://1tv1.net:8080/euro2021/123456/33426?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 1 HD
-http://1tv1.net:8080/omnia2021/123456/4119?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 1 HD
-http://1tv1.net:8080/euro2021/123456/4119?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 1 SD
-http://1tv1.net:8080/omnia2021/123456/43594?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 1 SD
-http://1tv1.net:8080/euro2021/123456/43594?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 2 HD
-http://1tv1.net:8080/euro2021/123456/4120?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 2 SD
-http://1tv1.net:8080/omnia2021/123456/43595?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 2 SD
-http://1tv1.net:8080/euro2021/123456/43595?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 3 HD
-http://stariptv.org:8080/wael2021/123456/4121?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 3 HD
-http://1tv1.net:8080/omnia2021/123456/4121?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 3 HD
-http://1tv1.net:8080/euro2021/123456/4121?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 3 SD
-http://1tv1.net:8080/euro2021/123456/43596?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 3 SD
-http://1tv1.net:8080/omnia2021/123456/43596?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 4
-http://1tv1.net:8080/omnia2021/123456/4122?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 4
-http://1tv1.net:8080/euro2021/123456/4122?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 5
-http://1tv1.net:8080/omnia2021/123456/4185?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV 5
-http://1tv1.net:8080/euro2021/123456/4185?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV NBA
-http://1tv1.net:8080/omnia2021/123456/44058?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV NBA
-http://1tv1.net:8080/euro2021/123456/44058?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV+
-http://1tv1.net:8080/euro2021/123456/4186?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", SPORT TV+
-http://1tv1.net:8080/omnia2021/123456/4186?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Portugal", Sporting TV
-http://1tv1.net:8080/omnia2021/123456/4736?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Qatar", beIN Sport HD
-http://red.ipfox.org:8080/1234/12345678/35067?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", DIGI Sport 1 RO
-http://stariptv.org:8080/wael2021/123456/56158?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", DIGI Sport 1 RO
-http://1tv1.net:8080/omnia2021/123456/56158?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", DIGI Sport 2 RO
-http://stariptv.org:8080/wael2021/123456/56145?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", DIGI Sport 2 RO
-http://1tv1.net:8080/omnia2021/123456/56145?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", DIGI Sport 3 RO
-http://stariptv.org:8080/wael2021/123456/56148?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", DIGI Sport 4 RO
-http://stariptv.org:8080/wael2021/123456/56159?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", DIGI Sport 4 RO
-http://1tv1.net:8080/omnia2021/123456/56159?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", Sport RO
-http://1tv1.net:8080/omnia2021/123456/56075?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", Sport RO
-http://stariptv.org:8080/wael2021/123456/56075?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Russia", Extreme Sports
-http://stariptv.org:8080/wael2021/123456/3328?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Russia", Viasat Sport
-http://stariptv.org:8080/wael2021/123456/3346?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Russia", Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Russia", Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Russia", Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Spain", Esport Club
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Spain", Eurosport 1
-http://red.ipfox.org:8080/1234/12345678/36205?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Spain", Eurosport 2
-http://red.ipfox.org:8080/1234/12345678/36206?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", Blue Sport Event 2 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/62831.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", Blue Sport Event 3 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/62832.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", Blue Sport Event 4 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/62833.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", Blue Sport Event 5 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/62834.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", MySports 1 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/71.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", MySports 2 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/72.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", MySports 4 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/74.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", MySports 5 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/75.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", MySports 6 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/76.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", MySports 7 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/77.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", MySports 8 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/78.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", MySports 9 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/79.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", Mysports 3 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/16799.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", blue Sport 1 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/85.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", blue Sport 1 HD (HEVC)
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10105.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", blue Sport 2 HD (HEVC)
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10106.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Switzerland", blue Sport Event 1 HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/14963.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", Action Sports TV 4U
-https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORT 1 FHD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76289?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORT 1 FHD
-http://local.ultrach.com:8080/bekira/bekira/76289?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 1 HD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78345?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 1 HD
-http://local.ultrach.com:8080/bekira/bekira/78345?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 1 PLATINUM X SPORTS SD (MAC SAATİ ACIK)
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/121356?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 1 PLATINUM X SPORTS ULTIMATE (MAC SAATİ ACIK)
-http://local.ultrach.com:8080/bekira/bekira/121353?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 1 PLATINUM X SPORTS ULTIMATE (MAC SAATİ ACIK)
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/121353?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 2 HD
-http://local.ultrach.com:8080/bekira/bekira/76295?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 2 HD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76295?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 2 HD 1080
-http://stariptv.org:8080/wael2021/123456/93382?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 3 (SD/HD)
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78351?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 3 (SD/HD)
-http://local.ultrach.com:8080/bekira/bekira/78351?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 3 FHD
-http://local.ultrach.com:8080/bekira/bekira/76296?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 3 FHD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76296?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 3 HD
-http://local.ultrach.com:8080/bekira/bekira/76297?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 3 HD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76297?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 4 (SD/HD)
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78352?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 4 (SD/HD)
-http://local.ultrach.com:8080/bekira/bekira/78352?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 4 FHD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76298?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 4 FHD
-http://local.ultrach.com:8080/bekira/bekira/76298?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 4 HD
-http://local.ultrach.com:8080/bekira/bekira/76299?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS 4 HD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76299?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS HABER FHD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76304?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS HABER FHD
-http://local.ultrach.com:8080/bekira/bekira/76304?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS HABER HD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76305?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS HABER HD
-http://local.ultrach.com:8080/bekira/bekira/76305?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS MAX 1 (SD/HD)
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78353?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS MAX 1 FHD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76300?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS MAX 1 FHD
-http://local.ultrach.com:8080/bekira/bekira/76300?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS MAX 1 HD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76301?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS MAX 2 FHD
-http://local.ultrach.com:8080/bekira/bekira/76302?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEIN SPORTS MAX 2 HD
-http://local.ultrach.com:8080/bekira/bekira/76303?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEINSPORT 2  PREMİUM
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78349?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", BEINSPORT 2  PREMİUM
-http://local.ultrach.com:8080/bekira/bekira/78349?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", Bein SPORTS 1 Feed 4K 10Mbit
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116592?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", Bein Sport 1
-http://red.ipfox.org:8080/1234/12345678/2810?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", Bein Sport 2
-http://red.ipfox.org:8080/1234/12345678/2817?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", Bein Sport 4
-http://red.ipfox.org:8080/1234/12345678/2808?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkmenistan", Turkmen Спорт,Türkmenistan Sport
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkmenistan", Türkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkmenistan", Türkmenistan Sport
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkmenistan", Türkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="Turkmenistan", Türkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Ukraine", TVRI Sport HD (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Ukraine", Viasat Sport HD
-http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Emirates", Abu Dhabi Sports,Abu Dhabi Sports 1,Abu Dhabi Sports 1 HD (Opt-1),Abu Dhabi Sports1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Emirates", Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Emirates", Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Emirates", Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Emirates", Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Emirates", Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Emirates", Dubai Racing,SPORT : Dubai Racing,SPORT | Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Emirates", Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Emirates", Dubai Sports
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Emirates", Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Emirates", Dubai Sports 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Emirates", Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Emirates", Dubai Sports 3
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Emirates", Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Emirates", Sharjah Sport,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", BT SPORTS ESPN HD
-http://stariptv.org:8080/wael2021/123456/9258?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", BT Sport 2
-http://stariptv.org:8080/wael2021/123456/9341?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", BT Sport 3
-http://1tv1.net:8080/euro2021/123456/9272?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", BT Sport 3
-http://stariptv.org:8080/wael2021/123456/9272?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Eir Sport 1
-http://stariptv.org:8080/wael2021/123456/9356?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Eir Sport 1
-http://1tv1.net:8080/euro2021/123456/9356?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Eir Sport 1
-http://1tv1.net:8080/omnia2021/123456/9356?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Motorsport TV HD
-http://stariptv.org:8080/wael2021/123456/9343?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Motorsport TV HD
-http://1tv1.net:8080/euro2021/123456/9343?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Motorsport TV HD
-http://1tv1.net:8080/omnia2021/123456/9343?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", SKY SPORTS NEWS FHD
-http://1tv1.net:8080/euro2021/123456/11667?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", SKY SPORTS NEWS FHD
-http://stariptv.org:8080/wael2021/123456/11667?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Sky Sports Action FHD
-http://1tv1.net:8080/euro2021/123456/55389?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Sky Sports FOOTBALL FHD
-http://1tv1.net:8080/omnia2021/123456/55390?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Sky Sports Golf FHD
-http://stariptv.org:8080/wael2021/123456/55386?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Sky Sports Golf FHD
-http://1tv1.net:8080/euro2021/123456/55386?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Sky Sports Main Event FHD
-http://stariptv.org:8080/wael2021/123456/55382?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Sky Sports PL FHD
-http://stariptv.org:8080/wael2021/123456/55384?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK", Sky Sports PL FHD
-http://1tv1.net:8080/omnia2021/123456/55384?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA", AD Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6&checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA", Bally Sports Arizona HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/44317.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA", Bein Sports LaLiga TV HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/482.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA", Bein Sports Xtra HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/13372.ts?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA", CBS Sports News HQ
-http://ultra-premium-pro.xyz:8080/Bruno/Bruno/50348?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA", CDN SPORT MAX
-http://ultra-premium-pro.xyz:8080/Bruno/Bruno/40415?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" group-title="South Korea", Arirang,Arirang HD
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="South Korea", Arirang HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i7uUG2m.png" group-title="South Korea", BBS Buddhist Broadcasting
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i7uUG2m.png" group-title="South Korea", BBS Buddhist Broadcasting
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" group-title="South Korea", CBS
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" group-title="South Korea", CBS
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090022.png" group-title="South Korea", CBS
-http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="South Korea", GCN
-http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="South Korea", Gugbang TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7uMB9T.png" group-title="South Korea", KBS LiveCam DokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="South Korea", MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/loWf3B5.jpg" group-title="South Korea", NBS Korea Agricultural Broadcasting
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xLL7Sxm.png" group-title="South Korea", TVWorkNet
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Japan", AT-X
-https://sub2.neetball.net/live/neet.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Japan", Animax Japan (Vietnamese Subs)
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Japan", MX Live (Webcam)
-https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="Japan", NHK Chinese Vision,NHK 华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Japan", NHK World Japan (1080p)
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Japan", New Japan Pro Wrestling World,NJPW World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Japan", QVC Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan", Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan", Tokyo MX1
-https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Japan", Tokyo MX1
-https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan", Tokyo MX2
-https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Japan", Tokyo MX2
-https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Japan", Weather News
-http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="Japan", WeatherNews
-http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9VXxnlo.png" group-title="Japan", ウェザーニュース
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan", 日本购物1
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan", 日本购物2
-http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan", 日本购物3
-http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan", 日本购物4
-http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Ukraine", New Japan Pro Wrestling World (540p)
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Thailand", ASTV News 1,News 1
-http://news1.live14.com/stream/news1_hi.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Thailand", Bayon TV,bTV News
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Thailand", News 1
-http://news1.live14.com/stream/news1.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Thailand", Thai PBS (Opt-4)
-http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thailand", Thai PBS 3
-http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thailand", Thai PBS 3
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thailand", Thai PBS 3
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thailand", Thai PBS 3
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thailand", Thai PBS 3
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thailand", Thai PBS 3
-https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lK52fpm.png" group-title="Thailand", White Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://tduc.tk/logo/antv.png" group-title="China", ANTV HD,越南ANTVHD
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", APB,印度APB
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="China", CGTN
-http://live.cgtn.com/1000/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="China", CGTN
-http://live.cgtn.com/500/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="China", CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png" group-title="China", CGTN 1,CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="China", CGTN Arabic
-http://livear.cgtn.com/1000a/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="China", CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="China", CGTN Español
-http://livees.cgtn.com/500e/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 三明新闻综合
-http://stream.smntv.cn/smtv1/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 上海这一刻魔都眼
-http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 上海金山电视台
-http://live.mudu.tv/watch/4zbn2f.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 上虞1新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 上虞3新商都
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 东至新闻综合
-http://223.247.33.124:1935/live/zonghe/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://tduc.tk/logo/antv.png" group-title="China", ANTV HD,越南ANTVHD
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", APB,印度APB
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="China", CGTN
-http://live.cgtn.com/1000/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="China", CGTN
-http://live.cgtn.com/500/prog_index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="China", CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="qiaoxiangpingdao.png" group-title="China", 侨乡频道
-http://stream.jinjiang.tv/1/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 北碚综合频道
-http://222.178.181.121:12034/beibei01.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 南京十八
-http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 南京娱乐
-http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 南京新闻综合
-http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 南京生活
-http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 吉林乡村,吉林山村
-http://stream1.jlntv.cn/xcpd/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 吉林公共新闻
-http://stream1.jlntv.cn/ggpd/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 吉林生活
-http://stream1.jlntv.cn/shpd/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 吉林都市
-http://stream1.jlntv.cn/dspd/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 嵊州综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 开州综合频道
-http://kaixianlive.cbg.cn:10345/1.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 徐州-4高清
-http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hztv1.jpg" group-title="China", 惠州新闻综合
-http://dslive.grtn.cn/hzzh/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 新唐人-美西频道
-http://live.ntdimg.com/uwlive520/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China", 新唐人亚太,新唐人亚太臺
-https://live.ntdimg.com/aplive200/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China", 新唐人加东臺
-https://live.ntdimg.com/mllive860/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China", 新唐人加西臺
-https://live.ntdimg.com/cwlive220/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China", 新唐人旧金山臺
-https://live.ntdimg.com/sflive990/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China", 新唐人美东臺
-https://live.ntdimg.com/live400/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China", 新唐人美西臺
-https://live.ntdimg.com/uwlive990/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 新泰乡村党建
-http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 新泰生活频道
-http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 新泰综合频道
-http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 枣庄公共频道
-http://stream.zzgd.tv/3/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 枣庄教育频道
-http://stream.zzgd.tv/2/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 枣庄新闻综合
-http://stream.zzgd.tv/1/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 梅州综合
-http://dslive.grtn.cn/mzzh/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 汕尾公共
-http://dslive.grtn.cn/swzh/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 江津文化旅游
-http://222.179.155.21:1935/ch2.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 江津文化旅游
-http://jiangjinlive.cbg.cn:1935/ch2.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 江津新闻综合
-http://222.179.155.21:1935/ch1.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 江津新闻综合
-http://jiangjinlive.cbg.cn:1935/ch1.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 江津经济生活
-http://222.179.155.21:1935/ch0.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 江津经济生活
-http://jiangjinlive.cbg.cn:1935/ch0.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 江西卫视高清
-http://117.169.120.140:8080/live/jiangxistv/.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 江门综合
-http://218.17.99.211:5080/hls/ttsw6ccn.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 济宁公共频道
-http://lives.jnnews.tv/video/s10001-JTV3/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 济宁图文频道
-http://lives.jnnews.tv/video/s10001-JTV4/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 济宁教育频道
-http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 海盐新闻频道
-http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 深圳蛇口
-http://218.17.99.211:82/hls/d4encs75.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 湘潭公共频道
-http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 湘潭新闻综合
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 滨州新闻综合
-http://stream.bzcm.net/2/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 滨州测试频道
-http://stream.bzcm.net/4/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 潮州综合
-http://dslive.grtn.cn/czzh/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 舟山公共生活
-http://live.wifizs.cn/ggsh/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 舟山新闻综合
-http://live.wifizs.cn/xwzh/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/ZJZS-ZH.jpg" group-title="China", 舟山新闻综合
-http://stream.wifizs.cn/xwzh/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 舟山群岛旅游
-http://live.wifizs.cn/qdly/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 萧山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 衡水影视娱乐
-http://hls.hsrtv.cn/hls/hstv2.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 衡水新闻综合
-http://hls.hsrtv.cn/hls/hstv1.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 西青新闻综合
-http://221.238.209.44:81/hls/live1.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 重庆移动公交
-http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 银川公共
-http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 银川生活
-http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 阳江综合
-http://dslive.grtn.cn/yjzh/sd/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 隆化影视频道
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 隆化综合频道
-http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 霍山综合频道
-http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 青州文化旅游
-http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", 靖江新闻綜合高清
-http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hebi.jpg" group-title="China", 鹤壁新闻综合
-http://pili-live-hls.hebitv.com/hebi/hebi.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Russia", RU | TV BRICS China,TV BRICS China
-https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canada", ABC 6 INDIANAPOLIS IN
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canada", CBS 4 INDIANAPOLIS IN
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2955?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", APB,印度APB
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", 5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="India", 9XM (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="India", ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="India", ABP Asmita
-http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", ABP Asmita
-http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="China", APB,印度APB
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", 5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Anjan (720p)
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WjNX1vS.png" group-title="India", Ashrafi Channel
-http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="India", Asianet News (404p)
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="India", Asianet News Tamil (360p)
-https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Assam Talks
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nOIcXJ6.png" group-title="India", Aus Tamil
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png" group-title="India", Ayush TV
-http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", BFLIX MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", BanglaVision
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/862?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="India", CNBC TV18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Channel I
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/859?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Channel Win (360p)
-https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Channel Y
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Channel-S Live TV
-https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Colors
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/864?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Colors Bangla
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", DD NEWS
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Deepto
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/861?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" group-title="India", Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg" group-title="India", Desi Channel
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg" group-title="India", Desi Plus
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", ET Now
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/et_now.png" group-title="India", ET Now
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", FASTWAY NEWS (720p)
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zCIK5Ze.png" group-title="India", GSTV
-https://cdnlive.livecast.io/388656798579293628302251.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzmU9zr.png" group-title="India", Harvest TV USA
-http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzmU9zr.png" group-title="India", Harvest TV USA
-https://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cMJVuIr.jpg" group-title="India", IN | Shemaroo Bollywood Classic,Shemaroo Bollywood Classic
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t1O83T7.jpg" group-title="India", IN | Shemaroo Punjabi TV,Shemaroo Punjabi TV
-https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", INDIA NEWS
-https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="India", India TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", India TV News (480p)
-https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png" group-title="India", Janam TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png" group-title="India", Janam TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Janta TV
-http://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Janta TV
-https://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Jonack TV (360p)
-https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", MANORANJAN MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", MH1 Music
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", MH1 News
-http://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="India", Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/mirror_now_in.png" group-title="India", Mirror Now
-https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", NDTV
-https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="India", NDTV 24X7 (480p)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="India", NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", NDTV India (480p)
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="India", NDTV Profit
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="India", NDTV Profit (480p)
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", NEWS 18 ASSAM
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", NEWS 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/83/74/55/8374557a-7e1b-dc56-e79a-7494fd40a275/source/60x60bb.jpg" group-title="India", Namdhari
-https://namdhari.tv/live/sbs1.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", News 18 Assam
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", News 18 Bangla,News 18 Bengali
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", News 18 Chhattisgarh
-https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", News 18 Gujarati
-https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", News 18 Hindi
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", News 18 Jharkhand
-https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://static.kannada.news18.com/kannada/uploads/2020/03/Kannada1.png" group-title="India", News 18 Kannada,ನ್ಯೂಸ್ ೧೮ ಕನ್ನಡ News 18
-https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D9lMLmX.png" group-title="India", News 18 Malayalam
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", News 18 Rajasthan
-https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", News 18 Tamil
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", News 18 Urdu
-https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title="India", News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title="India", News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", News 24 (360p)
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", PUNJAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Pratidin Time
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="India", Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", SADA TV
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", SHEMARRO KIDS
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="India", Shubhsandesh
-http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="India", Shubhsandesh
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Somoy TV
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/858?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony Tv
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/866?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Star Jalsha HD
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Star Sports 1 HD
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/suvarna_news_in.png" group-title="India", Suvarna News 24×7
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/suvarna_news_in.png" group-title="India", Suvarna News 24×7
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="India", TV9 News (HD / తెలుగు)
-https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rsz_tamil_vision_international1.jpg" group-title="India", Tamil Vision International,Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png" group-title="India", Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png" group-title="India", Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jek0twl.png" group-title="India", Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="India", Times Now HD
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Xplore Channel
-http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Zee Bangla
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Zee Cinema
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867?checkedby:zaltv.co
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Zee TV HD
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/865?checkedby:zaltv.co
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="Sports",NBA REPLAY 17
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1040588&extension=ts
