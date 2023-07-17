@@ -1,15 +1,21 @@
 #EXTM3U
+#EXTINF:1 tvg-logo="https://tinyurl.com/27vhs8x9"  group-title="Myanmar", 5 Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+
 #EXTINF:1 tvg-logo="https://tinyurl.com/2p88mkrf"  group-title="Myanmar", Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8?hdnts=exp=1645671490~acl=/*~hmac=be6b1a2b14e5adb57c811d9963b5e89511c32b729dcad0cb6dd0f45f2e49a1a9
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/bw4yrn5k"  group-title="Myanmar", Channel 7
-https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/9ek4k74b"  group-title="Myanmar", MRTV 4
-https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
 
-#EXTINF:1 tvg-logo="https://tinyurl.com/yfcpfhc7"  group-title="Myanmar", MRTV HD
-https://player-api.new.livestream.com/accounts/15604755/events/9605885/broadcasts/229533778.secure.m3u8?dw=80&hdnea=st=1645671731~exp=1645673531~acl=/i/15604755_9605885_lsiwub7jah9as3fz81i_1@335354/*~hmac=f49fa2f31a098745f04a660e3dbd381bba0fa0c96d20f6ea2ecbe41aab87254b&token=6216f65f_fe618b37bee184d4ef86c7d295f1feb3f8474c6a
+#EXTINF:1 tvg-logo="https://tinyurl.com/387szp29"  group-title="Myanmar", MRTV Entertainment
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/2kvnwd9b"  group-title="Myanmar", MRTV Parliament
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/2p8w482b"  group-title="Myanmar", MNTV
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
@@ -24,7 +30,7 @@ https://streammain.myanmartvchannels.com:999/website-channel9-stream992745/websi
 https://streammain.myanmartvchannels.com:999/website-channelme-stream992740/website-channelme-stream992740/chunks.m3u8?nimblesessionid=1683336&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIyIDE6MzA6MTUgUE0maGFzaF92YWx1ZT1UK0RFMVhrWVNqcVRaWXZ5eEhWRGp3PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTYx
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/yckz92tu"  group-title="Myanmar", MITV
-https://player-api.new.livestream.com/accounts/7063221/events/9340397/broadcasts/229514646.secure.m3u8?dw=80&hdnea=st=1645671616~exp=1645673416~acl=/i/7063221_9340397_lsin1pn52yhqjks152n_1@688675/*~hmac=a1bb362095822b18745ca434c8a88db7de326a4f3dc2d270682ea3bf1d1ee909&token=6216f5ec_e6cd562fbaeeb175aa2d147493ddf61523264712
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080431.png"  group-title="Myanmar", Mahar Bawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
@@ -50,78 +56,19 @@ http://203.81.84.130/hls/mwd_shopping/index.m3u8
 #EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", MWD Family HD
 http://203.81.84.130/hls/mwd_family/index.m3u8
 
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", MCS
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
+
 #EXTINF:1 tvg-logo="https://tinyurl.com/yud9tmxt"  group-title="Myanmar", MVM
-
-
-
-
-
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
+
+
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/5t2jc6f3"  group-title="Myanmar", Mnet
 
 
 
-#EXTINF:-1 tvg-id="5Plus.mm",5 Plus (480p)
-http://183.89.246.119:8881/play/a07w/index.m3u8
-#EXTINF:-1 tvg-id="5Plus.mm",5 Plus (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel7.mm",Channel 7 (480p)
-http://183.89.246.119:8881/play/a07v/index.m3u8
-#EXTINF:-1 tvg-id="Channel7.mm",Channel 7 (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel9.mm",Channel 9 (480p)
-http://183.89.246.119:8881/play/a07y/index.m3u8
-#EXTINF:-1 tvg-id="ChannelK.mm",Channel K (480p)
-http://183.89.246.119:8881/play/a080/index.m3u8
-#EXTINF:-1 tvg-id="ChannelK.mm",Channel K (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelK.mm",Channel K (720p)
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="EducationChannel.mm",Education Channel (480p)
-http://183.89.246.119:8881/play/a07s/index.m3u8
-#EXTINF:-1 tvg-id="FortuneTV.mm",Fortune TV (480p)
-http://183.89.246.119:8881/play/a082/index.m3u8
-#EXTINF:-1 tvg-id="MaharBawdiTV.mm",Mahar Bawdi TV (480p)
-https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8
-#EXTINF:-1 tvg-id="MaharTV.mm",Mahar TV (720p)
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MNTV.mm",MN TV (480p)
-http://183.89.246.119:8881/play/a07x/index.m3u8
-#EXTINF:-1 tvg-id="MNTV.mm",MN TV (720p)
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="MRTV4.mm",MRTV 4 (480p)
-http://183.89.246.119:8881/play/a07u/index.m3u8
-#EXTINF:-1 tvg-id="MRTV4.mm",MRTV 4 (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
-#EXTINF:-1 tvg-id="MRTV.mm",MRTV (1080p)
-http://183.89.246.119:8881/play/a07l/index.m3u8
-#EXTINF:-1 tvg-id="MRTV.mm",MRTV (720p)
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MRTVEntertainment.mm",MRTV Entertainment (480p)
-http://183.89.246.119:8881/play/a07t/index.m3u8
-#EXTINF:-1 tvg-id="MRTVEntertainment.mm",MRTV Entertainment (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
-#EXTINF:-1 tvg-id="MRTVFarmer.mm",MRTV Farmers (480p)
-http://183.89.246.119:8881/play/a07p/index.m3u8
-#EXTINF:-1 tvg-id="MRTVNews.mm",MRTV News (1080p)
-http://183.89.246.119:8881/play/a07m/index.m3u8
-#EXTINF:-1 tvg-id="MRTVNRC.mm",MRTV NRC (480p)
-http://183.89.246.119:8881/play/a07o/index.m3u8
-#EXTINF:-1 tvg-id="MRTVParliament.mm",MRTV Parliament (480p)
-http://183.89.246.119:8881/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="MRTVParliament.mm",MRTV Parliament (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
-#EXTINF:-1 tvg-id="MRTVSports.mm",MRTV Sports (480p)
-http://183.89.246.119:8881/play/a07q/index.m3u8
-#EXTINF:-1 tvg-id="MWD.mm",MWD (480p)
-http://183.89.246.119:8881/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm",MITV (480p)
-http://183.89.246.119:8881/play/a07r/index.m3u8
-#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm",MITV (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
-#EXTINF:-1 tvg-id="YTV.mm",YTV (480p)
-http://183.89.246.119:8881/play/a081/index.m3u8
-#EXTINF:-1 tvg-id="",MCS (720p)
-https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
+
+
+
 
