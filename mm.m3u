@@ -5,6 +5,9 @@ https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 #EXTINF:1 tvg-logo="https://tinyurl.com/2p88mkrf"  group-title="Myanmar", Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8?hdnts=exp=1645671490~acl=/*~hmac=be6b1a2b14e5adb57c811d9963b5e89511c32b729dcad0cb6dd0f45f2e49a1a9
 
+#EXTINF:1 tvg-logo="http://27.0.232.118:80/images/fjDQO6wWjhnLmcUvjiTtL7GhaRFUh7uAOznwaQZ9soA8GuPdwEMt05UtsyXh3LD4IK6jPIuL2X8sX0F7N1TMI0UzJOj9vj5UcdVMmiwpkuI-VCH7F5e7JKnTTDlbPLTD8hyg6RvSoZ60pAk9gdiYhA.png"  group-title="Myanmar", Mahar
+http://27.0.232.118:80/play/HffFJFAxMVn0TsVvhU_J93IOEDOsanLwvtVQgMs7GT0/m3u8
+
 #EXTINF:1 tvg-logo="https://tinyurl.com/bw4yrn5k"  group-title="Myanmar", Channel 7
 https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
 
