@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:1 tvg-logo=""  group-title="Japan", NHK World Premium
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCYYdOEQ6cEqLHmm7EHFF4c/ts
+
+#EXTINF:1 tvg-logo=""  group-title="Japan", Nippon TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIfdr6tf5v0HQsJvAwNmkY8/ts
+
+#EXTINF:1 tvg-logo=""  group-title="Japan", NHK G
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEh8uqJFSjXX3-Gn9Q2p6ao/ts
+
+#EXTINF:1 tvg-logo=""  group-title="Japan", Fuji TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJHt0YmSpfBhomgudB43Lo/ts
+
+#EXTINF:1 tvg-logo=""  group-title="Japan", NHK BS1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHllPXGs3diitvudCkE2t_s/ts
+
+#EXTINF:1 tvg-logo=""  group-title="Japan", NHK BSP
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdI_Q58hn1Uw2dl9cC0QnYs4/ts
+
+#EXTINF:1 tvg-logo=""  group-title="Japan", TBS
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHaxDVWYLRqqi2WHm2wVfxM/ts
+
+#EXTINF:1 tvg-logo=""  group-title="Japan", wowow
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdA3soiwxNQgbezj1Mi_2IfQ/ts
+
+
+#EXTINF:1 tvg-logo=""  group-title="Japan", WOWOW Live
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEvQSVZJFEH1_oM5Fvrpnis/ts
+#EXTINF:1 tvg-logo=""  group-title="Japan", WOWOW Cinema
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPSKA1mHxKc8o058QVgvr6g/ts
+#EXTINF:1 tvg-logo=""  group-title="Japan", BS japan Movie
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLvzX9A2zApcoolcqOoWM4U/ts
