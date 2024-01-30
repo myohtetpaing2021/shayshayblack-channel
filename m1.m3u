@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:1 tvg-logo="https://tinyurl.com/27vhs8x9"  group-title="Myanmar", 5 Plus
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLqS4wA5WLEU7Ga3rTXqq2g/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/2p88mkrf"  group-title="Myanmar", Mahar
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPfim2G2cmEd8oBpHoLFwgk/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/bw4yrn5k"  group-title="Myanmar", Channel 7
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIj4FQuE8M4NumvgLORqi70/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/9ek4k74b"  group-title="Myanmar", MRTV 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKyUU5inl0F_3LywQqmuMP8/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/9ek4k74b"  group-title="Myanmar", MRTV 4 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEOQaldLwHUSfk0rAF1TIWw/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/387szp29"  group-title="Myanmar", MRTV Entertainment
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/2kvnwd9b"  group-title="Myanmar", MRTV Parliament
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/2p8w482b"  group-title="Myanmar", MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/mppja3vf"  group-title="Myanmar", ChannelK
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOh53p-3GB_U5VSPyN6W7YU/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/5cnydu4h"  group-title="Myanmar", Channel9
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/bdhd4fnr"  group-title="Myanmar", Channel ME
+https://streammain.myanmartvchannels.com:999/website-channelme-stream992740/website-channelme-stream992740/chunks.m3u8?nimblesessionid=1683336&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDIyIDE6MzA6MTUgUE0maGFzaF92YWx1ZT1UK0RFMVhrWVNqcVRaWXZ5eEhWRGp3PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTYx
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/yckz92tu"  group-title="Myanmar", MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080431.png"  group-title="Myanmar", Mahar Bawdi
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNaemmLb-ha2NlEM6YdEvRU/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/bdh6vzf5"  group-title="Myanmar", MWD HD
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/2p99hspp"  group-title="Myanmar", MWD Movie HD
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/448vfpfz"  group-title="Myanmar", MWD Serie HD
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/2ahwhs8r"  group-title="Myanmar", MWD Variety HD
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/y3vm6mjk"  group-title="Myanmar", MWD Documentary HD
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/a2x8c8ms"  group-title="Myanmar", MWD Shopping HD
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", MWD Family HD
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Fortune HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCBboz3mu5IvzO6xTHOFpt0/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", MM Movies 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdADnS9t1VZTHyg9SFGMBHaA/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", MM Movies 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFxWh4QRbD1P8Sj_tc22JCQ/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", MM Movies 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFkzXKxtTsz_zIzblIf_kP0/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", MM Movies 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCH3RGoJkklNBTnHIFgSXKw/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Movies 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKohGY6XBKesLwunXKtf2HE/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Movies 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNlWhT4ZTZPFSxR4iRYrPSA/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Movies 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBHneg4oFwOctzvsOVGYER8/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Movies 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAXmq4vGTPl-LtPeQ-v_yPY/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Movies 5
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFuCsZrAxpNrJhJnnF4QJxY/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Movies 6
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEIjy7gUY62hBcuRkobkklk/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Movies 7
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIIBF1S5sNqxeqJmpvvz_N0/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Series 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNpAlvDYL9-n_tyz-8e7n0w/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Series 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIc-C_JiRtKxkzvHnX9okdo/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Cartoon 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC1jMLD6Wgveb96QC5lR_J4/ts
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/3vmbnuzt"  group-title="Myanmar", Cartoon 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDu8k2KybEUMvlqyVc5rPtg/ts
+
+
+#EXTINF:1 tvg-logo="https://tinyurl.com/5t2jc6f3"  group-title="Myanmar", Mnet
+
+
+
+
+
+
