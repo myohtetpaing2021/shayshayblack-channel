@@ -3,7 +3,7 @@
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/2p88mkrf"  group-title="Myanmar", Mahar
-http://bananatv.org:25461/play/m36TwVpesWNjKXhI5RPz8zFpF-ODEo_a2Zg3GvY3OzA/ts
+http://15.235.212.156:25461/play/m36TwVpesWNjKXhI5RPz8zFpF-ODEo_a2Zg3GvY3OzA/ts
 
 #EXTINF:1 tvg-logo="http://27.0.232.118:80/images/fjDQO6wWjhnLmcUvjiTtL7GhaRFUh7uAOznwaQZ9soA8GuPdwEMt05UtsyXh3LD4IK6jPIuL2X8sX0F7N1TMI0UzJOj9vj5UcdVMmiwpkuI-VCH7F5e7JKnTTDlbPLTD8hyg6RvSoZ60pAk9gdiYhA.png"  group-title="Myanmar", Mahar
 http://27.0.232.118:80/play/HffFJFAxMVn0TsVvhU_J93IOEDOsanLwvtVQgMs7GT0/m3u8
@@ -36,7 +36,7 @@ https://streammain.myanmartvchannels.com:999/website-channelme-stream992740/webs
 https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/20201213_080431.png"  group-title="Myanmar", Mahar Bawdi
-http://bananatv.org:25461/play/m36TwVpesWNjKXhI5RPz85_AmjJwtZmw-Cg47pDyqqk/ts
+http://15.235.212.156:25461/play/m36TwVpesWNjKXhI5RPz85_AmjJwtZmw-Cg47pDyqqk/ts
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/bdh6vzf5"  group-title="Myanmar", MWD HD
 http://203.81.84.130/hls/mwd/index.m3u8
