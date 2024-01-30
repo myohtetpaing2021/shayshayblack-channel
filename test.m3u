@@ -1,692 +1,924 @@
-#EXTIM3U
-#EXTINF:-1, ####### MYANMAR #######
-http://bananatv.org:25461/play
+#EXTM3U
 
-#EXTINF:-1, Buddha
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhTL1pKt9bmdmoq7v13jPnI/ts
+#EXTINF:-1,BUDDHA
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCJnmzL9e-UzN-ecetZwkqE/ts
 
-#EXTINF:-1, Mahar Bawdi
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shp41fpRDDOSCBedgyN7Nca0/ts
-
-#EXTINF:-1, MRTV HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsq9AE04uNek_9jUJbNGBas/ts
-
-#EXTINF:-1,MWD HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shheX_fuNhxn740OUWAvmHfM/ts
-
-#EXTINF:-1,MRTV News HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shipfYEqSQWUGmFKH0Ut2y2A/ts
-
-#EXTINF:-1,MWD Education
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgwy2gpxHW6czHUDeuaVMsM/ts
-
-#EXTINF:-1,MM EDU
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsPEk7oULSEQAe5_tzBJ8Tk/ts
-
-#EXTINF:-1,MRTV NRC
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6sht-iFnppaq20Wh-g7aOLyG4/ts
-
-#EXTINF:-1,TVM
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjDa5dSV1ROlm5J6lwCxKZo/ts
-
-#EXTINF:-1,Light
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq8PdCBWJc2ZGIopgR470O0/ts
-
-#EXTINF:-1,MITV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpKMp7khAAWPf7nTlYFaLoo/ts
-
-#EXTINF:-1,MRTV-4 HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsa74THFHcxrnCf7QBj7AF8/ts
-
-#EXTINF:-1,Mrtv-4 SD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsg1Jn7UFQYV-fvSKrhreo4/ts
-
-#EXTINF:-1,Channel7 HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvyTO1ru4O_g0V8OPDlZ5Qg/ts
-
-#EXTINF:-1,Channel7
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shifmHCdh0UY-mV7yEWZ2G-M/ts
-
-#EXTINF:-1,Channel K HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shg1zFirxvt856mVL0KMLViU/ts
-
-#EXTINF:-1,Channel K 
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8 
-
-#EXTINF:-1,Fortune HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmtgkC9OVuS1PeDDrMXxZGk/ts
-
-#EXTINF:-1,HTV Sports
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgzcjVcFnpZ9RZcTwn-ObL8/ts
-
-#EXTINF:-1,HTV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnw-WHKAeZOML6IsP0QsSJs/ts
-
-#EXTINF:-1,YTV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmatOEPJa2l-7ilvXXY0t6I/ts
-
-#EXTINF:-1,MNTV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvjeWHTpPks-OftWH_DZclU/ts
-
+#EXTINF:-1 ,မဟာဗောဓိ
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNaemmLb-ha2NlEM6YdEvRU/ts
+#EXTINF:-1 ,MRTV HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIBc8cImV86nN7f-tOEAn2w/ts
+#EXTINF:-1 ,MWD HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLPffZJAU1xU0dRl3W2MPz0/ts
+#EXTINF:-1 ,MRTV News HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMuz_hizrZD7BH2pdhovsW0/ts
+#EXTINF:-1 ,MRTV-4 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEOQaldLwHUSfk0rAF1TIWw/ts
+#EXTINF:-1,MRTV-4"
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKyUU5inl0F_3LywQqmuMP8/ts
+#EXTINF:-1 ,Channel7 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIj4FQuE8M4NumvgLORqi70/ts
+#EXTINF:-1 ,Channel7
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHyKvh_SMG8KVdtg_SfuzWQ/ts
+#EXTINF:-1 ,Channel K HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOh53p-3GB_U5VSPyN6W7YU/ts
+#EXTINF:-1 ,Fortune HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCBboz3mu5IvzO6xTHOFpt0/ts
+#EXTINF:-1 ,HTV Sports
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLNKllQLxmnJAK04Dc3-n-8/ts
+#EXTINF:-1 ,HTV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKchgJW2_BIpDRGXLWkCD_Y/ts
+#EXTINF:-1 ,YTV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkoDayDUtY-rBFCyJUXvq4/ts
+#EXTINF:-1 ,MNTV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLDScsCKDJf0xr55UFaKdfg/ts
 #EXTINF:-1,Channel 9
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6sho9sqhSQIefR0ibDXH8ACrA/ts
-
-#EXTINF:-1,M Entertainment
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpT4e7HxlPIqxBvnEwu5l9E/ts
-
-#EXTINF:-1,5 Plus
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjgfj85FqVsHlswh4ujjLZI/ts
-
-#EXTINF:-1,Mahar HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgNtNkRz6j-94PiXGi7pk-M/ts
-
-#EXTINF:-1,Mahar
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-
-#EXTINF:-1,TVM 
-http://203.81.84.130/hls/mwd_serie/index.m3u8
-
-#EXTINF:-1,GOLDENLAND 
-http://203.81.84.130/hls/mwd_document/index.m3u8
-
-#EXTINF:-1, Thukuma1
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpeJOJwvKNLon7QltjlZHZA/ts
-
-#EXTINF:-1, Thukuma2
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuL7TNOoVEs6OfbLNI8l6Lg/ts
-
-#EXTINF:-1, MM Movie 1
-http://bananatv.org:25461/live/@5551/@5551/6549.ts
-
-#EXTINF:-1, MM Movie 2
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhr5d8kMfjubtbXRXMIq_ww/ts
-
-#EXTINF:-1,Skynet Dramar
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Y1odt5OWsHJqTryEbcwV8/ts
-
-#EXTINF:-1,Canal+Action 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-LfFetUnmw40GD60q9EbFu/ts
-
-#EXTINF:-1,Canal+ZATLENN
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x83UWmglzHptBXU_xJ8C_1j/ts
-
-#EXTINF:-1,Canal+MAEMADI
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-h6zGZIQwu6HJgbKJcyk9a/ts
-
-#EXTINF:-1,World Movies 
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjLKcgZ-ni_ghw5mGznrkOY/ts
-
-#EXTINF:-1,Action Movies
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrUEHJUw6UkIZRN8HyVUWdE/ts
-
-#EXTINF:-1, ASION Movies
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnkeL1rwJgyaWUsir35I-e8/ts
-
-#EXTINF:-1,World Movies 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8npM8qgUN-JRhl_GZ-tgOf/ts
-
-#EXTINF:-1,Action Movies 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8fo76N2_RyvsiDL0EdkpzB/ts
-
-#EXTINF:-1,ASIAN Movies 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_KV34kQ3WJ-75U9SWWeBpR/ts
-
-#EXTINF:-1,Rock Entertainment
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8NhanBM-mCNt9nbjYdx4NF/ts
-
-#EXTINF:-1,Kix
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8jDxuAOKBDAI8UIAbLro_-/ts
-
-#EXTINF:-1,Celestial Classic Movie
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_dn06AitUOdpfZI5hJ30za/ts
-
-#EXTINF:-1,Hits
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_prWaSJtDEd4OBB2enFB6d/ts
-
-#EXTINF:-1,Hits Movies
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_Vu0uN_9Vd3WhYI1E8SNLc/ts
-
-#EXTINF:-1,Thrill
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-UeSVU8SIRC1KBHrq-TPp4/ts
-
-#EXTINF:-1,zee Cinema 
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuVCIvrttaoNmrr-pZog2rI/ts
-
-#EXTINF:-1,Rock Action Movie 
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shitM7yLv2rss1GdjKd7-L9M/ts
-
-#EXTINF:-1. AXN
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lCtu1SJ2EuirOc_xC2iFq/ts
-
-#EXTINF:-1,Celestial Movies
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9Mx3_OssukpAA1pcdsiSiq/ts
-
-#EXTINF:-1,HBO
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZJYH3mznaaL7CZ-b/ts
-
-EXTINF:-1, HBO MOVIE
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shshL-H9N10TdsdWpX-Qg4nM/ts
-
-#EXTINF:-1,HBO
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-8VP5cZJYH3mznaaL7CZ-b/ts
-
-#EXTINF:-1,HBO 2
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9vBFPK_yZSqBtgCH_7da49/ts
-
-#EXTINF:-1,HBO 3
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8BVrsOqJYj1vYT_bdvul_T/ts
-
-#EXTINF:-1,HBO Europe
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8VCi8wSDjt6vCukIYyNz6M/ts
-
-#EXTINF:-1,HBO Family
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-pVVDgwGRI6sj98ReZoZc6/ts
-
-#EXTINF:-1, HBO Family
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
-
-#EXTINF:-1,HBO
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvmdgqVXqZbpRkV4KuT5fE8/ts
-
-#EXTINF:-1,HBO 2
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgX5m3lJO7DasNfRZEgv_aU/ts
-
-#EXTINF:-1,HBO 3
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjkwuSM8NWmWcI3KUZoXKng/ts
-
-#EXTINF:-1,HBO Family
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
-
-#EXTINF:-1,HBO HIts
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuECy2JNi3y-F8mBeis1Kdg/ts
-
-#EXTINF:-1,Cinemax
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
-
-#EXTINF:-1,Cinemax 2
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shiFjX1iYOl_JMGRY_RThyTU/ts
-
-#EXTINF:-1,Cinemax Europe
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq1jQrSujJw4qsShL-yMCKc/ts
-
-#EXTINF:-1,Cinemachi Action
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shqXhhkhDNdJANl9sB5xgT-4/ts
-
-#EXTINF:-1,Cinemachi Max
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shoeGbvASAlfvRum5EUXDcQ0/ts
-
-#EXTINF:-1,Cinemachi
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shna0-MkBuXCXVFD8W2apOKY/ts
-
-#EXTINF:-1,Cinemachi Xtra
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shm7UBit1Oq-RpDSwAs46Hok/ts
-
-#EXTINF:-1,Filmbox Family
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsNXe0eXkHcE-6NeJAytvo0/ts
-
-#EXTINF:-1,	Filmbox Extra
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvja67oVwrOy6m6Wm9KiYsc/ts
-
-#EXTINF:-1,FilmBox Premium
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjmeS22x5G09dOa_yFmeJYs/ts
-
-#EXTINF:-1,Hits Now Astro
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq70OijsapAGjyeLQxGFVbc/ts
-
-#EXTINF:-1, Movies
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnB_Uo5ZrMmD7jDX4ezxn1g/ts
-
-#EXTINF:-1,Movies
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnB_Uo5ZrMmD7jDX4ezxn1g/ts
-
-#EXTINF:-1,Movie Sphere
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrMvYDfqPjEbEbj4fTLtnkM/ts
-
-#EXTINF:-1,Cinemax
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9XZ3TzmQtUgnDknGAj2BX6/ts
-
-#EXTINF:-1,Cinemax 2
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-WegspxQvJr6VgEFbGWloy/ts
-
-#EXTINF:-1,Cinemax Europe
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-04_H3UhUeXAYJLJB5k9Up/ts
-
-#EXTINF:-1,INDIA MOVIE 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
-
-#EXTINF:-1,&prive Movie
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x85BIHiNMXIJascndcUxtP3/ts
-
-#EXTINF:-1,&Priv HD1
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjbtmB1dH3kl1xzvdaHKqt4/ts
-
-#EXTINF:-1,Star Movies HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shhT2YGvDWJC-pwIhyQ0FJL0/ts
-
-#EXTINF:-1,&flix HD2
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shnHh3SaT0QpKF4FZnfznzYw/ts
-
-#EXTINF:-1,Zee tv 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8 
-
-#EXTINF:-1, Zee cinena
-http://bananatv.org:25461/live/@5551/@5551/126.ts
-
-#EXTINF:-1,&tv 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-
-#EXTINF:-1,&picture 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-
-#EXTINF:-1,Zee Kannada 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
-
-#EXTINF:-1,Zee bangla sd 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-
-#EXTINF:-1,Zee bangla hd 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-
-#EXTINF:-1,Zee cinema BANGLA 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-
-#EXTINF:-1,Zee Marathi 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
-
-#EXTINF:-1,Zee anmol 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8 
-
-#EXTINF:-1,Zee cinemalu 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
-
-#EXTINF:-1,Zee cinema 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-
-#EXTINF:-1,Zee Bollywood 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
-
-#EXTINF:-1,Music India 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-
-#EXTINF:-1, MUSIC 
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_27V1T-uibEZidCpUPSjDC/ts
-
-#EXTINF:-1, ####### CARTON #######
-http://bananatv.org:25461/play
-
-#EXTINF:-1,Canal+PUTUTUE
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8-tjx3dP50e1gjN7JdL38X/ts
-
-#EXTINF:-1,Canal+CHATATE
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9e6lsk7jGXftfRcOM6eOtx/ts
-
-#EXTINF:-1,CARTOIN Kids
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shk5ANkA5Ne8b1Gf5DdvYJY4/ts
-
-#EXTINF:-1,Baby TV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shkUBc1TAv2_eXS1tftdedQw/ts
-
-#EXTINF:-1,Babyshark TV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shupC_0qv8EPeIJWmcHf3UKI/ts
-
-#EXTINF:-1,Cbeebies
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shrWts0M2583hAiEzzTLJLSs/ts
-
-#EXTINF:-1,CGTN Documentry
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shujBZ8cgK2cmhYVWeZ_aIWI/ts
-
-#EXTINF:-1,Baby TV 
-http://37.48.101.149:7017/play/a01y/index.m3u8
-
-#EXTINF:-1,CN Cartoon 
-https://vod02.cdn.web.tv/ru/ld/ruldqxldpti_,240,360,480,720,.mp4.urlset/master.m3u8
-
-#EXTINF:-1,Boomerang 
-https://ctrl.laotv.la/live/Boomerang/index.m3u8
-
-#EXTINF:-1,CartoonNetowrk 
-https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-
-#EXTINF:-1,WB Cartoon 
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-
-#EXTINF:-1,Animax MM
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-37G67bNtAlqosCYwngEHL/ts
-
-#EXTINF:-1, ####### SPORT #######
-http://bananatv.org:25461/play
-
-#EXTINF:-1, CANAL+Sport 1
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_rZAtKF0CzIQln0Sa42CbT/ts
-
-#EXTINF:-1, CANAL+Sport 2
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_CO4ZqDew1yba9hMGAgboY/ts
-
-#EXTINF:-1, ASIAN CUP Sport Liv
-http://hls.streambtw.com/live/stream_5.m3u8
-
-#EXTINF:-1,EPL 1
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x92Pmv8vLbRSFeTtp9qGJ83/ts
-
-#EXTINF:-1,EPL 2
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8-oXZhIY9Ri8RwqCNLg_bd/ts
-
-#EXTINF:-1,EPL 3
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9kHfqazuvBUxJRN9cmREne/ts
-
-#EXTINF:-1,EPL 4
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x899ON5Hyqp3jNxiyedefGo/ts
-
-#EXTINF:-1,EPL 5 SD For Slow Network
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_EuOWPhmIuwVRdwSUw9B7w/ts
-
-#EXTINF:-1,EPL 5 Skynet sport HD (Live)
-http://bananatv.org:25461/live/@5551/@5551/7143.ts
-
-#EXTINF:-1,EPL 5 Skynet sport SD (Live)
-http://bananatv.org:25461/live/@5551/@5551/652.ts
-
-#EXTINF:-1,EPL 5 Skynet sport.6 (Live)
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_97JnjzeHrflfJcoKBNsV_/ts
-
-#EXTINF:-1,EPL 5 (Live HD)
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8Dy_yVY-7dRMxVk6zi5har/ts
-
-#EXTINF:-1,EPL 6 Highlight
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9E02BLhxh45bCLqMTKqFnL/ts
-
-#EXTINF:-1,EPL 7
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9YAwbr8pP4Dsxi56NFyf4w/ts
-
-#EXTINF:-1,Laliga 1 HD
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-NIJZUzLKxjmlqVyH4UVnz/ts
-
-#EXTINF:-1,Laliga 2 HD
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_CO4ZqDew1yba9hMGAgboY/ts
-
-#EXTINF:-1,Laliga 3 HD (Live)
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9DlAq_nCSQBKfipEWGJ3wH/ts
-
-#EXTINF:-1,Laliga 4
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-BvHVGnR8DkLk7wj35JE0Q/ts
-
-#EXTINF:-1,V Sport (Live HD)
-http://bananatv.org:25461/live/@5551/@5551/6258.
-
-#EXTINF:-1,Eneven sport1 (Live HD)
-http://bananatv.org:25461/live/@5551/@5551/640.ts
-
-#EXTINF:-1 ,Via Play Sports 
-https://dazc.mrgamingstreams.xyz/dazcbarca.m3u8
-
-#EXTINF:-1 ,Via Play Sports 1
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1 ,Via Play Sports 2
-https://hls.streambtw.com/live/stream_2.m3u8
-
-#EXTINF:-1,Play sports 1
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-ZeV9LiZVCky5Qnjao1Id_/ts
-
-#EXTINF:-1,Play Sports 2
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_SRZ4EF1Q-TsC0eVU0BoIX/ts
-
-#EXTINF:-1,Play Sports 3
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_hcIkfcATcPpXXgwU8F_9o/ts
-
-#EXTINF:-1,Arenasport 1 Premium
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_RjNI8BEpV0aMAXWgGQ3xn/ts
-
-#EXTINF:-1,Arena Sport 2 Premium
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_jTipG43oLLhgZ8nrciON0/ts
-
-#EXTINF:-1,Arenasport 3 Premium
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_qndFtwXlkKjTzIFTSzXf2/ts
-
-#EXTINF:-1,Arena Sport 1
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_-HyUWlE_dV7GecaGo-LHm/ts
-
-#EXTINF:-1,Arena Sport 2
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8ozfJh5J8v4uOvXSlD2Xjl/ts
-
-#EXTINF:-1,Arena Sport 3
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8J7FwJGavoxbblaLwUjOVQ/ts
-
-#EXTINF:-1,Arenasport 4
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-7FHzCeG3FrxKLidMLedUw/ts
-
-#EXTINF:-1,Arena Sport 5
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8WsEzQQgachaYM04W0xvLL/ts
-
-#EXTINF:-1,Arena Sport 6
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_igdeF3T5rsvkZLriizTya/ts
-
-#EXTINF:-1,Arena Sport 7
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_5_qvPx_PmaquPg9Rxmvav/ts
-
-#EXTINF:-1,Arena Sport 8
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9DJjCtl3ZcOW7N_C05hDBb/ts
-
-#EXTINF:-1,Arena Sport 9
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-ZQf7MNafHivHdj92L3NDG/ts
-
-#EXTINF:-1 ,TNT sport
-http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
-
-#EXTINF:-1,TNT Sport 1
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_YtqEYl5yidOz18vs5ysp7/ts
-
-#EXTINF:-1,TNT Sport 2
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_erwDN92Mg51TQcAiFoWub/ts
-
-#EXTINF:-1,TNT Sport 3
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8sNFoUGvfY6agwuGgcvjYA/ts
-
-#EXTINF:-1,TNT Sport 4
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-V9vW5LAQZz-NziYWcZ2ep/t
-
-#EXTINF:-1,TEN 1 (SONY LIV)
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9JGmMJUm5WznC085NBIo9R/ts
-
-#EXTINF:-1,TEN 2 (SONY LIV)
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_cQS_lXkx7qApDRFySonHw/ts
-
-#EXTINF:-1,TEN 3 (SONY LIV)
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_G3x6qgWw1nipsFewtQ-Ui/ts
-
-#EXTINF:-1,TEN 4 (SONY LIV)
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-srcrPaOiFb70_Wa_J6hsg/ts
-
-#EXTINF:-1,TEN 5 (SONY LIV)
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8ObNuRh6Yng49WaE9rtSXo/ts
-
-#EXTINF:-1,B@in sport 1
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8
-
-#EXTINF:-1,B@inSports 2
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
-
-#EXTINF:-1,B@in Sports 3
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
-
-#EXTINF:-1,B@in Sports 4
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
-
-#EXTINF:-1, B@in Sport 5
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
-
-#EXTINF:-1,B@in Sport 6
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
-
-#EXTINF:-1,B@in Sport 7
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8
-
-#EXTINF:-1,B@in Sport 8
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
-
-#EXTINF:-1,WWE FightSport
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvlwgh_lkyiL7mS_ECY2JWA/ts
-
-#EXTINF:-1,A SPOR HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmW7qg_e15XJ2sCa0gDXCXs/ts
-
-#EXTINF:-1,S Sport TR
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjenZPxOEnYBk4p9L0YCS6k/ts
-
-#EXTINF:-1,S Sport 2
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjTRrs4ZjkoTxv9zxhnVSHg/ts
-
-#EXTINF:-1,TRT 3 SPORT
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjQoTlfQWfew4ZDa23SWLzs/ts
-
-#EXTINF:-1,TRT YILDIZ HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shgEsigbVIM8sfUsr822Pgio/ts
-
-#EXTINF:-1,Eurosport 1
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shiV7K0MU3mFTM5so76VPwYg/ts
-
-#EXTINF:-1,Eurosport 2	http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjZx2x8I7Bka8cGJH7Yumsg/ts
-
-#EXTINF:-1,V Sport Ultra HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shq08fu2538bFo_G-hQUVz9Y/ts
-
-#EXTINF:-1,Sport TV HD
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shlMXEW-bdumd2NcSvK6QTJE/ts
-
-#EXTINF:-1,Fight Box
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shjYcFccYT92ckdrf07KR06A/ts
-
-#EXTINF:-1,Man U TV
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shmNN-DslTmNMUQtN8gq7r54/ts
-
-#EXTINF:-1,Mahar E-sports
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvCEulcoxuBUku6iHGVW_Dk/ts
-
-#EXTINF:-1,Ginx Esports DE
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuPCajLPHbEAZmor3zMfXPo/ts
-
-#EXTINF:-1,Arena E-SPORT
-http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shpH9GwuDzEiuR7hdbzkYDiQ/ts
-
-
-#EXTINF:-1,UFC TEST EVENT
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8vY5OzBfNBSiJufgBSBPMq/ts
-
-#EXTINF:-1,Fight Box
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9i9ZAWhorngPC1rTdekg5s/ts
-
-#EXTINF:-1,FoxSport 
-http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-
-#EXTINF:-1,FoxSport 2 
-http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-
-#EXTINF:-1,Fox Sports 3 
-http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-
-#EXTINF:-1 ,Willow HD
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts
+#EXTINF:-1 ,M Entertainment
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPRDyMv4aiUl7pvgUNFAzws/ts
+#EXTINF:-1 ,5 Plus
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLqS4wA5WLEU7Ga3rTXqq2g/ts
+#EXTINF:-1 ,Mahar HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPfim2G2cmEd8oBpHoLFwgk/ts
+#EXTINF:-1 ,MM Movies 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdADnS9t1VZTHyg9SFGMBHaA/ts
+#EXTINF:-1 ,MM Movies 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFxWh4QRbD1P8Sj_tc22JCQ/ts
+#EXTINF:-1 ,MM Movies 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFkzXKxtTsz_zIzblIf_kP0/ts
+#EXTINF:-1 ,MM Movies 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCH3RGoJkklNBTnHIFgSXKw/ts
+#EXTINF:-1 ,Movies 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKohGY6XBKesLwunXKtf2HE/ts
+#EXTINF:-1 ,Movies 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNlWhT4ZTZPFSxR4iRYrPSA/ts
+#EXTINF:-1 ,Movies 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBHneg4oFwOctzvsOVGYER8/ts
+#EXTINF:-1 ,Movies 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAXmq4vGTPl-LtPeQ-v_yPY/ts
+#EXTINF:-1 ,Movies 5
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFuCsZrAxpNrJhJnnF4QJxY/ts
+#EXTINF:-1 ,Movies 6
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEIjy7gUY62hBcuRkobkklk/ts
+#EXTINF:-1 ,Movies 7
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIIBF1S5sNqxeqJmpvvz_N0/ts
+#EXTINF:-1 ,Series 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNpAlvDYL9-n_tyz-8e7n0w/ts
+#EXTINF:-1 ,Series 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIc-C_JiRtKxkzvHnX9okdo/ts
+#EXTINF:-1 ,Cartoon 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC1jMLD6Wgveb96QC5lR_J4/ts
+#EXTINF:-1 ,Cartoon 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDu8k2KybEUMvlqyVc5rPtg/ts
+#EXTINF:-1 ,MWD Education
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOQsvtGZoYKv9OsQIpbfgZc/ts
+#EXTINF:-1 ,MM EDU
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFq25hOqi_ozcvT_tTD5ln4/ts
+#EXTINF:-1 ,MRTV NRC
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEHfYQgx43k41QXbo0Fsjw8/ts
+#EXTINF:-1 ,TVM
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNJADPmINfD0bAEqDArl7wA/ts
+#EXTINF:-1 ,Light
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCSbkpGolOk8nB0cLMxaycs/ts
+#EXTINF:-1 ,MITV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBAAw-bJuE1qtXoMVtd9lKg/ts
+#EXTINF:-1 ,MVTV Myanmar
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPh9wEKHIEXJ3lbR6RTeAYg/ts
+#EXTINF:-1 ,NHK World News
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLMP6FZNLr9E23G2F0CQYT0/ts
+#EXTINF:-1 ,TVE Spain
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNfpc6E045pHDoyxkYau9fU/ts
+#EXTINF:-1 ,TV5 Monde France
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNjJko19Bbe5EAptKbuU98U/ts
+#EXTINF:-1 ,Aljazeera English
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnm4v75hGRyyTIdZ2lqFi8/ts
+#EXTINF:-1 ,WION News By ZEE
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLjpz0EHGhxgZJOa_Rk0BNM/ts
+#EXTINF:-1 ,TRT World
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNhmCmP7f4GEZ-BO2ny4eKU/ts
+#EXTINF:-1 ,BBC World News
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIslMfhme5OLRRgOEGz99VE/ts
+#EXTINF:-1 ,BBC News HD (Asia)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHU198Noa6vHC-Royk-9QXQ/ts
+#EXTINF:-1 ,DW English
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKxxQTqkjyE6Adv8QIFjYxA/ts
+#EXTINF:-1 ,Astro Golf
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHpnuVLvE-QkB-zv4qVeLKI/ts
+#EXTINF:-1 ,One Golf
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdODxTLa1lIZ8seXP4RJD1r8/ts
+#EXTINF:-1 ,V Sport Golf
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHNxLixCDUBHR7V6qafkEGM/ts
+#EXTINF:-1 ,RT English
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIyR7694plW4x1WNi9wHOGc/ts
+#EXTINF:-1 ,Bloomberg Asia
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCilcJMeyBnW98TXrrihq54/ts
+#EXTINF:-1 ,Channel News Asia
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNACKPWKE3hluRjk4TCy-hg/ts
+#EXTINF:-1 ,HBO Europe
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdN_pFp1S4HobwAvvQrIXN98/ts
+#EXTINF:-1 ,HBO
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCf318CJntFxDu_0RLmKzMY/ts
+#EXTINF:-1 ,HBO 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdII514reZ_kvPMhNKcjxspk/ts
+#EXTINF:-1 ,HBO 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdECg344LDMIegtactCTsU3M/ts
+#EXTINF:-1 ,HBO Family
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIVfOCWwnGHtyiHq--oe3XI/ts
+#EXTINF:-1 ,HBO HIts
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC9gk_W8ayRHOT52yEZDJTg/ts
+#EXTINF:-1 ,Cinemax Europe
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHtfBuv2rY5cFGWMG3o1MXM/ts
+#EXTINF:-1 ,Cinemax
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdE53W4ckdCYG7mGfrPCt9R0/ts
+#EXTINF:-1 ,Cinemax 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEWhYtZSjAT76h27Z4FJVIo/ts
+#EXTINF:-1 ,&Privé HD [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOb-s8m3iU1FlUUF80ASeM0/ts
+#EXTINF:-1 ,Star Movies HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHO19T9mK2djlDvXBkM-TJ8/ts
+#EXTINF:-1 ,SONY PIX HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIP5CmJjYsy9yrg8jan8sI0/ts
+#EXTINF:-1 ,&flix HD [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdM0jHB_5SoKg5-J346BEr5k/ts
+#EXTINF:-1 ,Filmbox Family
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMWTjti_BX-08WznxvZZNXY/ts
+#EXTINF:-1 ,Fox Movies
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdF6aLNyciIVEb2MCO0m0yQ4/ts
+#EXTINF:-1 ,Filmbox Extra
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdL1vdqz8dGW6dTw-nlGfUfM/ts
+#EXTINF:-1 ,FilmBox Premium
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBxqj0-v4pZF9fsvOWE4R-c/ts
+#EXTINF:-1 ,Filmbox Arthouse
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNE6mQTcj1Xed8OE7KL5Lnc/ts
+#EXTINF:-1 ,Cinemachi Action
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJjZ3KbI8dObo3MDE4hHhE4/ts
+#EXTINF:-1 ,Cinemachi Max
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOOHyqyeABv89T7UwuXAc8w/ts
+#EXTINF:-1 ,Cinemachi
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKiDj9oY27nB1tdk2xTHKHM/ts
+#EXTINF:-1 ,Cinemachi Xtra
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGuvJ1C7MYKuMZpmgiEeBqE/ts
+#EXTINF:-1 ,Hits
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBzuOZzg0yrPhmlWom6Y3Ps/ts
+#EXTINF:-1 ,Hits Now Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHuTP3c98cd_7PuXhykk0dE/ts
+#EXTINF:-1 ,Hits Movies
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdL_ZrCJz8gz1z9YiJTdJTKI/ts
+#EXTINF:-1 ,WB TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdG28FYF4GSgVKdx4cb94qx4/ts
+#EXTINF:-1 ,Thrill
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMv-NeWjOJW8hRF6Wx-tieo/ts
+#EXTINF:-1 ,Rock Entertainment
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFl5yKqpFtBmVB_ybGST0kA/ts
+#EXTINF:-1 ,AXN
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAIfXLxvuR4eelo5jky86R0/ts
+#EXTINF:-1 ,Kix
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdB86--B3CYFS4sUo-Ww2gBY/ts
+#EXTINF:-1 ,Celestial Classic  Movie
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHmWswG6bQ1_w7SmfPJBuL0/ts
+#EXTINF:-1 ,TVN
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOolaUhENQFbhwBCqElPuOM/ts
+#EXTINF:-1 ,BBC Lifestyle
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNx7hCu0CkEZrYDDLUjM9TA/ts
+#EXTINF:-1 ,BBC First
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEaT_gxUL3hmyCR9KZ6ofNM/ts
+#EXTINF:-1 ,BBC Earth
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPIzZ0_pdrA--KW4OPY3olU/ts
+#EXTINF:-1 ,SINEMA TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNFY9I6eCF2GgCtRX9ABtjE/ts
+#EXTINF:-1 ,RCM Classic Movies
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMNt1FVVdHL7Uf2TzAqw9Xc/ts
+#EXTINF:-1 ,Movies
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGMv3asSQVRqFEqRKZTy1jg/ts
+#EXTINF:-1 ,Animal Planet
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDTE71IffFU0XOM4N4v8HzI/ts
+#EXTINF:-1 ,MNC TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdM7ops7Fz-3bACgxmttN5kI/ts
+#EXTINF:-1 ,GTV INDO
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAziZk7UpKv0haJYv0-s51I/ts
+#EXTINF:-1 ,Movie Sphere
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMuo9_gmEsn0HtXbPwuwpmA/ts
+#EXTINF:-1 ,Fashion 4k
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOUxK3QA5_AWxdgkDupeTnk/ts
+#EXTINF:-1 ,World Fashion
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ768et3FoA93ttvoxaZOc/ts
+#EXTINF:-1 ,LEGO Kids
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLx-iRiEDRBmt9-5KVoIwb4/ts
+#EXTINF:-1 ,Nick JR
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBYQWaArtWaQwvjiSYuFfKc/ts
+#EXTINF:-1 ,Baby TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKlPU9fNAkiuodfv75WlP94/ts
+#EXTINF:-1 ,PBS Kids
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPG3lfVCfivdgTn_pwScBuE/ts
+#EXTINF:-1 ,Babyshark TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdG5IMQ_p1vIdtpQQftKl190/ts
+#EXTINF:-1 ,ZOOMOO
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFj7BI_iv_jFpRfLbJ2skcY/ts
+#EXTINF:-1 ,Cbeebies
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFeB7jrvp_qb2jlk2SmUGpg/ts
+#EXTINF:-1 ,Happykids Junior
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMSA9CcIPqeEe9h6Ent93RI/ts
+#EXTINF:-1 ,Animax MM
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJpRUgx7JMc0dqZ_5OOPbZY/ts
+#EXTINF:-1 ,Animal Planet
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC6yNENQg2xvpUCOMEnTzZI/ts
+#EXTINF:-1 ,Love Nature
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCgCqJ6xRRE2aGn1WWWrohU/ts
+#EXTINF:-1 ,Discovery Channel
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJw59MBSoegdrdSzGbsq6aU/ts
+#EXTINF:-1 ,Discovery Asia
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKS7XxZVF2jUiwzu12Rc5Kw/ts
+#EXTINF:-1 ,Global Trekker
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLTyPYd-k_9cg9VX73V70N4/ts
+#EXTINF:-1 ,AFN
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNM7kRzbhdExG7DPmvJoheQ/ts
+#EXTINF:-1 ,English Club TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMMStdTWbCUocoPI0kHptJ4/ts
+#EXTINF:-1 ,CGTN Documentry
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPeKIT1t0UnB9aUbHIDTSpA/ts
+#EXTINF:-1 ,&xplor [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFP1UvYles6uuvEICPzYHzg/ts
+#EXTINF:-1 ,Love Nature 4K
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAqoV4IU0FSgLTLZSlbNrB0/ts
+#EXTINF:-1 ,Loupe 4K
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNskTGh96P9ORTdXoDDIYnE/ts
+#EXTINF:-1 ,Clarity 4K
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdH5zMggygBK3LOh-1vhE0ZY/ts
+#EXTINF:-1 ,Fireplace 4K
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdM-kNgDcQ5_1Lzloi3uI7L4/ts
+#EXTINF:-1 ,SET HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLJ2yBPObBb8uNZp2Si2mWg/ts
+#EXTINF:-1 ,ZEE TV HD [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHtd4ucTxaF2vR2hxPt-LlE/ts
+#EXTINF:-1 ,Zee TV English Sub [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAO24s3ICEiCaKYbk1fAZSI/ts
+#EXTINF:-1 ,Star Plus HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdP8I5Tsx-_34t1jRIrG9kaA/ts
+#EXTINF:-1 ,Colors
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPHuJP3oTtas8U5Aka4xbWA/ts
+#EXTINF:-1 ,&TV HD [zee 5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKt3lJweuMe97rx0hGrnuN0/ts
+#EXTINF:-1 ,SAB HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLtiteaa-oBpBrEgaNHIeZA/ts
+#EXTINF:-1 ,AATH HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMscnOoOE9F2B93H7Q1PJpQ/ts
+#EXTINF:-1 ,Vasantham TV (SG)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPC0frfbLpQByXkwwv8A7Ig/ts
+#EXTINF:-1 ,Star Gold HD Tplay
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLVVteyUsnXL-6UkU2zzsuM/ts
+#EXTINF:-1 ,MAX HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKfx_WPft9hJtQv2P4WysQk/ts
+#EXTINF:-1 ,MAX 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJiuUImUv4nVHRMgthvZG70/ts
+#EXTINF:-1 ,&pictures HD [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNu5_TinZhbksA6znCkm-RY/ts
+#EXTINF:-1 ,Zee Bollywood [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKr2g35vX7HCYRqmF6inq4k/ts
+#EXTINF:-1 ,Zee Cinemalu [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHGj2Mh--7nNdkyJbPZz404/ts
+#EXTINF:-1 ,Zee Cinema [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNFQm9arRS6Rl7baGUUUqgE/ts
+#EXTINF:-1 ,Zee Classic [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdN5v-sqsvYscvMKfVqGDIzA/ts
+#EXTINF:-1 ,Zee Action [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdF6wua9u65Bjy6BGu6Vuh6o/ts
+#EXTINF:-1 ,Zee Zest [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdA6XrRDbLr8ynUNbCC-F-7c/ts
+#EXTINF:-1 ,Zee Anmol
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAu5Ua4qW4XxMwk0mQcSIYM/ts
+#EXTINF:-1 ,FX
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGqMa6FgV3MlaS32u98bzrM/ts
+#EXTINF:-1 ,Zing
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJRwnOKXPrlAPH1WF6zbGHQ/ts
+#EXTINF:-1 ,MTV Beats HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFFaUEN0bi5g0_hl98DweoY/ts
+#EXTINF:-1 ,Kalaignar TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNfmvuI6vkVvg7pWjdmCF7c/ts
+#EXTINF:-1 SUN Music
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCnOi8-M2KemUEObm-i4vZ4/ts
+#EXTINF:-1 ,SUN Adithiya
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIjq3rpF1oWP36tFI4dTldo/ts
+#EXTINF:-1 ,Tamil Vision HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMik3-9rBr0oOlB-O7wXhsQ/ts
+#EXTINF:-1 ,Star MAA Gold
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFld6CUjBez42xWj4haqlsQ/ts
+#EXTINF:-1 ,Star MAA HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFlC2o7NFWEMvPls5q9t4nQ/ts
+#EXTINF:-1 ,Star MAA Movies HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEx1o0PKfmLVDDER7Kasc-E/ts
+#EXTINF:-1 ,MN Music
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGJd44ynUQJ0vOWPUz_eVUg/ts
+#EXTINF:-1 ,ETV Telugu
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCFbRSiboh2MZQ7A-m9usnI/ts
+#EXTINF:-1 ,Zoom
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGtHw2XAin-YXNyfB0XRqPo/ts
+#EXTINF:-1 ,WWE
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKy29Akjfgye81YRpewh36A/ts
+#EXTINF:-1 ,A SPOR HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCtIpOI0dW1djv_Bvgw17DY/ts
+#EXTINF:-1 ,S Sport TR
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdErF_nm17WQqVoGMs2ZL40w/ts
+#EXTINF:-1 ,S Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdA_a_kBwlA4LKZK6tL_pgEg/ts
+#EXTINF:-1 ,TRT 3 SPOR
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGAoJzoPg7Y0u6xPtQR0PrU/ts
+#EXTINF:-1 ,TRT YILDIZ HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKSCvCaFlOFdcvF8lPcs2hc/ts
+#EXTINF:-1 ,Eurosport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLNa8LNaqOHQF419T-yViz8/ts
+#EXTINF:-1 ,Eurosport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDTJjOMnQUtYMh-xbPYJ7Ds/ts
+#EXTINF:-1 ,V Sport Ultra HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKvwNKmnKrdHY7DeMWRevLc/ts
+#EXTINF:-1 ,Sport TV HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIRcPCF_K2hAT-Sc-b7-sNY/ts
+#EXTINF:-1 ,Fight Box
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLQcHyXNLII2UrDsJCGnpCI/ts
+#EXTINF:-1 ,Man U TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLW5w6BGUBnbl5dUuOX7aRc/ts
+#EXTINF:-1 ,Mahar E-sports
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDo2j5w0k4Q80fV_gfaFUBk/ts
+#EXTINF:-1 ,Ginx Esports DE
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFkenGIe8OP2mAJ1LbmJY7E/ts
+#EXTINF:-1 ,Arena E-SPORT
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPJ6IBu2WdkaJU-Y2Kv5VbM/ts
+#EXTINF:-1 ,ANTV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOx4VsloiRYDgN0p2GKiOz8/ts
+#EXTINF:-1 ,SCTV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOL0yhbEHoqghQ-NIvj7khc/ts
+#EXTINF:-1 ,TV ONE
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdF_DRJytqzUBXlyfhWBf8DU/ts
+#EXTINF:-1 ,Trans 7 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJRbfJebqd1yDUqIuBQhoeM/ts
+#EXTINF:-1 ,CNN Indonesia
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLjiCB_sZV74T3OH9BujSTU/ts
+#EXTINF:-1 ,Trans TV HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHuzIep2piLmyQRwhdEfZyM/ts
+#EXTINF:-1 ,NHK World Premium
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCYYdOEQ6cEqLHmm7EHFF4c/ts
+
+#EXTINF:-1 ,CCTV-1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdG4pTc9_U12AiNYd8x-1hfE/ts
+#EXTINF:-1 ,CCTV-2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdE_IrS4hBGvS1rt0qIOZTh4/ts
+#EXTINF:-1 ,CCTV-3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKGThn-fEhP4YP2VamfobZU/ts
+#EXTINF:-1 ,CCTV-4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdH69hUPk2qAuuzL3bGCaLHs/ts
+#EXTINF:-1 ,CCTV-5
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBGvySjg7eg6wVE0N7Wa4g0/ts
+#EXTINF:-1 ,CCTV-5+
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdA-VIf_XcpqymAAg9z7kNCQ/ts
+#EXTINF:-1 ,CCTV-6
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKk0mIz8D6SLKxd7_gO4AHs/ts
+#EXTINF:-1 ,CCTV-7
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAXcv496IABbrG3JFYqe5P0/ts
+#EXTINF:-1 ,CCTV-8
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdI5992XWkAsrqoNmxaWgeeQ/ts
+#EXTINF:-1 ,CCTV-9
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEn2mJeg8P--DOzsPKJAmEk/ts
+#EXTINF:-1 ,CCTV-10
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHDUl4lyBNCwfkONTHTlOdE/ts
+#EXTINF:-1 ,CCTV-11
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMMoBGpE3qsTYpHKLX2FyrY/ts
+#EXTINF:-1 ,CCTV-12
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJp_GeIPcdEWC5Uinm6zqWY/ts
+#EXTINF:-1 ,CCTV-13
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJdGCp3_f1RWcsUoNFPJYqk/ts
+#EXTINF:-1 ,CCTV-14
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDcG2tfB39BMLQaqrswMqL4/ts
+#EXTINF:-1 ,CCTV-15
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLaO9wsdwd723N0HLvWF-Vc/ts
+#EXTINF:-1 ,CCTV-16
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOWQil_f18oxsA8os1pFwdI/ts
+#EXTINF:-1 ,CCTV-17
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCEy_L7tO5mIByfgzTlt1VQ/ts
+#EXTINF:-1 ,CGTN
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMSedi7OAqBeGgQ6wn3aH0I/ts
+#EXTINF:-1 ,D
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKueuy6oVHMCToqKLooU_lM/ts
+#EXTINF:-1 ,YTN
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPzyxVU-CA7OCEKcucMwAB0/ts
+#EXTINF:-1 ,KBS World
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIJ5a-1NfgW2eY0Fd5G-_a0/ts
+#EXTINF:-1 ,KBS 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKhwGT72U0Y-pEEvXcChDX0/ts
+#EXTINF:-1 ,Arirang TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIA5SV7hqAbg-9a4gGXBYek/ts
+#EXTINF:-1 ,Cartoon Network
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIxO98eyE6f37cfadd48_aE/ts
+#EXTINF:-1 ,Cartoonito
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGfhNu2Ze2aEXG49pyGWWn0/ts
+#EXTINF:-1 ,3HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKC_3IlOhAatJytQUCLSnWY/ts
+#EXTINF:-1 ,Thai PBS
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLEHtrPLbEC4aL0cVIQCMxo/ts
+#EXTINF:-1 ,Tennis Channel
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMECIEG-QLE7QjRfzf2tNQk/ts
+#EXTINF:-1 ,One HD 31
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAnNR02Ml72jbOsJoBBaCIU/ts
+
+#EXTINF:-1 ,RTM Okey Malaysia
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdL0zB0vmLMpHFprJBQ5J5jM/ts
+#EXTINF:-1 ,Workpoint TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMvPPTusDpHUBe8JMcWkLug/ts
+#EXTINF:-1 ,TV 5 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCDwSB0fVSklj-wsDaApgBY/ts
+#EXTINF:-1 ,CNN
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdF3RydOJtlY_481UuTVz2eA/ts
+#EXTINF:-1 ,Nickelodeon
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGHjXucHrf30oAFvii_ubAY/ts
+
+#EXTINF:-1 ,Colors CIneplex Bollywood HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFqvH4StIn4duoTQIGbgvI0/ts
+#EXTINF:-1 ,LFC TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEE51crg4Kwfsj-wFq9ngkc/ts
+#EXTINF:-1 ,EPL 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
+#EXTINF:-1 ,EPL 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC8ttQfzFCmEeV7vhxqIaN4/ts
+#EXTINF:-1 ,EPL 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
+#EXTINF:-1 ,EPL 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnlQnFFSvZmEhAn2e47uTI/ts
+#EXTINF:-1 ,EPL 5 SD For Slow Network
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOhS7fBmSIoPEiVOZUqIUqA/ts
+#EXTINF:-1 ,EPL 5 (Live)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+#EXTINF:-1 ,EPL 5 (Live HD)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBEn4MEEw8vOaDvYxPZiK9Y/ts
+#EXTINF:-1 ,EPL 6 Highlight
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAqw5kgOxovYJ63oa8omaNM/ts
+#EXTINF:-1 ,EPL 7
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFTOtHbtYhsSFSp9DgEF-BU/ts
+#EXTINF:-1 ,Laliga 1 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNvRqvE2BrfNdHxgfN24GBI/ts
+#EXTINF:-1 ,Laliga 2 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
+#EXTINF:-1 ,Play sports 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOOVkPXYLEez93vSl15czg4/ts
+#EXTINF:-1 ,Play Sports 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCN-4hTelXuygvOV9k4v5OA/ts
+#EXTINF:-1 ,Play Sports 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHW2t8HW97oWJuI55m_jeoE/ts
+#EXTINF:-1 ,Eleven Sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJdnQrorJ66R4yDRvS5sWsI/ts
+#EXTINF:-1 ,Eleven Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdM3gOlBxyB9rrWglIyAc7zs/ts
+#EXTINF:-1 ,Eleven Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC-8fPO61truzRR63H_dBkY/ts
+#EXTINF:-1 ,Eleven Sport 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIuALGM4k96-6c8-8lFacGU/ts
+#EXTINF:-1 ,Eleven Sport 5
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFgDMNfHnouYoG5fpQyNBhI/ts
+#EXTINF:-1 ,Eleven Sport 6
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkrnQYO_OBVcwbHhKQpXPM/ts
+#EXTINF:-1 ,TEN 1 (SONY LIV)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHuuv59E1KVbf7igXqf3pdU/ts
+#EXTINF:-1 ,TEN 2 (SONY LIV)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJnGJQRG65ByPiRj7pNCwj4/ts
+#EXTINF:-1 ,TEN 3 (SONY LIV)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFu5qZPWHhBAnH6scmG0HDg/ts
+#EXTINF:-1 ,TEN 4 (SONY LIV)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGAqWmtfS7YkmzqPBGr_J_4/ts
+#EXTINF:-1 ,TEN 5 (SONY LIV)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdN5sfOYMuIzX3XpEYH9x6g8/ts
+#EXTINF:-1 ,SSC Sport (Saudi League)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNNqK1zmzBbR20mjo_00uU4/ts
+#EXTINF:-1 ,TNT Sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBehglCA5FY6k7IlZU6DQ1U/ts
+#EXTINF:-1 ,TNT Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEufUqFsm6b3TV9w1KSvy9M/ts
+#EXTINF:-1 ,TNT Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGutEKiKq6qzsjGRObk2qUM/ts
+#EXTINF:-1 ,TNT Sport 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMGlgfcaUg_JsEB05kqpMt0/ts
+#EXTINF:-1 ,Match Futbol 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBiKXq0vLUjIrVzWFnrDd-I/ts
+#EXTINF:-1 ,Match Futbol 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDv5rhnOJ3LORsfsNqpWpd4/ts
+#EXTINF:-1 ,Match Futbol 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIynhCaQGUj70mk-KLhQKgk/ts
+#EXTINF:-1 ,Bollywood HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGZdM-D2u_3g8TokpZMQxYY/ts
+#EXTINF:-1 ,Arenasport 1 Premium
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEwuJg1i28P9a_iIrAcRVcE/ts
+#EXTINF:-1 ,Arena Sport 2 Premium
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdI1O7pw7mvJ96pQ_poMDQGM/ts
+#EXTINF:-1 ,Arenasport 3 Premium
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKCUwcs_tqv74rcQKG30Go4/ts
+#EXTINF:-1 ,Arena Sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOBXze6MvfgdOfKkHZQH1_I/ts
+#EXTINF:-1 ,Arena Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMxBGERfPf_9cv0zR5KWka8/ts
+#EXTINF:-1 ,Arena Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdG85RnzMJsIqrEOjABfK38w/ts
+#EXTINF:-1 ,Arenasport 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAqizLDj_2hM4FiBQTbI0Vc/ts
+#EXTINF:-1 ,Arena Sport 5
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOqTKjirmDDfSvt5_5mFndY/ts
+#EXTINF:-1 ,Arena Sport 6
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKpvHXACpAttEvQVVeUylOo/ts
+#EXTINF:-1 ,Arena Fight
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFh8CACWKdTI2jRt08NFokk/ts
+#EXTINF:-1 ,Arena sport 1x2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIlYNRYiWf5yyWODm_FKWgg/ts
+#EXTINF:-1 ,Beinsport 1 Indo
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGxsiX5HHmi05oQ6LHo95_I/ts
+#EXTINF:-1 ,Beinsport 3 Indo
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEzGi9mHJ-DOg1Hopdn6UC8/ts
+#EXTINF:-1 ,Supersport Football HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLxfAQg8FmN-GL5PxF1ki40/ts
+#EXTINF:-1 ,CH7 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGAdPn-JQw_Nj0Lkq8pdBKk/ts
+#EXTINF:-1 ,Astro Super Sport Plus
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNt7d7_QfHZRS-ho_J3vsn8/ts
+#EXTINF:-1 ,NBC GOLF
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIFIfUBWoyK7tcqCGvtVCHk/ts
+#EXTINF:-1 ,Real Madrid TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMVShxPLpzseZF88MRqqy1Y/ts
+#EXTINF:-1 ,UFC TEST EVENT
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdE73OJMfvJ-Qhn6ztZrG3Ms/ts
+#EXTINF:-1 ,KTV Plus
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJL1xHRMm9BcTF567M88uMQ/ts
+#EXTINF:-1 ,KTV Sport Plus
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDASmuuFoAjUeL2LDiFruRU/ts
+#EXTINF:-1 ,KTV Al Majlis
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBUyGFn2CiyqI6xTTRU5ifs/ts
+#EXTINF:-1 ,RT Arabic
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFmtYIyP47_ULX7qsFUFDB4/ts
+#EXTINF:-1 ,Aljazeera Arabic
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCeB9m4lWAtGqLQ0x6Y9OjY/ts
+
+#EXTINF:-1 ,Skynews Arabic
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHMXDk0f0mUW9o_YpE5fS68/ts
+#EXTINF:-1 ,Nippon TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIfdr6tf5v0HQsJvAwNmkY8/ts
+#EXTINF:-1 ,BananaSport03
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMAywamE0otFF8PZCXaB5bg/ts
+#EXTINF:-1 ,Anhui TV / 安徽卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLTE1rV05IL4bCVp1524Uvo/ts
+#EXTINF:-1 ,BTV 1 / 北京卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCnoPsCzZDnfg5_LP6rQ6Go/ts
+#EXTINF:-1 ,CETV 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdG9HvZnBsVR7N0h3LOdGwPg/ts
+#EXTINF:-1 ,CETV 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdL49ga_zgx-IJ4DYwRMLy7Q/ts
+#EXTINF:-1 ,CQTV / 重庆卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdI0r8bSoxDtFXlXs2Mk20Pk/ts
+#EXTINF:-1 ,Dongfang TV / 东方卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNB5tkam_5um2IgchsYiVDI/ts
+#EXTINF:-1 ,Dongnang / 东南卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdL-aMi8e4kV4R6rttWaMOro/ts
+#EXTINF:-1 ,Jiangsu / 江苏卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKgh_dJgxGWzgOONxF_MjqA/ts
+#EXTINF:-1 ,Gansu / 甘肃卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHBkKrBTaN6qRc09UGIWhqk/ts
+#EXTINF:-1 ,Guangdong / 广东卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdD1ZJd8aPDjLWwuCXFcV2VU/ts
+#EXTINF:-1 ,Guangxi / 广西卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJEArZQ6VArM4uB_TLbERiM/ts
+#EXTINF:-1 ,Guizhou / 贵州卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdP_OWgf8J1ASFLr3pawxbLw/ts
+#EXTINF:-1 ,Hebei / 河北卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDgBbgzKNys5vSPkpZnNC2I/ts
+#EXTINF:-1 ,黑龙江卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIb3TSe_rRxo5Th7h3OoW54/ts
+#EXTINF:-1 ,河南卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIUVI2ZRdCF2yyig5R6dZDQ/ts
+#EXTINF:-1 ,Hubei /湖北卫视
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJx97e_cl4jpBD89w3LqQ2s/ts
+#EXTINF:-1 ,Hunan TV /
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAs1Tdec8uAjNw3RlVgOroU/ts
+#EXTINF:-1 ,CNBC
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIZXKUHM--VxHWmkc6wRRG0/ts
+#EXTINF:-1 ,B4u Music
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAgsX-gK-jMubiXErOGHa68/ts
+#EXTINF:-1 ,Documentry 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCfV4-dFigflZ6lNliWUceg/ts
+#EXTINF:-1 ,EBS 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdO4ZTuyb2mLG02tuK4KdxSM/ts
+#EXTINF:-1 ,EBS 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDpkE-2teed7ZwckGDPG_g0/ts
+#EXTINF:-1 ,EBS +2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAv-CDaNtcGYJ2XwSc0FzW0/ts
+#EXTINF:-1 ,EBS E
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLINqaFgpx7XcSWkNIc1MDs/ts
+#EXTINF:-1 ,EBS Kids
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdL4blG2CvagbD8gXVew4DnI/ts
+#EXTINF:-1 ,KBS Kids
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDqOg_Vtzc6AlkLGH9OkWFo/ts
+#EXTINF:-1 ,KBS Drama
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNti6Wb3RmGzXZ30V8l8XQQ/ts
+#EXTINF:-1 ,KBC SBS
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNZ0SA5elhNWcpPHiQYUgWk/ts
+#EXTINF:-1 ,The Kpop
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMQ6hlJZUNhAtCQ-5NZXj5o/ts
+
+#EXTINF:-1 ,Xing kong
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKpMWgO5Gy0dyxoeSKWWnI4/ts
+#EXTINF:-1 ,MWD Variety
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNt0B30iV07jdYXUrLKjHms/ts
+#EXTINF:-1 ,Golden Land
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJbDOueVcLVBqR0rFQNj5f4/ts
+#EXTINF:-1 ,MRTV Parliament
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdG7G30-G0KWJritWEiQn3qw/ts
+#EXTINF:-1 ,City FM
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMhrRKL1p0oUViX_8PZ3Yhw/ts
+#EXTINF:-1 ,Myanmar International Radio
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIgXDaQ4qb8NsaP9XLrk3Uk/ts
+#EXTINF:-1 ,Star FM
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKTLiETzT_SuyGSu43gg5-g/ts
+#EXTINF:-1 ,Thazin FM
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDavvgD5t0-iC25rXOMEwuk/ts
+#EXTINF:-1 ,Mandalay FM
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdE7RhP3EttfkJsn3HjOw8Ig/ts
+#EXTINF:-1 ,Friend FM MM
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPdf_Df5-X8rBqNzUBF7bL8/ts
+#EXTINF:-1 ,Shwe Ayeyar FM
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdH_tpcz7G2dF_1-xH-VD0qQ/ts
+#EXTINF:-1 ,KBS Korea On Air
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdH0BukBHnXLUKRKy7F4EzRs/ts
+#EXTINF:-1 ,Fox News Live US
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMoSaHGBDhMenSXa9SQKFzY/ts
+#EXTINF:-1 ,NASA TV LIVE
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGu4xdzQrmEUzM23Nifmt84/ts
+#EXTINF:-1 ,SBS News
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLmJ7PojFBJusmziBJzXhBY/ts
+#EXTINF:-1 ,SBS News
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLmJ7PojFBJusmziBJzXhBY/ts
+#EXTINF:-1 ,Euro News English
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEDgbvFddj6V1E5rErw8oAc/ts
+#EXTINF:-1 ,Nat Geo WIld
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGBhiuVHdHVTFHJky5gmy0Y/ts
+#EXTINF:-1 ,Nat Geo
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIL8xzX5dRtptmmodzWMUfA/ts
+#EXTINF:-1 ,Astro Premier
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEiNwGQ7miKdY9PjY1ATKf0/ts
+#EXTINF:-1 ,Red Bull TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCW9znqi2os8tC4SgyTatfk/ts
+#EXTINF:-1 ,Beinsport 1 Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdD563hl48kjltWoG-VBF23s/ts
+#EXTINF:-1 ,Beinsport 2 Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEjDRf6FZ-NYOklUNpUY7fE/ts
+#EXTINF:-1 ,Beinsport 3 Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPbOygSIRxXl89AMkJEBygc/ts
+#EXTINF:-1 ,SSC Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCnVo_nUB_OGxnwud9GctBE/ts
+#EXTINF:-1 ,SSC Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAxuafZ1TY6o8TYj7PScKL0/ts
+#EXTINF:-1 ,SSC Sport 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNeoYbZ7pTngxFbQC_PbrDw/ts
+
+#EXTINF:-1 ,Myanmar Audio Movie
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMtaLk-XijKZ2eBbOa1tA40/ts
+#EXTINF:-1 ,SPOTV 1 Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEHdnIkgitJ51-pJ9pGGFmk/ts
+#EXTINF:-1 ,SPOTV 2 Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJC-kHogZufVhdG7D9kd-ok/ts
+#EXTINF:-1 ,V Sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMjPzpJdSNWdZEAXGQYs5qw/ts
+#EXTINF:-1 ,V Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdD5zPlkp7GKq6zk2nx9mU1A/ts
+#EXTINF:-1 ,MTV Europe
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDo3fDKQpLswzkpI-5uVRF8/ts
+#EXTINF:-1 ,MTV Hits
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdP2LEEGwg4C8aYZbH9L4PiQ/ts
+#EXTINF:-1 ,History
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDNp9t7gsVfndMsnfASD41Q/ts
+#EXTINF:-1 ,TPF Test Live Only
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHdbpdiBNEbhLvJk_ICux8Q/ts
+#EXTINF:-1 ,Prima Sports
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBvNPxY5X9-j5z1iG0ZohPI/ts
+#EXTINF:-1 ,V Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOCI8brUfqiwlT0ghrhUGKk/ts
+#EXTINF:-1 ,SUN LIFE Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPnrBpgguakmqZ2HTHgBaIw/ts
+#EXTINF:-1 ,UEFA Live 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKjBrK8_VFF6HM-W60_hvF0/ts
+#EXTINF:-1 ,UEFA Live 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHZrs7yJWckPUNesrriC7-4/ts
+#EXTINF:-1 ,UEFA Live 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGaVmGGYI82Orpy4vLDGR2A/ts
+#EXTINF:-1 ,Beinsport 1 Thailand
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNoW2UyTKc3E34IzjHXEGF4/ts
+#EXTINF:-1 ,Beinsport 2 Thailand
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNsXCqkBP0AA7K4QSEcmJNg/ts
+#EXTINF:-1 ,Orange Sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDg1pRLdgCZJ0vx5unRY2Hk/ts
+#EXTINF:-1 ,Orange Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdG05mMCFw31bviOZRRyry_s/ts
+#EXTINF:-1 ,Orange Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEHRhuJbESeKeB_UuBDByZo/ts
+#EXTINF:-1 ,Astro premier Sports
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBqVznW61o6YCUZhEoCrBLo/ts
+
+#EXTINF:-1 ,TPF 2 Test by Thai
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPd8a5QTTAnBDPMiFgDrRXc/ts
+#EXTINF:-1 ,NBA TV ID
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEzWRpwDD16Ml4yYAZN2QJE/ts
+#EXTINF:-1 ,K+ Korean Entertainment
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIZfbE70-FYgA5xCI_Soagk/ts
+#EXTINF:-1 ,Phoenix Info News
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFWHSDp_dimQHWv0pV-20hg/ts
+#EXTINF:-1 ,Phoenix Chinese
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOMh80HBnB-U9PmvNGO8EGc/ts
+#EXTINF:-1 ,MBC America
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEHQvmOaqMNlHdZRVDrYCv4/ts
+#EXTINF:-1 ,Celestial Movies
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGYdhsvlKpsUV3gDVpLOuHw/ts
+#EXTINF:-1 ,Channel 8 (SG)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNtR9AazXUru0QBvyNTEGXM/ts
+#EXTINF:-1 ,IQIYI Chinese Drama
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPAw8mr0NxdfUJRV7qbDD-w/ts
+#EXTINF:-1 ,HBO Hits
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdO_f1pV1yw7PaNoFgsYxhfw/ts
+#EXTINF:-1 ,HBO Family
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMdNt21bQ8BLVy6ZTD0U994/ts
+#EXTINF:-1 ,HBO Signature
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdM2-lS07H3d5CB7vzUeq7xM/ts
+#EXTINF:-1 ,HBO
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBOhqj4UnlWb_q2Z3Fd_jks/ts
+#EXTINF:-1 ,Cinemax
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMpXloHY6Dwd-1z7ImSyz7U/ts
+#EXTINF:-1 ,Astro Cricket
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLPn6koQnba141QJOeOQbr4/ts
+#EXTINF:-1 ,NHK G
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEh8uqJFSjXX3-Gn9Q2p6ao/ts
+#EXTINF:-1 ,Fuji TV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJHt0YmSpfBhomgudB43Lo/ts
+#EXTINF:-1 ,NHK BS1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHllPXGs3diitvudCkE2t_s/ts
+#EXTINF:-1 ,NHK BSP
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdI_Q58hn1Uw2dl9cC0QnYs4/ts
+#EXTINF:-1 ,Colors Cineplex HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLllkTmSGsygU5ncJ0qrPHw/ts
+#EXTINF:-1 ,MTV HD+
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEAiYxiteNBPanvDfYQHfkc/ts
+#EXTINF:-1 ,Colors Super
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGUDzz1c5Mj_852bswnMpRQ/ts
+#EXTINF:-1 ,Zee Telugu [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC3g1-8CFDjLQl_Lqf-z7x0/ts
+#EXTINF:-1 ,Orange Sport 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLrl2DRWCQbpbMpxsF869MY/ts
+#EXTINF:-1 ,The K-pop
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBb9YzYh1mJCx0fuHcBd82o/ts
+#EXTINF:-1 ,Thai 8
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKmD0uFY67xB3bF9Vh4hRSE/ts
+#EXTINF:-1 ,EBC Movies
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdO2T2JoZ_6c_obTW2P3oiBs/ts
+#EXTINF:-1 ,EBC Foreign Movies
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBHONbyAm_EFufFwoP9bg7k/ts
+#EXTINF:-1 ,TBS
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHaxDVWYLRqqi2WHm2wVfxM/ts
+#EXTINF:-1 ,wowow
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdA3soiwxNQgbezj1Mi_2IfQ/ts
+#EXTINF:-1 ,WOWOW Live
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEvQSVZJFEH1_oM5Fvrpnis/ts
+#EXTINF:-1 ,WOWOW Cinema
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPSKA1mHxKc8o058QVgvr6g/ts
+#EXTINF:-1 ,BS japan Movie
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLvzX9A2zApcoolcqOoWM4U/ts
+#EXTINF:-1 ,JTBC
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdH4rvzX7ybw6Uj_p5v4cvUg/ts
+#EXTINF:-1 ,France .5
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHtugPubYG2CIxU6WQdnjs4/ts
+#EXTINF:-1 ,LS Time Movies
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkWpPy6bmhfULA5OOVHl0U/ts
+#EXTINF:-1 ,Lotus Macau
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHu5V2xZAcEYLXOetZ0ByQ4/ts
+#EXTINF:-1 ,China Movie
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdELkGK9IRH5XRWTl-g35wT8/ts
+#EXTINF:-1 ,GMM 25
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC-wZ_hfsl-WGbb7yaPKG-k/ts
+#EXTINF:-1 ,Mono 29
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCmFXXTp6n3HXPRTXaL7Lpg/ts
+#EXTINF:-1 ,NBT
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOmHsH9S7p5mnG0SRbUKhFQ/ts
+#EXTINF:-1 ,MCOT | 30
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDufVh4qdOmytYQHVITEBzw/ts
+#EXTINF:-1 ,M Channel
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLitfmwM4aAQd4oCbzIcpFM/ts
+#EXTINF:-1 ,CCTV Golf
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIAGXF1-78UEC-VQEeuuL_k/ts
+#EXTINF:-1 ,Bosi Golf
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFkhkY-fkpn-LbromH3acJk/ts
+#EXTINF:-1 ,PPTV | 36
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFF2g8oULJXtIXTro3XchMY/ts
+#EXTINF:-1 ,AmarinTV | 34 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHutYblsEBXp_NmcD7KyAG8/ts
+#EXTINF:-1 ,Zee Café [zee5]
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdD-7k6kvpsP5eV97mx0hcis/ts
+#EXTINF:-1 ,ESPN Extra
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHCIyNlfhNRSXwKsJfpxslM/ts
+#EXTINF:-1 ,ESPN
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJ5MCaHkXVQQ-ITZyxNc_TU/ts
+#EXTINF:-1 ,ESPN 3 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdACKFP2IMJcZc7zVHXY3uJY/ts
+#EXTINF:-1 ,ESPN 2 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDeacRThCHj5THKWRMComJg/ts
+#EXTINF:-1 ,Music India
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJReVupiAYgKfWfoeErmKCM/ts
+#EXTINF:-1 ,Bollywood Classic
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJCseOBX_AfEjNavgLx35HQ/ts
+#EXTINF:-1 ,Colors Cineplex Superhit
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDbLwdNndyifrj3lMuboK8s/ts
+#EXTINF:-1 ,Bollywood Prime
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFRwJrQg_2RK24wuZWih_vM/ts
+#EXTINF:-1 ,TSN 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKpye0eAyBiqUMsGsFSwrSA/ts
+#EXTINF:-1 ,TSN 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCFK6-FoBVISfdSWc3zTkX8/ts
+#EXTINF:-1 ,TSN 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMd9nnF4YL12Jlz_H36uQdg/ts
+#EXTINF:-1 ,TSN 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKR12lqhvKsmfV0fClN84gI/ts
+#EXTINF:-1 ,TSN 5
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLQEJYTS4tZ-s2JNwpHEeV0/ts
+#EXTINF:-1 ,Skysports Bundesliga
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLRgYOeVszEZrYZOOQGHmuM/ts
+#EXTINF:-1 ,Star Vijay India (Test)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHY7igzZER1tYNPSe2ezRBA/ts
+#EXTINF:-1 ,SS Sports Select 1 (Test)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCVEjDG78fCfNV47opTCKDE/ts
+
+
+
+
+
+
+#EXTINF:-1,TrueHD1
+https://edge2.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1,TrueHD2
+https://edge2.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1,BEINSP1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1,BEINSP2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1,TrueSport2
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1,TrueSport3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1,TrueSport6
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1,TSports7
+https://ctrl.laotv.la/live/TSports7/index.m3u8
+#EXTINF:-1,THD7
+https://ctrl.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1,WWE
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8es6yhiPYj7Qz1gx-JBqzB/ts
-
-#EXTINF:-1,A SPOR HD
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-ieOK9zSg9K5dOdAzXjqrt/ts
-
-#EXTINF:-1,S Sport TR
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x9wpUsekGdMLhkpork6KdcW/ts
-
-#EXTINF:-1,S Sport 2
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8dXLX2eUNs6wWxZxQkGi19/ts
-
-#EXTINF:-1,TRT 3 SPOR
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8MAOWId5u2AsJRPqsLc7dl/ts
-
-#EXTINF:-1 ,Star Sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-
-#EXTINF:-1 ,Star sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-
-#EXTINF:-1,Start Sports 
-https://strm.yandex.ru/kal/start/start0.m3u8
-
-#EXTINF:-1,Star Sports 1HD 
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-
-#EXTINF:-1,Star sports 1SD 
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-
-#EXTINF:-1,BEK Sports West 
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-
-#EXTINF:-1,One Golf 
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-#EXTINF:-1,MUTV Sport 
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8 
-
-#EXTINF:-1,Real Madrid TV 
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8 
-
-#EXTINF:-1,Trace Sport Stars 
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,TVS Women Sports 
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-
-#EXTINF:-1,FOX WWW SPORTS 
-http://208.86.19.13:81/103.stream/index.m3u8
-
-#EXTINF:-1,sport Live 1 
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1, UEFA Live 1
-http://bananatv.org:25461/live/@5551/@5551/6469.ts
-
-#EXTINF:-1, UEFA Live 2
-http://bananatv.org:25461/live/@5551/@5551/6471.ts
-
-#EXTINF:-1, UEFA Live 3
-http://bananatv.org:25461/live/@5551/@5551/6472.ts
-
-#EXTINF:-1, UEFA Live 4
-http://bananatv.org:25461/live/@5551/@5551/6473.ts
-
-#EXTINF:-1,cctv1
-http://bananatv.org:25461/play/XMcSO6WzNzp3TJ_r56uoaJuSWGAEYFTPwfgrnhq63XM/ts
-
-#EXTINF:-1,CCTV 5 
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-#EXTINF:-1,TRT YILDIZ HD
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_VaJdcwjrdP3lylKyMPvf2/ts
-
-#EXTINF:-1,WB TV
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8lMiflB7jEolujpPtM6Yv2/ts
-
-#EXTINF:-1,TV4 Motor
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8HA7YgV180nE-tmQY1FbDJ/ts
-
-#EXTINF:-1, ####### DISCOVER #######
-http://bananatv.org:25461/play
-
-#EXTINF:-1,Animal Planet
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x8vt4vhECsJJjNIPMPBwKMt/ts
-
-#EXTINF:-1,Love Nature
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x_6iDoZHgeJxchJ5shNDG_4/ts
-
-#EXTINF:-1,Discovery Channel
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-lGXzizOp1z1U64VSOMRwv/ts
-
-#EXTINF:-1,Discovery Asia
-http://bananatv.org:25461/play/9JPDyyKaCmYRW80TR1h0_S0wff4caGgKsLyynIAm7x-N1L0nowfciyV3Pk6cQ42J/ts
-
-
-
-
-
-
-
-
+https://ctrl.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1,True ASIAN MORE
+https://ctrl.laotv.la/live/TSHD/index.m3u8
+#EXTINF:-1,STARMOVIE
+https://ctrl.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1,CCTV5+
+https://ctrl.laotv.la/live/CCTV5+/index.m3u8
+#EXTINF:-1,Boomerang
+https://ctrl.laotv.la/live/Boomerang/index.m3u8
+#EXTINF:-1,CartoonNetwork
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#EXTINF:-1,AnimalPlanet
+https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF:-1,Discovery
+https://ctrl.laotv.la/live/Discovery/index.m3u8
+#EXTINF:-1,Samrujlok
+https://ctrl.laotv.la/live/Samrujlok/index.m3u8
+#EXTINF:-1,AnimalShow
+https://ctrl.laotv.la/live/AnimalShow/index.m3u8
+#EXTINF:-1,PPT  HD
+https://ctrl.laotv.la/live/PPTVHD/index.m3u8
+#EXTINF:-1,SUN TV
+https://ctrl.laotv.la/live/SunTV/index.m3u8
+#EXTINF:-1,China Movie
+https://ctrl.laotv.la/live/ChinaMovie/index.m3u8
+#EXTINF:-1,Hunan
+https://ctrl.laotv.la/live/Hunan/index.m3u8
+#EXTINF:-1,MONO29
+https://ctrl.laotv.la/live/Mono29/index.m3u8
+#EXTINF:-1,CHCA
+https://ctrl.laotv.la/live/CHCA/index.m3u8
+#EXTINF:-1,CCTV1
+https://ctrl.laotv.la/live/CCTV1/index.m3u8
+#EXTINF:-1,CCTV2
+https://ctrl.laotv.la/live/CCTV2/index.m3u8
+#EXTINF:-1,CCTV3
+https://ctrl.laotv.la/live/CCTV3/index.m3u8
+#EXTINF:-1,HIT
+https://ctrl.laotv.la/live/Hit/index.m3u8
+#EXTINF:-1,PhoenixNews
+https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1,PhxChinese
+https://ctrl.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1,CH8
+https://ctrl.laotv.la/live/SkyWorld/index.m3u8
+#EXTINF:-1,DongsenMovie
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1,THAIRATHTVHD
+https://ctrl.laotv.la/live/THAIRATHTVHD/index.m3u8
+ #EXTINF:-1,MCOT
+https://ctrl.laotv.la/live/Mcot/index.m3u8
+#EXTINF:-1,Longxiang
+https://ctrl.laotv.la/live/Longxiang/index.m3u8
+#EXTINF:-1,HBO
+https://ctrl.laotv.la/live/HBO/index.m3u8
+#EXTINF:-1,CINEMAX
+https://ctrl.laotv.la/live/Cinemax/index.m3u8
