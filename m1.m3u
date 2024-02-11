@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:1 tvg-logo="https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg"  group-title="Myanmar", Lwan
-https://upstream.to/embed-2xf4t2jm1quu.html
-
-#EXTINF:1 tvg-logo="https://tinyurl.com/27vhs8x9"  group-title="Myanmar", 5 Plus
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLqS4wA5WLEU7Ga3rTXqq2g/ts
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/2p88mkrf"  group-title="Myanmar", Mahar
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPfim2G2cmEd8oBpHoLFwgk/ts
